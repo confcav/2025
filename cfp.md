@@ -1,7 +1,7 @@
 ---
 layout: page
+title: Call for Papers
 ---
-### Call For Papers
 
 #### IMPORTANT DATES
 All deadlines are AoE (Anywhere on Earth)

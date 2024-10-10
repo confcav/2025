@@ -14,7 +14,7 @@ title: Organization
 [Grigory Fedyukovich](https://www.cs.fsu.edu/~grigory/), Florida Sate University
 
 #### Fellowship Chair
-Ning Luo
+[Ning Luo](https://ning0luo.github.io/), University of Illinois Urbana-Champaign 
 
 #### Artifact Evaluation Chair
 [Matthias Heizmann](https://www.iste.uni-stuttgart.de/institute/team/Heizmann/), University of Stuttgart
@@ -37,7 +37,7 @@ Ning Luo
 [Anthony Widjaja Lin](https://anthonywlin.github.io/), Technical University of Kaiserslautern
 
 #### Publication Chair
-[Steve Siegel](https://vsl.cis.udel.edu/siegel.html) 
+[Steve Siegel](https://vsl.cis.udel.edu/siegel.html), University of Delaware
 
 #### Publicity Chairs
 Ferhat Erata, Yale University

@@ -41,6 +41,7 @@ Ning Luo
 
 #### Publicity Chairs
 Ferhat Erata, Yale University
+
 [Hadar Frenkel](https://u.cs.biu.ac.il/~frenkeh3/), CISPA Helmholtz Center for Information Security
 
 #### Website Chair

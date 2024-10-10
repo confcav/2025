@@ -15,8 +15,7 @@ For previous winners of the award, please see the [main CAV award page](https://
 Nomination Deadline: TBA
 
 #### Award Committee
-| [Rupak Majumdar](https://people.mpi-sws.org/~rupak/), MPI-SWS (Chair) |
-|-----------------------------------------------------------------------|
-|[Ranjit Jhala](https://ranjitjhala.github.io/), University of California, San Diego|
-| [Alessandro Cimatti](https://dicenter.fbk.eu/contacts/alessandro-cimatti/), Fondazione Bruno Kessler |
-| [Işıl Dillig](https://www.cs.utexas.edu/~isil/), University of Texas, Austin |
+[Rupak Majumdar](https://people.mpi-sws.org/~rupak/), MPI-SWS (Chair)
+[Ranjit Jhala](https://ranjitjhala.github.io/), University of California, San Diego
+[Alessandro Cimatti](https://dicenter.fbk.eu/contacts/alessandro-cimatti/), Fondazione Bruno Kessler
+[Işıl Dillig](https://www.cs.utexas.edu/~isil/), University of Texas, Austin

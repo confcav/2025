@@ -18,6 +18,7 @@ title: Organization
 
 #### Artifact Evaluation Chairs
 [Matthias Heizmann](https://www.iste.uni-stuttgart.de/institute/team/Heizmann/), University of Stuttgart
+
 Tanja Schindler 
 
 #### Area Chairs

@@ -3,8 +3,7 @@ layout: page
 title: Organization
 ---
 #### Program Chairs
-[Ruzica Piskac](http://www.cs.yale.edu/homes/piskac/), Yale University
-
+[Ruzica Piskac](http://www.cs.yale.edu/homes/piskac/), Yale University <br>
 [Zvonimir Rakamaric](https://zvonimir.github.io/), Amazon (AWS)
 
 #### Local Chair
@@ -17,33 +16,24 @@ title: Organization
 [Ning Luo](https://ning0luo.github.io/), University of Illinois Urbana-Champaign 
 
 #### Artifact Evaluation Chairs
-[Matthias Heizmann](https://www.iste.uni-stuttgart.de/institute/team/Heizmann/), University of Stuttgart
-
+[Matthias Heizmann](https://www.iste.uni-stuttgart.de/institute/team/Heizmann/), University of Stuttgart <br>
 Tanja Schindler 
 
 #### Area Chairs
-[Philipp Rümmer](http://www.philipp.ruemmer.org/), University of Regensburg 
-
-[Eva Darulova ](https://people.mpi-sws.org/~eva/), Uppsala University
-
-[Erika Ábrahám](https://ths.rwth-aachen.de/people/erika-abraham/), RWTH Aachen University
-
-[Azadeh Farzan](https://www.cs.toronto.edu/~azadeh/), University of Toronto
-
-[Roderick Bloem](https://www.iaik.tugraz.at/person/roderick-bloem/), Graz University of Technology
-
-[Peter Müller](https://inf.ethz.ch/people/person-detail.mueller.html), ETH Zurich
-
-[Guy Katz](https://www.katz-lab.com/), Hebrew University of Jerusalem
-
+[Philipp Rümmer](http://www.philipp.ruemmer.org/), University of Regensburg <br>
+[Eva Darulova ](https://people.mpi-sws.org/~eva/), Uppsala University <br>
+[Erika Ábrahám](https://ths.rwth-aachen.de/people/erika-abraham/), RWTH Aachen University <br>
+[Azadeh Farzan](https://www.cs.toronto.edu/~azadeh/), University of Toronto <br>
+[Roderick Bloem](https://www.iaik.tugraz.at/person/roderick-bloem/), Graz University of Technology <br>
+[Peter Müller](https://inf.ethz.ch/people/person-detail.mueller.html), ETH Zurich <br>
+[Guy Katz](https://www.katz-lab.com/), Hebrew University of Jerusalem <br>
 [Anthony Widjaja Lin](https://anthonywlin.github.io/), Technical University of Kaiserslautern
 
 #### Publication Chair
 [Steve Siegel](https://vsl.cis.udel.edu/siegel.html), University of Delaware
 
 #### Publicity Chairs
-Ferhat Erata, Yale University
-
+Ferhat Erata, Yale University <br>
 [Hadar Frenkel](https://u.cs.biu.ac.il/~frenkeh3/), CISPA Helmholtz Center for Information Security
 
 #### Website Chair

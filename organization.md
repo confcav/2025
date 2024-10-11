@@ -17,7 +17,7 @@ title: Organization
 
 #### Artifact Evaluation Chairs
 [Matthias Heizmann](https://www.iste.uni-stuttgart.de/institute/team/Heizmann/), University of Stuttgart <br>
-Tanja Schindler 
+[Tanja Schindler](https://ai.dmi.unibas.ch/people/schindler/), University of Basel
 
 #### Area Chairs
 [Philipp Rümmer](http://www.philipp.ruemmer.org/), University of Regensburg <br>
@@ -37,6 +37,6 @@ Ferhat Erata, Yale University <br>
 [Hadar Frenkel](https://u.cs.biu.ac.il/~frenkeh3/), CISPA Helmholtz Center for Information Security
 
 #### Website Chair
-Jordan Schmerge, Yale University
+[Jordan Schmerge](https://www.linkedin.com/in/jordan-schmerge/), Yale University
 
 #### Program Committee

@@ -33,7 +33,7 @@ title: Organization
 [Steve Siegel](https://vsl.cis.udel.edu/siegel.html), University of Delaware
 
 #### Publicity Chairs
-Ferhat Erata, Yale University <br>
+[Ferhat Erata](https://ferhat.ai), Yale University <br>
 [Hadar Frenkel](https://u.cs.biu.ac.il/~frenkeh3/), CISPA Helmholtz Center for Information Security
 
 #### Website Chair

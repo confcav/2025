@@ -13,7 +13,7 @@ title: Organization
 [Grigory Fedyukovich](https://www.cs.fsu.edu/~grigory/), Florida Sate University
 
 #### Sponsorship Chairs
-[Borzoo Bonakdarpour](https://www.cse.msu.edu/tart/profile/borzoo), Michigan State University
+[Borzoo Bonakdarpour](https://www.cse.msu.edu/tart/profile/borzoo), Michigan State University <br>
 [Jana Hofmann](https://janahofmann.github.io/), Max Planck Institute for Security and Privacy
 
 #### Fellowship Chair

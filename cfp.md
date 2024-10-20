@@ -74,7 +74,7 @@ We do not discourage authors to put their submission on arXiv, but we strongly e
 
 Authors can include a clearly marked appendix at the end of their submissions that is exempt from the page limit restrictions. However, the reviewers are not obliged to read the contents of these appendices. Regular papers should contain original research and sufficient detail to assess the merits and relevance of the contribution. Papers will be evaluated on the basis of a combination of correctness, technical depth, significance, novelty, clarity, and elegance.
 
-Authors of accepted regular papers will be invited (but are not required) to submit a relevant artifact for evaluation by the artifact evaluation committee. Authors are encouraged to consult [SIGPLAN’s Empirical Evaluation Guidelines] (https://sigplan.org/Resources/EmpiricalEvaluation/) when reporting on empirical results.
+Authors of accepted regular papers will be invited (but are not required) to submit a relevant artifact for evaluation by the artifact evaluation committee. Authors are encouraged to consult [SIGPLAN’s Empirical Evaluation Guidelines](https://sigplan.org/Resources/EmpiricalEvaluation/) when reporting on empirical results.
 
 ##### TOOL PAPERS
 Tool papers should not exceed 10 pages, not counting references.

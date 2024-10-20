@@ -38,7 +38,7 @@ title: Organization
 
 #### Publicity Chairs
 [Ferhat Erata](https://ferhat.ai), Yale University <br>
-[Hadar Frenkel](https://u.cs.biu.ac.il/~frenkeh3/), CISPA Helmholtz Center for Information Security
+[Hadar Frenkel](https://u.cs.biu.ac.il/~frenkeh3/), Bar Ilan University
 
 #### Website Chair
 [Jordan Schmerge](https://www.linkedin.com/in/jordan-schmerge/), Yale University

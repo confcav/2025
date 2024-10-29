@@ -20,10 +20,10 @@ author: International Conference on Computer Aided Verification
 ###############################################
 
 navbar-links:
-  Organization: "organization"
   Call for Papers: "cfp"
-  Award: "award"
   Call for Workshops: "cfw"
+  Organization: "organization"
+  Award: "award"
 
 ################
 # --- Logo --- #

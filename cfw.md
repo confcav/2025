@@ -3,7 +3,7 @@ layout: page
 title: Call for Workshops
 ---
 
-#### CAV 2025: July 21-25, 2025, in Zagreb, Croatia 
+### CAV 2025: July 21-25, 2025, in Zagreb, Croatia 
 
 #### Important Dates
 All deadlines are AoE (Anywhere on Earth).
@@ -17,7 +17,8 @@ All deadlines are AoE (Anywhere on Earth).
 * Main conference: July 23-25, 2025
 
 #### Call for Workshops
-The 2025 Computer Aided Verification (CAV) Workshops provide an opportunity for participants to discuss topics in the broader verification related domains. CAV 2025 Workshops will be held on July 21-22, 2025 before the main conference. <br>
+The 2025 Computer Aided Verification (CAV) Workshops provide an opportunity for participants to discuss topics in the broader verification related domains. CAV 2025 Workshops will be held on July 21-22, 2025 before the main conference.
+
 Workshop proposals will be reviewed by the Workshop Chair along with the program chairs and members of the steering committee. Proposals must consist of the following two parts:
 
 Part I: Technical Information <br>

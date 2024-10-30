@@ -6,13 +6,13 @@ title: Call for Papers
 #### IMPORTANT DATES
 All deadlines are AoE (Anywhere on Earth)
 
-##### Paper submission: 
+##### PAPER SUBMISSION 
 * Full papers due: January 31, 2025 
 * Author Response Period: March 11 - 14, 2025
 * Author notification: April 2, 2025
 * Main Conference: July 21-25, 2025
 
-#### Submission Site
+#### SUBMISSOIN SITE
 Main submission site is [https://cav2025.hotcrp.com/](https://cav2025.hotcrp.com/)
 
 #### SCOPE
@@ -46,7 +46,7 @@ Topics of interest include but are not limited to:
 
 Submissions on a wide range of topics are sought, particularly ones that identify new research directions. CAV 2025 is not limited to topics discussed in previous instances of the conference. Authors concerned about the appropriateness of a topic may communicate with the conference chairs prior to submission.
 
-#### CAV Award
+#### CAV AWARD
 The CAV award is given annually at the CAV conference for fundamental contributions to the field of Computer-Aided Verification.
 
 CAV Award Nomination deadline: TBA

@@ -10,7 +10,7 @@ title: Organization
 [Alan Jović](https://www.fer.unizg.hr/en/alan.jovic#), University of Zagreb
 
 #### Workshop Chair
-[Grigory Fedyukovich](https://www.cs.fsu.edu/~grigory/), Florida Sate University
+[Grigory Fedyukovich](https://www.cs.fsu.edu/~grigory/), Florida State University
 
 #### Sponsorship Chairs
 [Borzoo Bonakdarpour](https://www.cse.msu.edu/tart/profile/borzoo), Michigan State University <br>

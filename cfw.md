@@ -3,7 +3,7 @@ layout: page
 title: Call for Workshops
 ---
 
-### CAV 2025 Workshops: July 21-22, 2025,
+### CAV 2025 Workshops: July 21-22, 2025
 Workshops hosted at Faculty of Electrical Engineering and Computing in Zagreb (walking distance from Westin Hotel where main conference is hosted)
 
 #### IMPORTANT DATES

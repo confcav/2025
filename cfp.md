@@ -6,13 +6,13 @@ title: Call for Papers
 #### IMPORTANT DATES
 All deadlines are AoE (Anywhere on Earth)
 
-##### PAPER SUBMISSION 
+#### PAPER SUBMISSION 
 * Full papers due: January 31, 2025 
 * Author Response Period: March 11 - 14, 2025
 * Author notification: April 2, 2025
 * Main Conference: July 21-25, 2025
 
-#### SUBMISSOIN SITE
+#### SUBMISSION SITE
 Main submission site is [https://cav2025.hotcrp.com/](https://cav2025.hotcrp.com/)
 
 #### SCOPE
@@ -65,7 +65,7 @@ Tool Papers (10 pages max, not anonymized)
 Industrial Experience Reports & Case Studies. (10 pages max, not anonymized)
 Papers in all three categories must be submitted by January 31, 2025 AoE, and should be in LNCS format. Simultaneous submission to other conferences with proceedings or submission of material that has already been published elsewhere is not allowed. The review process will include a feedback/rebuttal period where authors will have the option to respond to reviewer comments. The PC chairs may solicit further reviews after the rebuttal period.
 
-##### REGULAR PAPERS
+#### REGULAR PAPERS
 Regular papers should not exceed 18 pages in LNCS format, not counting references and appendices.
 
 Regular papers at CAV 2025 will follow a full double blind review process, which means that author names and affiliations must be omitted from the submission. Additionally, if a submission refers to prior work done by the authors, the reference should be made in the third person. These are firm submission requirements, and any regular paper that does not conform to these requirements will be rejected without review.
@@ -76,7 +76,7 @@ Authors can include a clearly marked appendix at the end of their submissions th
 
 Authors of accepted regular papers will be invited (but are not required) to submit a relevant artifact for evaluation by the artifact evaluation committee. Authors are encouraged to consult [SIGPLAN’s Empirical Evaluation Guidelines](https://sigplan.org/Resources/EmpiricalEvaluation/) when reporting on empirical results.
 
-##### TOOL PAPERS
+#### TOOL PAPERS
 Tool papers should not exceed 10 pages, not counting references.
 
 Tool papers should describe system and implementation aspects of a tool with a large (potential) user base (experiments not required, rehash of theory strongly discouraged). Papers describing tools that have already been presented (in any conference) will be accepted only if significant and clear enhancements to the tool are reported and implemented.
@@ -85,7 +85,7 @@ Tool papers will follow a single blind review process. They do NOT need to be an
 
 Tool papers will be provisionally accepted based on the manuscript. Authors of provisionally accepted tool papers must submit an artifact for evaluation by the artifact evaluation committee: final acceptance is conditional on successful artifact evaluation at the “functional” level. In special cases, where an artifact cannot be submitted, the authors should contact the Artifact Evaluation chairs to find alternate modes of artifact evaluation.
 
-##### INDUSTRIAL EXPERIENCE REPORTS AND CASE STUDIES
+#### INDUSTRIAL EXPERIENCE REPORTS AND CASE STUDIES
 Industrial Experience Reports and Case Studies should not exceed 10 pages, not counting references.
 
 These papers are expected to describe the use of formal methods techniques in industrial settings or in new application domains. Papers in this category do not necessarily need to present original research results but are expected to contain novel applications of formal methods techniques as well as an evaluation of these techniques in the chosen application domain. Such papers are encouraged to discuss the unique challenges of transferring research ideas to a real-world setting and reflect on any lessons learned from this technology transfer experience.

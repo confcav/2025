@@ -135,6 +135,7 @@ title: Organization
 [Vijay Ganesh](https://vganesh1.github.io/), Georgia Tech <br>
 [Viktor Kunčak](https://people.epfl.ch/viktor.kuncak), EPFL, Switzerland <br>
 [Wenxi Wang](https://wenxiwang.github.io/), The University of Virginia <br>
+[Yakir Vizel](https://csaws.cs.technion.ac.il/~yvizel/research/), The Technion, Haifa Israel <br>
 [Yedi Zhang](https://zhangyedi.github.io/#home), National University of Singapore <br>
 [Yu-Fang Chen](https://guluchen.github.io/), Academica Sinica Taiwan <br>
 [Yuxin Deng](https://basics.sjtu.edu.cn/~yuxin/), Shanghai Key Laboratory of Trustworthy Computing, East China Normal University, Shanghai, China <br>

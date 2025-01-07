@@ -74,7 +74,7 @@ social-network-links:
 #  telegram: yourname
 #  calendly: yourname
 #  mastodon: instance.url/@username
-#  bluesky: yourname
+  bluesky: confcav
 #  ORCID: your ORCID ID
 #  google-scholar: your google scholar
 #  discord: "invite_code" or "users/userid" or "invite/invite_code"
@@ -97,6 +97,7 @@ share-links-active:
   twitter: true
   facebook: true
   linkedin: true
+  bluesky: true
   vk: false
 
 # How to display the link to your website in the footer

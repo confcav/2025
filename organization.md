@@ -77,7 +77,7 @@ title: Organization
 [Damien Zufferey](https://dzufferey.github.io/), NVIDIA <br>
 [Dirk Beyer](https://www.sosy-lab.org/people/beyer/), LMU Munich, Germany <br>
 [Đorđe Žikelić](https://djordjezikelic.github.io/), Singapore Management University <br>
-[Duc-Hiep Chu](https://www.linkedin.com/in/duc-hiep-chu-538422142/), National University of Singapore / Google <br>
+[Duc-Hiep Chu](https://www.linkedin.com/in/duc-hiep-chu-538422142/), Google Research <br>
 [Elizabeth Polgreen](https://polgreen.github.io/), University of Edinburgh <br>
 [Elvira Albert](https://costa.fdi.ucm.es/~elvira/), Complutense University of Madrid, Spain <br>
 [Erika Abraham](https://ths.rwth-aachen.de/people/erika-abraham/), RWTH Aachen University <br>

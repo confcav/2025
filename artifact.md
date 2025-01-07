@@ -131,6 +131,45 @@ Because LNCS does not provide a standard placement for the badges, you need to e
 
 You can start with the following Latex snippet.
 
+```
+\documentclass{lncs}
+\usepackage{showframe} % print page margins, remove when positioning is satisfying
+\usepackage{graphicx} % necessary for inserting .pdfs
+\usepackage{hyperref} % "available" badge is a link to the actual DOI
+\usepackage[firstpage]{draftwatermark} % free badge placement
+
+\SetWatermarkAngle{0}
+%%%%%%%%% Use only one of the four following blocks
+% use this block if you received the the "reusable" badge
+\SetWatermarkText{\raisebox{12.5cm}{%
+\hspace{0.1cm}%
+\href{https://doi.org/10.1109/5.771073}{\includegraphics{1-available}}%
+\hspace{9cm}%
+\includegraphics{3-reusable}%
+}}
+
+% use this block if you received the "available" and the "functional" badge
+\SetWatermarkText{\raisebox{12.5cm}{%
+\hspace{0.1cm}%
+\href{https://doi.org/10.1109/5.771073}{\includegraphics{1-available}}%
+\hspace{9cm}%
+\includegraphics{2-functional}%
+}}
+
+% use this block if you received only the "functional" badge
+\SetWatermarkText{\raisebox{12.5cm}{%
+\hspace{10.62977cm}%
+\includegraphics{2-functional}%
+}}
+
+% use this block if you received only the "available" badge
+\SetWatermarkText{\raisebox{12.5cm}{%
+\hspace{0.1cm}%
+\includegraphics{1-available}%
+}}
+%%%%%%%%%%%%%%%%%% 
+```
+
 An example of the resulting paper is this [.pdf](https://github.com/danieldietsch/ae-badges/blob/main/examples/lncs/samplepaper.pdf).
 
 

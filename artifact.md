@@ -37,7 +37,7 @@ The artifact evaluation consists of two phases: the smoke-test phase and the ful
 
 In the smoke-test phase, reviewers will download artifacts, read the artifact instructions, and attempt to run the experiments. However, they will not yet verify any claims during this phase. Any technical difficulties (e.g., the image does not start up, experiment script crashes) are documented in a smoke-test review. The authors will be notified about the outcome of the smoke-test by April 25th (AoE). After the smoke-test phase is completed, the artifact submission will be reopened to allow authors to address identified issues. Please keep in mind that the smoke-test phase is solely for resolving technical issues and will involve a dialogue between reviewers and authors. In particular, authors can only make revisions if there are technical issues. If all reviewers agree that there are no issues, they will proceed with the full-review phase.
 
-
+In the full-review phase, reviewers will evaluate artifacts according to the [evaluation criteria](#evaluation-criteria) and decide on the badge(s) awarded to each submission.
 
 ### SUBMISSION GUIDELINES
 
@@ -71,6 +71,7 @@ Your artifact .zip file must contain the following elements.
     * When possible, include source code within your virtual machine image, and point to the most relevant and interesting parts of the source code tree in the README.
 
 2. A **LICENSE** file. Your license needs to allow the artifact evaluation chairs to download and distribute the artifact to the artifact evaluation committee members and the artifact evaluation committee members must be allowed to evaluate the artifact, e.g., use, execute, and modify the artifact for the purpose of artifact evaluation.
+
 3. A **README** text file that introduces the artifact to the user and guides the user through the replication of your results. It should describe:
     * the **structure** and **content** of your artifact.
     * the steps to **set up** your artifact, i.e., how to start the Docker container or how to boot the VM image.
@@ -129,8 +130,6 @@ If your artifact passed the evaluation successfully, you can place one or two ba
 Because LNCS does not provide a standard placement for the badges, you need to experiment a little to find a good place for them. They should be on the first page and not inside the margins (because the margins will be cut by Springer before publication).
 
 You can start with the following Latex snippet.
-
-`\documentclass{lncs}<br>\usepackage{showframe} % print page margins, remove when positioning is satisfying<br>\usepackage{graphicx} % necessary for inserting .pdfs<br>\usepackage{hyperref} % "available" badge is a link to the actual DOI<br>\usepackage[firstpage]{draftwatermark} % free badge placement<br><br>\SetWatermarkAngle{0}<br>%%%%%%%%% Use only one of the four following blocks<br>% use this block if you received the the "reusable" badge<br>\SetWatermarkText{\raisebox{12.5cm}{%<br>\hspace{0.1cm}%<br>\href{https://doi.org/10.1109/5.771073}{\includegraphics{1-available}}%<br>\hspace{9cm}%<br>\includegraphics{3-reusable}%<br>}}<br><br>% use this block if you received the "available" and the "functional" badge<br>\SetWatermarkText{\raisebox{12.5cm}{%<br>\hspace{0.1cm}%<br>\href{https://doi.org/10.1109/5.771073}{\includegraphics{1-available}}%<br>\hspace{9cm}%<br>\includegraphics{2-functional}%<br>}}<br><br>% use this block if you received only the "functional" badge<br>\SetWatermarkText{\raisebox{12.5cm}{%<br>\hspace{10.62977cm}%<br>\includegraphics{2-functional}%<br>}}<br><br>% use this block if you received only the "available" badge<br>\SetWatermarkText{\raisebox{12.5cm}{%<br>\hspace{0.1cm}%<br>\includegraphics{1-available}%<br>}}<br>%%%%%%%%%%%%%%%%%% `
 
 An example of the resulting paper is this [.pdf](https://github.com/danieldietsch/ae-badges/blob/main/examples/lncs/samplepaper.pdf).
 

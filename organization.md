@@ -50,6 +50,7 @@ title: Organization
 [Alan J. Hu](https://www.cs.ubc.ca/people/alan-hu), University of British Columbia <br>
 [Alberto Griggio](https://es-static.fbk.eu/people/griggio/), Fondazione Bruno Kessler <br>
 [Alessandro Cimatti](https://dicenter.fbk.eu/contacts/alessandro-cimatti/), Fondazione Bruno Kessler <br>
+[Alexander Nadel](https://www.cs.tau.ac.il/research/alexander.nadel/), Technion & Intel <br>
 [Aman Goel](https://aman-goel.github.io/), AWS <br>
 [Anastasia Isychev](https://aisychev.github.io/), TU Wien <br>
 [Anastasia Mavridou](http://amavridou.com/), KBR / NASA Ames Research Center <br>
@@ -108,7 +109,6 @@ title: Organization
 [Mark Santolucito](https://www.marksantolucito.com/), Barnard College, Columbia University <br>
 [Michael Emmi](https://michael-emmi.github.io/), Amazon Web Services <br>
 [Mirco Giacobbe](https://mircogiacobbe.github.io/), University of Birmingham <br>
-[Alexander Nadel](https://www.cs.tau.ac.il/research/alexander.nadel/), Intel <br>
 [Natasha Sharygina](https://www.inf.usi.ch/faculty/sharygina/), University of Lugano <br>
 [Ning Luo](https://ning0luo.github.io/), UIUC <br>
 [Pablo Castro](https://pablofcastro.github.io/), Universidad Nacional de Río Cuarto - CONICET <br>

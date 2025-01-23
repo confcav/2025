@@ -51,6 +51,7 @@ title: Organization
 [Alberto Griggio](https://es-static.fbk.eu/people/griggio/), Fondazione Bruno Kessler <br>
 [Alessandro Cimatti](https://dicenter.fbk.eu/contacts/alessandro-cimatti/), Fondazione Bruno Kessler <br>
 [Alexander Nadel](https://www.cs.tau.ac.il/research/alexander.nadel/), Technion & Intel <br>
+[Alexander J. Summers](https://www.cs.ubc.ca/~alexsumm/) University of British Columbia <br>
 [Aman Goel](https://aman-goel.github.io/), AWS <br>
 [Anastasia Isychev](https://aisychev.github.io/), TU Wien <br>
 [Anastasia Mavridou](http://amavridou.com/), KBR / NASA Ames Research Center <br>

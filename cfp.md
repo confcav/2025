@@ -77,7 +77,7 @@ Authors can include a clearly marked appendix at the end of their submissions th
 Authors of accepted regular papers will be invited (but are not required) to submit a relevant artifact for evaluation by the artifact evaluation committee. Authors are encouraged to consult [SIGPLAN’s Empirical Evaluation Guidelines](https://sigplan.org/Resources/EmpiricalEvaluation/) when reporting on empirical results.
 
 #### TOOL PAPERS
-Tool papers should not exceed 10 pages, not counting references.
+Tool papers should not exceed 10 pages, not counting references. Authors can include a clearly marked appendix at the end of their submissions that is exempt from the page limit restrictions. However, the reviewers are not obliged to read the contents of these appendices.
 
 Tool papers should describe system and implementation aspects of a tool with a large (potential) user base (experiments not required, rehash of theory strongly discouraged). Papers describing tools that have already been presented (in any conference) will be accepted only if significant and clear enhancements to the tool are reported and implemented.
 

@@ -49,7 +49,7 @@ Submissions on a wide range of topics are sought, particularly ones that identif
 #### CAV AWARD
 The CAV award is given annually at the CAV conference for fundamental contributions to the field of Computer-Aided Verification.
 
-CAV Award Nomination deadline: TBA
+CAV Award Nomination Deadline: March 1, 2025
 
 Nominations should include a proposed citation (up to 25 words), a succinct (100-250 words) description of the contribution(s), and a detailed statement to justify the nomination. The cited contribution(s) must have been made not more recently than five years ago and not over twenty five years ago. In addition, the contribution(s) should not yet have received recognition via a major award, such as the ACM Turing or Kanellakis Awards. The nominee may have received such an award for other contributions.
 

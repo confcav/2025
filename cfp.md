@@ -86,7 +86,7 @@ Tool papers will follow a single blind review process. They do NOT need to be an
 Tool papers will be provisionally accepted based on the manuscript. Authors of provisionally accepted tool papers must submit an artifact for evaluation by the artifact evaluation committee: final acceptance is conditional on successful artifact evaluation at the “functional” level. In special cases, where an artifact cannot be submitted, the authors should contact the Artifact Evaluation chairs to find alternate modes of artifact evaluation.
 
 #### INDUSTRIAL EXPERIENCE REPORTS AND CASE STUDIES
-Industrial Experience Reports and Case Studies should not exceed 10 pages, not counting references.
+Industrial Experience Reports and Case Studies should not exceed 10 pages, not counting references. Authors can include a clearly marked appendix at the end of their submissions that is exempt from the page limit restrictions. However, the reviewers are not obliged to read the contents of these appendices.
 
 These papers are expected to describe the use of formal methods techniques in industrial settings or in new application domains. Papers in this category do not necessarily need to present original research results but are expected to contain novel applications of formal methods techniques as well as an evaluation of these techniques in the chosen application domain. Such papers are encouraged to discuss the unique challenges of transferring research ideas to a real-world setting and reflect on any lessons learned from this technology transfer experience.
 

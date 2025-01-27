@@ -15,7 +15,7 @@ All deadlines are AoE (Anywhere on Earth)
 * Main conference: July 23-25, 2025
 
 ##### PAPER SUBMISSIONS 
-* Full papers due: January 31, 2025 
+* Full papers due: January 31, 2025 **\*Firm\***
 * Author Response Period: March 11 - 14, 2025
 * Author notification: April 2, 2025
 

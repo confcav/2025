@@ -76,9 +76,11 @@ title: Organization
 [Claudia Cauli](https://www.linkedin.com/in/claudiacauli/?originalSubdomain=uk), Huawei Ireland Research Center <br>
 [Corina Pasareanu](https://www.cylab.cmu.edu/directory/bios/pasareanu-corina.html), NASA Ames and Carnegie Mellon University <br>
 [Cristina David](https://cristina-david.github.io/), University of Bristol <br>
+[Daniel STAN](http://www.lre.epita.fr/perso/daniel-stan/), LRE Epita, 
 [Damien Zufferey](https://dzufferey.github.io/), NVIDIA <br>
 [Dirk Beyer](https://www.sosy-lab.org/people/beyer/), LMU Munich, Germany <br>
 [Đorđe Žikelić](https://djordjezikelic.github.io/), Singapore Management University <br>
+[Dorra BEN KHALIFA](https://dbenkhal.github.io/), ENAC <br>
 [Duc-Hiep Chu](https://www.linkedin.com/in/duc-hiep-chu-538422142/), Google Research <br>
 [Elizabeth Polgreen](https://polgreen.github.io/), University of Edinburgh <br>
 [Elvira Albert](https://costa.fdi.ucm.es/~elvira/), Complutense University of Madrid, Spain <br>
@@ -94,12 +96,15 @@ title: Organization
 [He Zhu](https://herowanzhu.github.io/), Rutgers <br>
 [Hossein Hojjat](https://teias.institute/~hojjat/), Tehran Institute of Advanced Studies <br>
 [Ichiro Hasuo](https://group-mmm.org/~ichiro/), National Institute of Informatics <br> 
+[James Zheng](https://researchers.mq.edu.au/en/persons/xi-zheng), Macquarie University Australia <br>
 [Jana Hofmann](https://janahofmann.github.io/), MPI-SP <br>
 [Ji Guan](https://scholar.google.com/citations?user=muIp5UIAAAAJ&hl=en), Institute of Software, Chinese Academy of Sciences <br>
 [Jingbo Wang](https://engineering.purdue.edu/~wang6203/), Purdue University <br>
+[Jocelyn (Qiaochu) Chen](https://thelyad.github.io/), New York University/University of Alberta <br>
 [Joost-Pieter Katoen](https://www-i2.informatik.rwth-aachen.de/~katoen/), RWTH-Aachen University, Germany <br>
 [Jorge A. Pérez](https://www.jperez.nl/), University of Groningen <br>
 [Junkil Park](https://www.linkedin.com/in/junkil-park/), Aptos Labs <br>
+[Kaushik Mallik](https://kmallik.github.io/), IMDEA Software Institute <br>
 [Kedar Namjoshi](https://kedar-namjoshi.github.io/), Bell Labs, Nokia <br>
 [Kshitij Bansal](https://kshitij.io/), Google <br>
 [Kyungmin Bae](https://sv.postech.ac.kr/kmbae/), POSTECH <br>
@@ -111,11 +116,13 @@ title: Organization
 [Michael Emmi](https://michael-emmi.github.io/), Amazon Web Services <br>
 [Mirco Giacobbe](https://mircogiacobbe.github.io/), University of Birmingham <br>
 [Natasha Sharygina](https://www.inf.usi.ch/faculty/sharygina/), University of Lugano <br>
+[Nian-Ze Lee](https://www.ee.ntu.edu.tw/profile1.php?teacher_id=27627), National Taiwan University / LMU Munich
 [Ning Luo](https://ning0luo.github.io/), UIUC <br>
 [Pablo Castro](https://pablofcastro.github.io/), Universidad Nacional de Río Cuarto - CONICET <br>
 [Pavithra Prabhakar](https://people.cs.ksu.edu/~pprabhakar/), Kansas State University <br>
 [Peter Müller](https://www.pm.inf.ethz.ch/people/group-members/pmueller.html), ETH Zurich <br>
 [Philipp Ruemmer](http://www.philipp.ruemmer.org/), University of Regensburg <br>
+[Ravi Mangal](https://www.cs.colostate.edu/ravimangal/), Colorado State University <br> 
 [Rayna Dimitrova](https://cispa.de/en/people/c01radi), CISPA Helmholtz Center for Information Security <br>
 [Roderick Bloem](https://www.iaik.tugraz.at/person/roderick-bloem/), Graz University of Technology <br>
 [Ruzica Piskac chair](http://www.cs.yale.edu/homes/piskac/), Yale <br>
@@ -133,9 +140,11 @@ title: Organization
 [Tatjana Petrov](https://www.tpetrov.info/), University of Konstanz <br>
 [Thomas Wahl](https://www.khoury.northeastern.edu/home/wahl/), Trusted Science and Technology, Inc. <br>
 [Timos Antonopoulos](https://www.cs.yale.edu/homes/antonopoulos-timos/), Yale University <br>
+[Tom van Dijk](https://www.tvandijk.nl), University of Twente <br>
 [Tomas Vojnar](https://www.muni.cz/en/people/134390-tomas-vojnar), Masaryk University, Faculty of Informatics <br>
 [Vijay Ganesh](https://vganesh1.github.io/), Georgia Tech <br>
 [Viktor Kunčak](https://people.epfl.ch/viktor.kuncak), EPFL, Switzerland <br>
+William Hallahan, Binghamton University <br>
 [Wenxi Wang](https://wenxiwang.github.io/), The University of Virginia <br>
 [Yakir Vizel](https://csaws.cs.technion.ac.il/~yvizel/research/), The Technion, Haifa Israel <br>
 [Yedi Zhang](https://zhangyedi.github.io/#home), National University of Singapore <br>

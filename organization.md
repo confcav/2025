@@ -76,7 +76,7 @@ title: Organization
 [Claudia Cauli](https://www.linkedin.com/in/claudiacauli/?originalSubdomain=uk), Huawei Ireland Research Center <br>
 [Corina Pasareanu](https://www.cylab.cmu.edu/directory/bios/pasareanu-corina.html), NASA Ames and Carnegie Mellon University <br>
 [Cristina David](https://cristina-david.github.io/), University of Bristol <br>
-[Daniel STAN](http://www.lre.epita.fr/perso/daniel-stan/), LRE Epita, 
+[Daniel STAN](http://www.lre.epita.fr/perso/daniel-stan/), LRE Epita, <br>
 [Damien Zufferey](https://dzufferey.github.io/), NVIDIA <br>
 [Dirk Beyer](https://www.sosy-lab.org/people/beyer/), LMU Munich, Germany <br>
 [Đorđe Žikelić](https://djordjezikelic.github.io/), Singapore Management University <br>

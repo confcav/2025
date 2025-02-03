@@ -96,7 +96,6 @@ title: Organization
 [He Zhu](https://herowanzhu.github.io/), Rutgers <br>
 [Hossein Hojjat](https://teias.institute/~hojjat/), Tehran Institute of Advanced Studies <br>
 [Ichiro Hasuo](https://group-mmm.org/~ichiro/), National Institute of Informatics <br> 
-[James Zheng](https://researchers.mq.edu.au/en/persons/xi-zheng), Macquarie University Australia <br>
 [Jana Hofmann](https://janahofmann.github.io/), MPI-SP <br>
 [Ji Guan](https://scholar.google.com/citations?user=muIp5UIAAAAJ&hl=en), Institute of Software, Chinese Academy of Sciences <br>
 [Jingbo Wang](https://engineering.purdue.edu/~wang6203/), Purdue University <br>
@@ -146,6 +145,7 @@ title: Organization
 [Viktor Kunčak](https://people.epfl.ch/viktor.kuncak), EPFL, Switzerland <br>
 William Hallahan, Binghamton University <br>
 [Wenxi Wang](https://wenxiwang.github.io/), The University of Virginia <br>
+[Xi (James) Zheng](https://researchers.mq.edu.au/en/persons/xi-zheng), Macquarie University Australia <br>
 [Yakir Vizel](https://csaws.cs.technion.ac.il/~yvizel/research/), The Technion, Haifa Israel <br>
 [Yedi Zhang](https://zhangyedi.github.io/#home), National University of Singapore <br>
 [Yu-Fang Chen](https://guluchen.github.io/), Academica Sinica Taiwan <br>

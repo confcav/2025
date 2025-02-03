@@ -76,6 +76,7 @@ title: Organization
 [Claudia Cauli](https://www.linkedin.com/in/claudiacauli/?originalSubdomain=uk), Huawei Ireland Research Center <br>
 [Corina Pasareanu](https://www.cylab.cmu.edu/directory/bios/pasareanu-corina.html), NASA Ames and Carnegie Mellon University <br>
 [Cristina David](https://cristina-david.github.io/), University of Bristol <br>
+[Daniel Kröning](https://www.kroening.com/), Amazon <br>
 [Daniel STAN](http://www.lre.epita.fr/perso/daniel-stan/), LRE Epita, <br>
 [Damien Zufferey](https://dzufferey.github.io/), NVIDIA <br>
 [Dirk Beyer](https://www.sosy-lab.org/people/beyer/), LMU Munich, Germany <br>
@@ -84,6 +85,7 @@ title: Organization
 [Duc-Hiep Chu](https://www.linkedin.com/in/duc-hiep-chu-538422142/), Google Research <br>
 [Elizabeth Polgreen](https://polgreen.github.io/), University of Edinburgh <br>
 [Elvira Albert](https://costa.fdi.ucm.es/~elvira/), Complutense University of Madrid, Spain <br>
+[Enrico Magnago](https://enmag.github.io/), Amazon <br>
 [Erika Abraham](https://ths.rwth-aachen.de/people/erika-abraham/), RWTH Aachen University <br>
 [Eva Darulova](https://malyzajko.github.io/), Uppsala University <br>
 [Gidon Ernst](https://www.gidonernst.de/), LMU Munich <br>
@@ -100,6 +102,7 @@ title: Organization
 [Ji Guan](https://scholar.google.com/citations?user=muIp5UIAAAAJ&hl=en), Institute of Software, Chinese Academy of Sciences <br>
 [Jingbo Wang](https://engineering.purdue.edu/~wang6203/), Purdue University <br>
 [Jocelyn (Qiaochu) Chen](https://thelyad.github.io/), New York University/University of Alberta <br>
+Joey Dodds, Amazon <br>
 [Joost-Pieter Katoen](https://www-i2.informatik.rwth-aachen.de/~katoen/), RWTH-Aachen University, Germany <br>
 [Jorge A. Pérez](https://www.jperez.nl/), University of Groningen <br>
 [Junkil Park](https://www.linkedin.com/in/junkil-park/), Aptos Labs <br>
@@ -138,6 +141,7 @@ title: Organization
 [Tachio Terauchi](https://terauchi.w.waseda.jp/), Waseda University <br>
 [Tatjana Petrov](https://www.tpetrov.info/), University of Konstanz <br>
 [Thomas Wahl](https://www.khoury.northeastern.edu/home/wahl/), Trusted Science and Technology, Inc. <br>
+Tim King, Amazon <br>
 [Timos Antonopoulos](https://www.cs.yale.edu/homes/antonopoulos-timos/), Yale University <br>
 [Tom van Dijk](https://www.tvandijk.nl), University of Twente <br>
 [Tomas Vojnar](https://www.muni.cz/en/people/134390-tomas-vojnar), Masaryk University, Faculty of Informatics <br>

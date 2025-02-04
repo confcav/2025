@@ -118,7 +118,7 @@ Joey Dodds, Amazon <br>
 [Michael Emmi](https://michael-emmi.github.io/), Amazon Web Services <br>
 [Mirco Giacobbe](https://mircogiacobbe.github.io/), University of Birmingham <br>
 [Natasha Sharygina](https://www.inf.usi.ch/faculty/sharygina/), University of Lugano <br>
-[Nian-Ze Lee](https://www.ee.ntu.edu.tw/profile1.php?teacher_id=27627), National Taiwan University / LMU Munich
+[Nian-Ze Lee](https://www.ee.ntu.edu.tw/profile1.php?teacher_id=27627), National Taiwan University / LMU Munich <br>
 [Ning Luo](https://ning0luo.github.io/), UIUC <br>
 [Pablo Castro](https://pablofcastro.github.io/), Universidad Nacional de Río Cuarto - CONICET <br>
 [Pavithra Prabhakar](https://people.cs.ksu.edu/~pprabhakar/), Kansas State University <br>

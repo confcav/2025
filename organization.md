@@ -56,6 +56,7 @@ title: Organization
 [Anastasia Isychev](https://aisychev.github.io/), TU Wien <br>
 [Anastasia Mavridou](http://amavridou.com/), KBR / NASA Ames Research Center <br>
 [Anca Muscholl](https://www.labri.fr/perso/anca/), LaBRI, Université Bordeaux, France <br>
+Andreas Podelski, University of Freiburg, Germany <br>
 [Andreas Pavlogiannis](https://cs.au.dk/~pavlogiannis/), Aarhus University <br>
 [Anna Lukina](https://annalukina.com/), TU Delft <br>
 [Anne-Kathrin Schmuck](https://wp.mpi-sws.org/akschmuck/), Max Planck Institute for Software Systems <br>
@@ -127,6 +128,7 @@ Mihaela Sighireanu, ENS Paris-Saclay, France <br>
 [Pavithra Prabhakar](https://people.cs.ksu.edu/~pprabhakar/), Kansas State University <br>
 [Peter Müller](https://www.pm.inf.ethz.ch/people/group-members/pmueller.html), ETH Zurich <br>
 [Philipp Ruemmer](http://www.philipp.ruemmer.org/), University of Regensburg <br>
+Qinxiang Cao, Shanghai Jiao Tong University <br>
 [Ravi Mangal](https://www.cs.colostate.edu/ravimangal/), Colorado State University <br> 
 [Rayna Dimitrova](https://cispa.de/en/people/c01radi), CISPA Helmholtz Center for Information Security <br>
 [Roderick Bloem](https://www.iaik.tugraz.at/person/roderick-bloem/), Graz University of Technology <br>

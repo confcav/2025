@@ -60,6 +60,7 @@ title: Organization
 [Anna Lukina](https://annalukina.com/), TU Delft <br>
 [Anne-Kathrin Schmuck](https://wp.mpi-sws.org/akschmuck/), Max Planck Institute for Software Systems <br>
 [Anthony Widjaja Lin](https://anthonywlin.github.io/), TU Kaiserslautern and Max-Planck Institute for Software Systems <br>
+[Anton Wijs](https://awijs.win.tue.nl/), Eindhoven University of Technology <br>
 [Arie Gurfinkel](https://arieg.bitbucket.io/), University of Waterloo <br>
 [Armin Biere](https://cca.informatik.uni-freiburg.de/biere/), University of Freiburg, Germany <br>
 [Azadeh Farzan](https://www.cs.toronto.edu/~azadeh/), University of Toronto <br>
@@ -100,6 +101,7 @@ title: Organization
 [Ichiro Hasuo](https://group-mmm.org/~ichiro/), National Institute of Informatics <br> 
 [Jana Hofmann](https://janahofmann.github.io/), MPI-SP <br>
 [Ji Guan](https://scholar.google.com/citations?user=muIp5UIAAAAJ&hl=en), Institute of Software, Chinese Academy of Sciences <br>
+[Jianan Yao]( https://jyao15.github.io/), Amazon <br>
 [Jingbo Wang](https://engineering.purdue.edu/~wang6203/), Purdue University <br>
 [Jocelyn (Qiaochu) Chen](https://thelyad.github.io/), New York University/University of Alberta <br>
 Joey Dodds, Amazon <br>
@@ -115,6 +117,7 @@ Joey Dodds, Amazon <br>
 [Marco Faella](http://wpage.unina.it/m.faella/index.html?page=home), University of Naples Federico II, Italy <br>
 [Marieke Huisman](https://mariekehuisman.personalweb.utwente.nl/), University of Twente <br>
 [Mark Santolucito](https://www.marksantolucito.com/), Barnard College, Columbia University <br>
+Mihaela Sighireanu, ENS Paris-Saclay, France <br>
 [Michael Emmi](https://michael-emmi.github.io/), Amazon Web Services <br>
 [Mirco Giacobbe](https://mircogiacobbe.github.io/), University of Birmingham <br>
 [Natasha Sharygina](https://www.inf.usi.ch/faculty/sharygina/), University of Lugano <br>

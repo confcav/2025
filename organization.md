@@ -97,6 +97,7 @@ Andreas Podelski, University of Freiburg, Germany <br>
 [Haoze (Andrew) Wu](https://wu-haoze.github.io/), Amherst College <br>
 [Harald Ruess](https://www.linkedin.com/in/harald-ruess-24aa1920/?locale=de_DE), Entalus, FL, USA <br>
 [Hari Govind Vediramana Krishnan](https://hgvk94.github.io/), University of Waterloo <br>
+[Hazem Torfah](https://starlab.systems/torfah.html), Chalmers University of Technology, Sweden <br>
 [He Zhu](https://herowanzhu.github.io/), Rutgers <br>
 [Hossein Hojjat](https://teias.institute/~hojjat/), Tehran Institute of Advanced Studies <br>
 [Ichiro Hasuo](https://group-mmm.org/~ichiro/), National Institute of Informatics <br> 
@@ -118,7 +119,7 @@ Joey Dodds, Amazon <br>
 [Marco Faella](http://wpage.unina.it/m.faella/index.html?page=home), University of Naples Federico II, Italy <br>
 [Marieke Huisman](https://mariekehuisman.personalweb.utwente.nl/), University of Twente <br>
 [Mark Santolucito](https://www.marksantolucito.com/), Barnard College, Columbia University <br>
-Mihaela Sighireanu, ENS Paris-Saclay, France <br>
+[Mihaela Sighireanu](https://lmf.cnrs.fr/MihaelaSighireanu/HomePage), ENS Paris-Saclay, France <br>
 [Michael Emmi](https://michael-emmi.github.io/), Amazon Web Services <br>
 [Mirco Giacobbe](https://mircogiacobbe.github.io/), University of Birmingham <br>
 [Natasha Sharygina](https://www.inf.usi.ch/faculty/sharygina/), University of Lugano <br>
@@ -159,4 +160,5 @@ William Hallahan, Binghamton University <br>
 [Yedi Zhang](https://zhangyedi.github.io/#home), National University of Singapore <br>
 [Yu-Fang Chen](https://guluchen.github.io/), Academica Sinica Taiwan <br>
 [Yuxin Deng](https://basics.sjtu.edu.cn/~yuxin/), Shanghai Key Laboratory of Trustworthy Computing, East China Normal University, Shanghai, China <br>
+Yuyang Sang, Alibaba Cloud US <br>
 [Zvonimir Rakamaric chair](https://zvonimir.github.io/), Amazon (AWS)

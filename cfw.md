@@ -10,8 +10,8 @@ Workshops hosted at Faculty of Electrical Engineering and Computing in Zagreb (w
 All deadlines are AoE (Anywhere on Earth).
 
 #### PROPOSALS
-* Proposals are due by email to the Workshop chair: December 1, 2024
-* Organizers will be notified about the participation: December 18, 2024
+* Proposals are due by email to the Workshop chair: ~~December 1, 2024~~
+* Organizers will be notified about the participation: ~~December 18, 2024~~
 
 #### CONFERENCE
 * Workshops: July 21-22, 2025

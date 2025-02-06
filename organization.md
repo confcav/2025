@@ -56,7 +56,7 @@ title: Organization
 [Anastasia Isychev](https://aisychev.github.io/), TU Wien <br>
 [Anastasia Mavridou](http://amavridou.com/), KBR / NASA Ames Research Center <br>
 [Anca Muscholl](https://www.labri.fr/perso/anca/), LaBRI, Université Bordeaux, France <br>
-Andreas Podelski, University of Freiburg, Germany <br>
+[Andreas Podelski](https://swt.informatik.uni-freiburg.de/), University of Freiburg, Germany <br>
 [Andreas Pavlogiannis](https://cs.au.dk/~pavlogiannis/), Aarhus University <br>
 [Anna Lukina](https://annalukina.com/), TU Delft <br>
 [Anne-Kathrin Schmuck](https://wp.mpi-sws.org/akschmuck/), Max Planck Institute for Software Systems <br>

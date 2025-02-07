@@ -24,14 +24,14 @@ title: Organization
 [Tanja Schindler](https://ai.dmi.unibas.ch/people/schindler/), University of Basel
 
 #### AREA CHAIRS
-[Philipp Rümmer](http://www.philipp.ruemmer.org/), University of Regensburg <br>
-[Eva Darulova ](https://people.mpi-sws.org/~eva/), Uppsala University <br>
-[Erika Ábrahám](https://ths.rwth-aachen.de/people/erika-abraham/), RWTH Aachen University <br>
+[Anthony Widjaja Lin](https://anthonywlin.github.io/), Technical University of Kaiserslautern <br>
 [Azadeh Farzan](https://www.cs.toronto.edu/~azadeh/), University of Toronto <br>
-[Roderick Bloem](https://www.iaik.tugraz.at/person/roderick-bloem/), Graz University of Technology <br>
-[Peter Müller](https://inf.ethz.ch/people/person-detail.mueller.html), ETH Zurich <br>
+[Erika Ábrahám](https://ths.rwth-aachen.de/people/erika-abraham/), RWTH Aachen University <br>
+[Eva Darulova ](https://people.mpi-sws.org/~eva/), Uppsala University <br>
 [Guy Katz](https://www.katz-lab.com/), Hebrew University of Jerusalem <br>
-[Anthony Widjaja Lin](https://anthonywlin.github.io/), Technical University of Kaiserslautern
+[Peter Müller](https://inf.ethz.ch/people/person-detail.mueller.html), ETH Zurich <br>
+[Philipp Rümmer](http://www.philipp.ruemmer.org/), University of Regensburg <br>
+[Roderick Bloem](https://www.iaik.tugraz.at/person/roderick-bloem/), Graz University of Technology
 
 #### PUBLICATION CHAIR
 [Steve Siegel](https://vsl.cis.udel.edu/siegel.html), University of Delaware

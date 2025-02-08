@@ -159,6 +159,7 @@ William Hallahan, Binghamton University <br>
 [Yakir Vizel](https://csaws.cs.technion.ac.il/~yvizel/research/), The Technion, Haifa Israel <br>
 [Yedi Zhang](https://zhangyedi.github.io/#home), National University of Singapore <br>
 [Yu-Fang Chen](https://guluchen.github.io/), Academica Sinica Taiwan <br>
+[Yuting Wang](http://jhc.sjtu.edu.cn/~yutingwang), Shanghai Jiao Tong University <br>
 [Yuxin Deng](https://basics.sjtu.edu.cn/~yuxin/), Shanghai Key Laboratory of Trustworthy Computing, East China Normal University, Shanghai, China <br>
 [Yuyang Sang](https://morusleaf.github.io/), Alibaba Cloud <br>
 [Zvonimir Rakamaric chair](https://zvonimir.github.io/), Amazon (AWS)

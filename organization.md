@@ -52,6 +52,7 @@ title: Organization
 [Alessandro Cimatti](https://dicenter.fbk.eu/contacts/alessandro-cimatti/), Fondazione Bruno Kessler <br>
 [Alexander Nadel](https://www.cs.tau.ac.il/research/alexander.nadel/), Technion & Intel <br>
 [Alexander J. Summers](https://www.cs.ubc.ca/~alexsumm/) University of British Columbia <br>
+Alfons Laarman, Leiden Institute of Advanced Computer Science (LIACS) <br>
 [Aman Goel](https://aman-goel.github.io/), AWS <br>
 [Anastasia Isychev](https://aisychev.github.io/), TU Wien <br>
 [Anastasia Mavridou](http://amavridou.com/), KBR / NASA Ames Research Center <br>
@@ -125,6 +126,7 @@ Joey Dodds, Amazon <br>
 [Natasha Sharygina](https://www.inf.usi.ch/faculty/sharygina/), University of Lugano <br>
 [Nian-Ze Lee](https://www.ee.ntu.edu.tw/profile1.php?teacher_id=27627), National Taiwan University / LMU Munich <br>
 [Ning Luo](https://ning0luo.github.io/), UIUC <br>
+Ondřej Lengál, Faculty of Information Technology, Brno University of Technology <br>
 [Pablo Castro](https://pablofcastro.github.io/), Universidad Nacional de Río Cuarto - CONICET <br>
 [Pavithra Prabhakar](https://people.cs.ksu.edu/~pprabhakar/), Kansas State University <br>
 [Peter Müller](https://www.pm.inf.ethz.ch/people/group-members/pmueller.html), ETH Zurich <br>

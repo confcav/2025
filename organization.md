@@ -126,7 +126,7 @@ Joey Dodds, Amazon <br>
 [Natasha Sharygina](https://www.inf.usi.ch/faculty/sharygina/), University of Lugano <br>
 [Nian-Ze Lee](https://www.ee.ntu.edu.tw/profile1.php?teacher_id=27627), National Taiwan University / LMU Munich <br>
 [Ning Luo](https://ning0luo.github.io/), UIUC <br>
-Ondřej Lengál, Faculty of Information Technology, Brno University of Technology <br>
+[Ondřej Lengál](https://www.fit.vut.cz/person/lengal/), Brno University of Technology <br>
 [Pablo Castro](https://pablofcastro.github.io/), Universidad Nacional de Río Cuarto - CONICET <br>
 [Pavithra Prabhakar](https://people.cs.ksu.edu/~pprabhakar/), Kansas State University <br>
 [Peter Müller](https://www.pm.inf.ethz.ch/people/group-members/pmueller.html), ETH Zurich <br>

@@ -12,7 +12,7 @@ Nominations should include a proposed citation (up to 25 words), a succinct (100
 For previous winners of the award, please see the [main CAV award page](https://i-cav.org/cav-award/). Nominations should be submitted by e-mail to this year's chair, Rupak Majumdar.
 
 #### IMPORTANT DATES
-Nomination Deadline: March 1, 2025
+Nomination Deadline: March 4, 2025
 
 #### AWARD COMMITTEE
 [Rupak Majumdar](https://people.mpi-sws.org/~rupak/), MPI-SWS (Chair) <br>

@@ -5,7 +5,7 @@ title: Workshops
 The following workshops will be held before the main conference.
 
 #### SINGLE-DAY WORKSHOPS
-Verification Mentoring Workshop (VMW), July 21 <br>
+[Verification Mentoring Workshop](https://conferences.i-cav.org/2025/mentoring/) (VMW), July 21 <br>
 Workshop on Verification of Quantum Computing, July 21 <br>
 Neurosymbolic and Foundation Models for AI verification in Autonomous CPS, July 21 <br>
 [Workshop on Hyperproperties: Advances in Theory and Applications (HYPER)](https://hyperworkshop25.cispa.io/), July 21 <br>

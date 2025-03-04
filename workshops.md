@@ -6,39 +6,39 @@ The following workshops will be held before the main conference.
 
 #### SINGLE-DAY WORKSHOPS
 [Verification Mentoring Workshop](https://conferences.i-cav.org/2025/mentoring/) (VMW), **July 21** <br>
-Organizers: [Grigory Fedyukovich](grigory@cs.fsu.edu), Florida State University; TBA <br>
+Organizers: Grigory Fedyukovich, Florida State University, <grigory@cs.fsu.edu>; TBA <br>
 
 Workshop on Verification of Quantum Computing, **July 21** <br>
-Organizers: [Runzhou Tao](rztao@umd.edu), University of Maryland; [Yu-Fang Chen](yfc@iis.sinica.edu.tw), Academia Sinica <br>
+Organizers: Runzhou Tao, University of Maryland, <rztao@umd.edu>; Yu-Fang Chen, Academia Sinica, <yfc@iis.sinica.edu.tw> <br>
 
 [Neurosymbolic and Foundation Models for AI verification in Autonomous CPS](https://www.tacps.org/), also called <br>
 [International Workshop on Trustworthy Cyber-Physical Systems (TACPS)](https://www.tacps.org/), **July 21** <br>
-Organizers: [Xi (James) Zheng](james.zheng@mq.edu.au), Macquarie University; [Oleg Sokolsky](sokolsky@cis.upenn.edu), University of Pennsylvania; [Ivan Ruchkin](iruchkin@ece.ufl.edu), University of Florida; [Ziyang Li](liby99@seas.upenn.edu), University of Pennsylvania <br>
+Organizers: Xi (James) Zheng, Macquarie University, <james.zheng@mq.edu.au>; Oleg Sokolsky, University of Pennsylvania, <sokolsky@cis.upenn.edu>; Ivan Ruchkin, University of Florida, <iruchkin@ece.ufl.edu>; Ziyang Li, University of Pennsylvania, <liby99@seas.upenn.edu> <br>
 
 [Workshop on Hyperproperties: Advances in Theory and Applications (HYPER)](https://hyperworkshop25.cispa.io/), **July 21** <br>
-Organizers: [Hadar Frenkel](hadar.frenkel@biu.ac.il), Bar Ilan University; [Ana Oliveira Da Costa](ana.costa@ist.ac.at), IST Austria; [Niklas Metzger](niklas.metzger@cispa.de), CISPA – Helmholtz Center for Information Security <br>
+Organizers: Hadar Frenkel, Bar Ilan University, <hadar.frenkel@biu.ac.il>; Ana Oliveira Da Costa, IST Austria, <ana.costa@ist.ac.at>; Niklas Metzger, CISPA – Helmholtz Center for Information Security, <niklas.metzger@cispa.de> <br>
 
 Allen Emerson Memorial, **July 21** <br>
-Organizers: [Kedar Namjoshi](kedar.namjoshi@nokia-bell-labs.com), Nokia Bell Labs; [Thomas Wahl](thomas.wahl.gm@gmail.com), Trusted Science & Technology <br>
+Organizers: Kedar Namjoshi, Nokia Bell Labs, <kedar.namjoshi@nokia-bell-labs.com>; Thomas Wahl, Trusted Science & Technology, <thomas.wahl.gm@gmail.com> <br>
 
 Automated Reasoning for ML Compilers, **July 22** <br>
-Organizers: [Temesghen Kahsai](teme@amazon.com), Amazon; [Sean McLaughlin](seanmcl@amazon.com), Amazon; [Daniel Kroening](dkr@amazon.co.uk), Amazon <br>
+Organizers: Temesghen Kahsai, Amazon, <teme@amazon.com>; Sean McLaughlin, Amazon, <seanmcl@amazon.com>; Daniel Kroening, Amazon, <dkr@amazon.co.uk> <br>
 
 [Meeting on String Constraints and Applications (MOSCA)](https://mosca2025.github.io/), **July 22** <br>
-Organizers: [Matthew Hague](matthew.hague@rhul.ac.uk), Royal Holloway University of London; [Ondřej Lengál](lengal@fit.vut.cz), Brno University of Technology <br>
+Organizers: Matthew Hague, Royal Holloway University of London, <matthew.hague@rhul.ac.uk>; Ondřej Lengál, Brno University of Technology, <lengal@fit.vut.cz> <br>
 
 [14th Workshop on Synthesis (SYNT)](https://synt2025.github.io/), **July 22** <br>
-Organizers: [Shufang Zhu](shufang.zhu@liverpool.ac.uk), University of Liverpool; [Mark Santolucito](msantolu@barnard.edu), Columbia University <br>
+Organizers: Shufang Zhu, University of Liverpool, <shufang.zhu@liverpool.ac.uk>; Mark Santolucito, Columbia University, <msantolu@barnard.edu> <br>
 
 [12th Workshop on Horn Clauses for Verification and Synthesis (HCVS)](https://www.sci.unich.it/hcvs25/), **July 22** <br>
-Organizers: [Emanuele De Angelis](emanuele.deangelis@iasi.cnr.it), CNR-IASI; [Florian Frohn](florian.frohn@informatik.rwth-aachen.de), RWTH Aachen <br>
+Organizers: Emanuele De Angelis, CNR-IASI, <emanuele.deangelis@iasi.cnr.it>; Florian Frohn, RWTH Aachen, <florian.frohn@informatik.rwth-aachen.de> <br>
 
 [Workshop on Verification of Probabilistic Programs (VeriProP)](https://veriprop.github.io/2025/), **July 22** <br>
-Organizers: [Michele Chiari](michele.chiari@tuwien.ac.at), TU Wien; [Kevin Batz](kevin.batz@cs.rwth-aachen.de), RWTH Aachen University; [Maximilian Weininger](maximilian.weininger@ist.ac.at), IST Austria <br>
+Organizers: Michele Chiari, TU Wien, <michele.chiari@tuwien.ac.at>; Kevin Batz, RWTH Aachen University, <kevin.batz@cs.rwth-aachen.de>; Maximilian Weininger, IST Austria, <maximilian.weininger@ist.ac.at> <br>
 
 Ken McMillan Celebration, **July 22** <br>
-Organizers: [Ranjit Jhala](rjhala@ucsd.edu), UCSD, [Isil Dillig](isil@cs.utexas.edu), UT Austin; [Ruijie Fang](ruijief@cs.utexas.edu), UT Austin
+Organizers: Ranjit Jhala, UCSD, <rjhala@ucsd.edu>, UT Austin, Isil Dillig, <isil@cs.utexas.edu>; Ruijie Fang, UT Austin, <ruijief@cs.utexas.edu>
 
 #### TWO-DAY WORKSHOPS
 [Symposium on AI Verification (SAIV)](https://www.aiverification.org/2025/), **July 21-22** <br>
-Organizers: [Mirco Giacobbe](m.giacobbe@bham.ac.uk), University of Birmingham; [Anna Lukina](A.Lukina@tudelft.nl), Delft University of Technology
+Organizers: Mirco Giacobbe, University of Birmingham, <m.giacobbe@bham.ac.uk>; Anna Lukina, Delft University of Technology, <A.Lukina@tudelft.nl>

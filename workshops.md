@@ -6,14 +6,13 @@ The following workshops will be held before the main conference.
 
 #### SINGLE-DAY WORKSHOPS
 [Verification Mentoring Workshop](https://conferences.i-cav.org/2025/mentoring/) (VMW), **July 21** <br>
-Organizers: Grigory Fedyukovich, Florida State University, <grigory@cs.fsu.edu>; TBA <br>
+Organizers: [Grigory Fedyukovich](mailto:grigory@cs.fsu.edu), Florida State University; TBA <br>
 
-Workshop on Verification of Quantum Computing, **July 21** <br>
+[Workshop on Verification of Quantum Computing](https://verifiedqc.github.io/2025/cfp/), **July 21** <br>
 Organizers: Runzhou Tao, University of Maryland, <rztao@umd.edu>; Yu-Fang Chen, Academia Sinica, <yfc@iis.sinica.edu.tw> <br>
 
-[Neurosymbolic and Foundation Models for AI verification in Autonomous CPS](https://www.tacps.org/), also called <br>
 [International Workshop on Trustworthy Cyber-Physical Systems (TACPS)](https://www.tacps.org/), **July 21** <br>
-Organizers: Xi (James) Zheng, Macquarie University, <james.zheng@mq.edu.au>; Oleg Sokolsky, University of Pennsylvania, <sokolsky@cis.upenn.edu>; Ivan Ruchkin, University of Florida, <iruchkin@ece.ufl.edu>; Ziyang Li, University of Pennsylvania, <liby99@seas.upenn.edu> <br>
+Organizers: Xi (James) Zheng, Macquarie University, <james.zheng@mq.edu.au>; Ivan Ruchkin, University of Florida, <iruchkin@ece.ufl.edu>; Ziyang Li, University of Pennsylvania, <liby99@seas.upenn.edu> <br>
 
 [Workshop on Hyperproperties: Advances in Theory and Applications (HYPER)](https://hyperworkshop25.cispa.io/), **July 21** <br>
 Organizers: Hadar Frenkel, Bar Ilan University, <hadar.frenkel@biu.ac.il>; Ana Oliveira Da Costa, IST Austria, <ana.costa@ist.ac.at>; Niklas Metzger, CISPA – Helmholtz Center for Information Security, <niklas.metzger@cispa.de> <br>
@@ -37,7 +36,7 @@ Organizers: Emanuele De Angelis, CNR-IASI, <emanuele.deangelis@iasi.cnr.it>; Flo
 Organizers: Michele Chiari, TU Wien, <michele.chiari@tuwien.ac.at>; Kevin Batz, RWTH Aachen University, <kevin.batz@cs.rwth-aachen.de>; Maximilian Weininger, IST Austria, <maximilian.weininger@ist.ac.at> <br>
 
 [Ken McMillan Celebration](https://kenfest25.github.io/.), **July 22** <br>
-Organizers: Ranjit Jhala, UCSD, <rjhala@ucsd.edu>, UT Austin, Isil Dillig, <isil@cs.utexas.edu>
+Organizers: Ranjit Jhala, UCSD, <rjhala@ucsd.edu>, Isil Dillig, UT Austin <isil@cs.utexas.edu>
 
 #### TWO-DAY WORKSHOPS
 [Symposium on AI Verification (SAIV)](https://www.aiverification.org/2025/), **July 21-22** <br>

@@ -36,8 +36,8 @@ Organizers: Emanuele De Angelis, CNR-IASI, <emanuele.deangelis@iasi.cnr.it>; Flo
 [Workshop on Verification of Probabilistic Programs (VeriProP)](https://veriprop.github.io/2025/), **July 22** <br>
 Organizers: Michele Chiari, TU Wien, <michele.chiari@tuwien.ac.at>; Kevin Batz, RWTH Aachen University, <kevin.batz@cs.rwth-aachen.de>; Maximilian Weininger, IST Austria, <maximilian.weininger@ist.ac.at> <br>
 
-Ken McMillan Celebration, **July 22** <br>
-Organizers: Ranjit Jhala, UCSD, <rjhala@ucsd.edu>, UT Austin, Isil Dillig, <isil@cs.utexas.edu>; Ruijie Fang, UT Austin, <ruijief@cs.utexas.edu>
+[Ken McMillan Celebration](https://kenfest25.github.io/.), **July 22** <br>
+Organizers: Ranjit Jhala, UCSD, <rjhala@ucsd.edu>, UT Austin, Isil Dillig, <isil@cs.utexas.edu>
 
 #### TWO-DAY WORKSHOPS
 [Symposium on AI Verification (SAIV)](https://www.aiverification.org/2025/), **July 21-22** <br>

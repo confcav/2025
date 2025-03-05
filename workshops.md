@@ -24,7 +24,7 @@ Automated Reasoning for ML Compilers, **July 22** <br>
 Organizers: [Temesghen Kahsai](mailto:teme@amazon.com), Amazon; [Sean McLaughlin](mailto:seanmcl@amazon.com), Amazon; [Daniel Kroening](mailto:dkr@amazon.co.uk), Amazon <br>
 
 [Meeting on String Constraints and Applications (MOSCA)](https://mosca2025.github.io/), **July 22** <br>
-Organizers: [Matthew Hague](mailto:matthew.hague@rhul.ac.uk), Royal Holloway University of London; [Ondřej Lengál](mailto:lengal@fit.vut.cz), Brno University of Technology; [Joel Day](J.Day@lboro.ac.uk), Loughborough University <br>
+Organizers: [Matthew Hague](mailto:matthew.hague@rhul.ac.uk), Royal Holloway University of London; [Ondřej Lengál](mailto:lengal@fit.vut.cz), Brno University of Technology; [Joel Day](mailto:J.Day@lboro.ac.uk), Loughborough University <br>
 
 [14th Workshop on Synthesis (SYNT)](https://synt2025.github.io/), **July 22** <br>
 Organizers: [Shufang Zhu](mailto:shufang.zhu@liverpool.ac.uk), University of Liverpool; [Mark Santolucito](mailto:msantolu@barnard.edu), Columbia University <br>

@@ -6,7 +6,7 @@ The following workshops will be held before the main conference.
 
 #### SINGLE-DAY WORKSHOPS
 [Verification Mentoring Workshop](https://conferences.i-cav.org/2025/mentoring/) (VMW), **July 21** <br>
-Organizers: [Grigory Fedyukovich](mailto:grigory@cs.fsu.edu), Florida State University; TBA <br>
+Organizers: [Grigory Fedyukovich](mailto:grigory@cs.fsu.edu), Florida State University; [Mukund Raghothaman](mailto:raghotha@usc.edu), University of Southern California <br>
 
 [Workshop on Verification of Quantum Computing](https://verifiedqc.github.io/2025/cfp/), **July 21** <br>
 Organizers: [Runzhou Tao]( mailto:rztao@umd.edu), University of Maryland; [Yu-Fang Chen](mailto:yfc@iis.sinica.edu.tw), Academia Sinica <br>

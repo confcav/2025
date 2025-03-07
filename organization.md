@@ -16,7 +16,7 @@ title: Organization
 [Borzoo Bonakdarpour](https://www.cse.msu.edu/tart/profile/borzoo), Michigan State University <br>
 [Jana Hofmann](https://janahofmann.github.io/), Max Planck Institute for Security and Privacy
 
-#### FELLOWSHIP CHAIRS
+#### FELLOWSHIP CHAIR
 [Ning Luo](https://ning0luo.github.io/), University of Illinois Urbana-Champaign 
 
 #### ARTIFACT EVALUATION CHAIRS

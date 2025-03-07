@@ -23,7 +23,7 @@ Organizers: [Kedar Namjoshi](mailto:kedar.namjoshi@nokia-bell-labs.com), Nokia B
 [Symposium on AI Verification (SAIV)](https://www.aiverification.org/2025/), **Both Days** <br>
 Organizers: [Mirco Giacobbe](mailto:m.giacobbe@bham.ac.uk), University of Birmingham; [Anna Lukina](mailto:A.Lukina@tudelft.nl), Delft University of Technology
 
-#### Workshops on July 22nd
+#### WORKSHOPS ON JULY 22nd
 Automated Reasoning for ML Compilers <br>
 Organizers: [Temesghen Kahsai](mailto:teme@amazon.com), Amazon; [Sean McLaughlin](mailto:seanmcl@amazon.com), Amazon; [Daniel Kroening](mailto:dkr@amazon.co.uk), Amazon <br>
 

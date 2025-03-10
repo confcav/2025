@@ -20,8 +20,9 @@ author: International Conference on Computer Aided Verification
 ###############################################
 
 navbar-links:
-  Call for Papers: "cfp"
-  Call for Workshops: "cfw"
+  Calls:
+    Call for Papers: "cfp"
+    Call for Workshops: "cfw"
   Artifact Evaluation: "artifact"
   Workshops: "workshops"
   Mentoring: "mentoring"

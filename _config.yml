@@ -21,11 +21,12 @@ author: International Conference on Computer Aided Verification
 
 navbar-links:
   Calls:
-    Call for Papers: "cfp"
-    Call for Workshops: "cfw"
+    - Call for Papers: "cfp"
+    - Call for Workshops: "cfw"
   Artifact Evaluation: "artifact"
-  Workshops: "workshops"
-  Mentoring: "mentoring"
+  Workshops: 
+    - Workshops: "workshops"
+    - Mentoring: "mentoring"
   Organization: "organization"
   CAV Award: "award"
   Sponsors: "sponsors"

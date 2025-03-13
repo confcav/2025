@@ -27,6 +27,7 @@ navbar-links:
   Workshops: 
     - Workshops: "workshops"
     - Mentoring: "mentoring"
+  Keynotes: "keynote"
   Organization: "organization"
   CAV Award: "award"
   Sponsors: "sponsors"

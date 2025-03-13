@@ -2,9 +2,9 @@
 layout: page
 title: Keynotes
 ---
-Title: TBA
+#### Title: TBA
 
-Corina Păsăreanu, Carnegie Mellon University, USA
+[Corina Păsăreanu](https://www.andrew.cmu.edu/user/pcorina/), Carnegie Mellon University, USA
 
 ![Corina](./assets/img/corina.png)
 

@@ -165,3 +165,9 @@ William Hallahan, Binghamton University <br>
 [Yuxin Deng](https://basics.sjtu.edu.cn/~yuxin/), Shanghai Key Laboratory of Trustworthy Computing, East China Normal University, Shanghai, China <br>
 [Yuyang Sang](https://morusleaf.github.io/), Alibaba Cloud <br>
 [Zvonimir Rakamaric chair](https://zvonimir.github.io/), Amazon (AWS)
+
+#### STEERING COMMITTEE
+[Orna Grumberg](http://www.cs.technion.ac.il/~orna/), Technion <br>
+[Aarti Gupta](https://www.cs.princeton.edu/~aartig/), Princeton University <br>
+[Daniel Kröning](https://www.kroening.com/), Amazon <br>
+[Ken McMillan](http://mcmil.net/wordpress/), UT Austin

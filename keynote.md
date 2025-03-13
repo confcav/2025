@@ -6,7 +6,7 @@ title: Keynotes
 
 [Corina Păsăreanu](https://www.andrew.cmu.edu/user/pcorina/), Carnegie Mellon University, USA
 
-<img src="./assets/img/corina.png" alt="Corina" width="200">
+<img src="/assets/img/corina.png" alt="Corina" width="200">
 
 **Abstract**: TBA
 

@@ -2,9 +2,6 @@
 layout: page
 title: Keynotes
 ---
-
-#### KEYNOTES
-
 Title: TBA
 
 ![Corina](./assets/img/corina.png)

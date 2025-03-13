@@ -4,11 +4,13 @@ title: Keynotes
 ---
 Title: TBA
 
+Corina Păsăreanu, Carnegie Mellon University, USA
+
 ![Corina](./assets/img/corina.png)
 
-Abstract: TBA
+**Abstract**: TBA
 
-Bio: Corina Pasareanu is an ACM Fellow working at NASA Ames. She is
+**Bio**: Corina Pasareanu is an ACM Fellow working at NASA Ames. She is
 affiliated with KBR and Carnegie Mellon University's CyLab. Her
 research interests include model checking, symbolic execution,
 compositional verification, AI safety, autonomy, and security. She is

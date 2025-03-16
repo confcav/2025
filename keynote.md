@@ -20,7 +20,7 @@ Program/General Chair for several conferences, including CAV in 2015
 and more recently, ICSE in 2025. More information can be found on her
 website: [https://www.andrew.cmu.edu/user/pcorina/](https://www.andrew.cmu.edu/user/pcorina/)
 
-### Title - Cedar: A New Language for Expressive, Fast, Safe, and Analyzable Authorization
+### Cedar: A New Language for Expressive, Fast, Safe, and Analyzable Authorization
 
 [Emina Torlak](https://emina.github.io/), AWS and University of Washington, USA
 

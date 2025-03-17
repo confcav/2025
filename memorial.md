@@ -3,6 +3,7 @@ layout: page
 title: In Memoriam - E. Allen Emerson
 ---
 <img src="https://conferences.i-cav.org/2025/assets/img/allen_emerson.png" alt="Emerson" width="300">
+
 (Image Credit: [UT Austin](https://www.cs.utexas.edu/people/faculty-researchers/e-allen-emerson))
 
 E. Allen Emerson, an early-day supporter of the CAV conference series, co-inventor of model checking and co-recipient (along with Edmund Clarke and Joseph Sifakis) of the 2007 ACM Turing Award, passed away on October 15th, 2024. The 2025 CAV conference program includes a [E. Allen Emerson Memorial Symposium](https://www.ccs.neu.edu/home/wahl/Hidden/fxypcelrzzek/allen_emerson_symposium.html) in his honor, offered as a full-day event on the first workshop day.

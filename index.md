@@ -4,7 +4,7 @@ title: CAV 2025
 subtitle: 37th International Conference on Computer Aided Verification
 cover-img: "/assets/img/zagreb.png"
 ---
-<img src="https://conferences.i-cav.org/2025/assets/img/CAV_Logo.png" alt="CAV" width="200" class="center">
+<img src="https://conferences.i-cav.org/2025/assets/img/CAV_Logo.png" alt="CAV" width="300" class="center">
 ### 37th International Conference on Computer Aided Verification
 from July 21-25, 2025, at Westin Hotel Conference Center in Zagreb, Croatia 
 
@@ -17,7 +17,7 @@ All deadlines are AoE (Anywhere on Earth)
 
 ##### PAPER SUBMISSIONS 
 * Full papers due: ~~January 31, 2025~~ **\*Firm\***
-* Author Response Period: March 11 - 14, 2025
+* Author Response Period: ~~March 11 - 14, 2025~~
 * Author notification: April 2, 2025
 
 ##### WORKSHOP PROPOSAL SUBMISSIONS

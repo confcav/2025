@@ -2,7 +2,7 @@
 layout: page
 title: Workshops
 ---
-The following workshops will be held before the main conference. Workshops will be held at the Faculty of Electrical Engineering and Computing. Please see [venues page](https://i-cav.org/venues/) for details.
+The following workshops will be held before the main conference. Workshops will be held at the Faculty of Electrical Engineering and Computing. Please see [venues page](https://conferences.i-cav.org/2025/venues/) for details.
 
 #### WORKSHOPS ON JULY 21st
 [Verification Mentoring Workshop](https://conferences.i-cav.org/2025/mentoring/) (VMW) <br>

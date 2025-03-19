@@ -5,7 +5,7 @@ subtitle: 37th International Conference on Computer Aided Verification
 cover-img: "/assets/img/zagreb.png"
 ---
 <img src="https://conferences.i-cav.org/2025/assets/img/CAV_Logo.png" alt="CAV" width="450" class="center">
-from July 21-25, 2025, at Westin Hotel Conference Center in Zagreb, Croatia 
+from July 21-25, 2025 in Zagreb, Croatia
 
 #### IMPORTANT DATES
 All deadlines are AoE (Anywhere on Earth)

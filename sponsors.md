@@ -3,7 +3,8 @@ layout: page
 title: Sponsors
 ---
 ### Bronze Sponsors
-[<img src="https://conferences.i-cav.org/2025/assets/img/Logo-QBayLogic.png" alt="QBay" width="500">](https://qbaylogic.com/about-us/)
+[<img src="https://conferences.i-cav.org/2025/assets/img/Logo-QBayLogic.png" alt="QBay" width="500">](https://qbaylogic.com/about-us/) <br>
+
 [<img src="https://conferences.i-cav.org/2025/assets/img/toyota.png" alt="Toyota" width="500">](https://www.toyota.com/)
 
 ### Institutional Support

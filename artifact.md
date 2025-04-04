@@ -29,13 +29,13 @@ All deadlines are AoE (Anywhere on Earth).
 
 ### SUBMISSION SITE
 
-TBA
+[https://cav2025ae.hotcrp.com/](https://cav2025ae.hotcrp.com/)
 
 ### PROCESS
 
 The artifact evaluation consists of two phases: the smoke-test phase and the full-review phase.
 
-In the smoke-test phase, reviewers will download artifacts, read the artifact instructions, and attempt to run the experiments. However, they will not yet verify any claims during this phase. Any technical difficulties (e.g., the image does not start up, experiment script crashes) are documented in a smoke-test review. The authors will be notified about the outcome of the smoke-test by April 25th (AoE). After the smoke-test phase is completed, the artifact submission will be reopened to allow authors to address identified issues. Please keep in mind that the smoke-test phase is solely for resolving technical issues and will involve a dialogue between reviewers and authors. In particular, authors can only make revisions if there are technical issues. If all reviewers agree that there are no issues, they will proceed with the full-review phase.
+In the smoke-test phase, reviewers will download artifacts, read the artifact instructions, and attempt to run the experiments. However, they will not yet verify any claims during this phase. Any technical difficulties (e.g., the image does not start up, experiment script crashes) are documented in a smoke-test review. The authors will be notified about the outcome of the smoke-test by April 27th (AoE). After the smoke-test phase is completed, the artifact submission will be reopened to allow authors to address identified issues. Please keep in mind that the smoke-test phase is solely for resolving technical issues and will involve a dialogue between reviewers and authors. In particular, authors can only make revisions if there are technical issues. If all reviewers agree that there are no issues, they will proceed with the full-review phase.
 
 In the full-review phase, reviewers will evaluate artifacts according to the [evaluation criteria](#evaluation-criteria) and decide on the badge(s) awarded to each submission.
 

@@ -8,6 +8,12 @@ The purpose of the Verification Mentoring Workshop (VMW) is to provide mentoring
 
 The workshop program will include a number of talks and interactive sessions. The talks will give an overview of the field along with brief introductions to the varied CAV related topics. Other talks will provide mentoring and career advice, from academia and industry.
 
+#### Student Travel Scholarship
+
+We warmly invite students to apply for travel scholarships to attend the Verification Mentoring Workshop and CAV 2025. Applications are received via the [form](https://docs.google.com/forms/d/e/1FAIpQLSd7d0zcZ6BSepxDfY2hmb2fL8Go7_SWTL_VDkjxjBeprz3Qhw/viewform?usp=dialog).
+
+Deadline for applications: April 25.
+
 #### Organizers
 [Grigory Fedyukovich](mailto:grigory@cs.fsu.edu), Florida State University; [Mukund Raghothaman](mailto:raghotha@usc.edu), University of Southern California
 

@@ -15,8 +15,8 @@ We warmly invite students to apply for travel scholarships to attend the Verific
 Deadline for applications: April 25.
 
 #### Organizers
-[Grigory Fedyukovich chair](mailto:grigory@cs.fsu.edu), Florida State University <br>
-[Mukund Raghothaman chair](mailto:raghotha@usc.edu), University of Southern California <br>
+[Grigory Fedyukovich (chair)](mailto:grigory@cs.fsu.edu), Florida State University <br>
+[Mukund Raghothaman (chair)](mailto:raghotha@usc.edu), University of Southern California <br>
 Elizabeth Polgreen, University of Edinburgh <br>
 Kaushik Mallik, IMDEA <br>
 Thom Badings, University of Oxford

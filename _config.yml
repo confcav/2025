@@ -20,6 +20,7 @@ author: International Conference on Computer Aided Verification
 ###############################################
 
 navbar-links:
+  Registration: "registration"
   Calls:
     - Call for Papers: "cfp"
     - Call for Workshops: "cfw"

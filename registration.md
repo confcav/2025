@@ -6,4 +6,6 @@ The registration is at [http://www.easyconferences.org/cav2025/register](http://
 
 Note that the registration system automatically generates a visa support letter (if selected).
 
+Workshops registration includes complimentary lunch.
+
 Early registration deadline: June 22, 2025

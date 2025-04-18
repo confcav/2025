@@ -12,8 +12,9 @@ All deadlines are AoE (Anywhere on Earth)
 
 #### IMPORTANT INFORMATION
 * Registration is available [here](https://conferences.i-cav.org/2025/registration/)
-* Please not the conference and workshops are at different venues, details are [here](https://conferences.i-cav.org/2025/venues/)
+* Please note the conference and workshops are at different venues, details are [here](https://conferences.i-cav.org/2025/venues/)
 * The registration system automatically generates a visa support letter (if selected)
+* Workshops registration includes complimentary lunch
 
 #### CONFERENCE
 * Early registration deadline: June 22, 2025

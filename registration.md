@@ -11,25 +11,106 @@ Workshops registration includes complimentary lunch.
 Early registration deadline: June 22, 2025
 
 The amounts for each option can be seen below: <br>
-|Option|Euro (CAV 2025)|
-|---------------:|:---------------:|
-|Early conference+workshops: regular |900|
-|Early conference+workshops: student |500|  
-|Late conference+workshops: regular |1150|  
-|Late conference+workshops: student |750|
-|Early conference+one day workshop: regular |800|
-|Early conference+one day workshop: student |450|   
-|Late conference+one day workshop: regular |1030|   
-|Late conference+one day workshop: student |680|
-|Early conference: regular |650|
-|Early conference: student |350|
-|Late conference: regular |850|
-|Late conference: student |550|
-|Early workshop: regular |250|  
-|Early workshop: student |150|  
-|Late workshop: regular |300|
-|Late workshop: student |200|
-|Early: One day workshop: regular |150|
-|Early: One day workshop: student |100|
-|Late: One day workshop: regular |180|
-|Late: One day workshop: student |130|
+<table>
+    <tr>
+        <th>Option</th>
+        <th>Euro (CAV 2025)</th>
+    </tr>
+    <tr>
+        <th>Early conference+workshops: regular</th>
+        <th>900</th>
+    </tr>
+        <tr>
+        <th>Early conference+workshops: student</th>
+        <th>500</th>
+    </tr>
+        <tr>
+        <th>Late conference+workshops: regular</th>
+        <th>1150</th>
+    </tr>
+    </tr>
+        <tr>
+        <th>Late conference+workshops: student</th>
+        <th>750</th>
+    </tr>
+    </tr>
+        <tr>
+        <th>Early conference+one day workshop: regular</th>
+        <th>800</th>
+    </tr>
+    </tr>
+        <tr>
+        <th>Early conference+one day workshop: student</th>
+        <th>450</th>
+    </tr>
+    </tr>
+        <tr>
+        <th>Late conference+one day workshop: regular</th>
+        <th>1030</th>
+    </tr>
+    </tr>
+        <tr>
+        <th>Late conference+one day workshop: student</th>
+        <th>680</th>
+    </tr>
+    </tr>
+        <tr>
+        <th>Early conference: regular</th>
+        <th>650</th>
+    </tr>
+    </tr>
+        <tr>
+        <th>Early conference: student</th>
+        <th>350</th>
+    </tr>
+    </tr>
+        <tr>
+        <th>Late conference: regular</th>
+        <th>850</th>
+    </tr>
+    </tr>
+        <tr>
+        <th>Late conference: student</th>
+        <th>550</th>
+    </tr>
+    </tr>
+        <tr>
+        <th>Early workshop: regular</th>
+        <th>250</th>
+    </tr>
+    </tr>
+        <tr>
+        <th>Early workshop: student</th>
+        <th>150</th>
+    </tr>
+    </tr>
+        <tr>
+        <th>Late workshop: regular</th>
+        <th>300</th>
+    </tr>
+        </tr>
+        <tr>
+        <th>Late workshop: student</th>
+        <th>200</th>
+    </tr>
+    </tr>
+        <tr>
+        <th>Early: One day workshop: regular</th>
+        <th>150</th>
+    </tr>
+    </tr>
+        <tr>
+        <th>Early: One day workshop: student</th>
+        <th>100</th>
+    </tr>
+    </tr>
+        <tr>
+        <th>Late: One day workshop: regular</th>
+        <th>180</th>
+    </tr>
+    </tr>
+        <tr>
+        <th>Late: One day workshop: student</th>
+        <th>130</th>
+    </tr>
+</table>

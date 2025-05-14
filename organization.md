@@ -83,6 +83,7 @@ Alfons Laarman, Leiden Institute of Advanced Computer Science (LIACS) <br>
 [Daniel STAN](http://www.lre.epita.fr/perso/daniel-stan/), LRE Epita, <br>
 [Damien Zufferey](https://dzufferey.github.io/), NVIDIA <br>
 [Dirk Beyer](https://www.sosy-lab.org/people/beyer/), LMU Munich, Germany <br>
+[Dominik Winterer](https://wintered.github.io/), ETH Zurich <br>
 [Đorđe Žikelić](https://djordjezikelic.github.io/), Singapore Management University <br>
 [Dorra BEN KHALIFA](https://dbenkhal.github.io/), ENAC <br>
 [Duc-Hiep Chu](https://www.linkedin.com/in/duc-hiep-chu-538422142/), Google Research <br>
@@ -92,6 +93,7 @@ Alfons Laarman, Leiden Institute of Advanced Computer Science (LIACS) <br>
 [Erika Abraham](https://ths.rwth-aachen.de/people/erika-abraham/), RWTH Aachen University <br>
 [Eva Darulova](https://malyzajko.github.io/), Uppsala University <br>
 [Gidon Ernst](https://www.gidonernst.de/), LMU Munich <br>
+[Guowen Xu](https://guowen-xu.github.io/), University of Electronic Science and Technology of China <br>
 [Guy Amir](https://guyam2.github.io/), Cornell University <br>
 [Guy Katz](https://www.katz-lab.com/), The Hebrew University of Jerusalem <br>
 [Hadar Frenkel](https://u.cs.biu.ac.il/~frenkeh3/), Bar Ilan University <br>
@@ -143,6 +145,7 @@ Qinxiang Cao, Shanghai Jiao Tong University <br>
 [Shibashis Guha](https://www.tifr.res.in/shibashis.guha/), Tata Institute of Fundamental Research <br>
 [Soham Chakraborty](https://www.st.ewi.tudelft.nl/sschakraborty/), TU Delft <br>
 [Stefan Leue](https://www.sen.uni-konstanz.de/members/prof-dr-stefan-leue/), University of Konstanz <br>
+[Stefan Zetzsche](https://zetzsche.st/), Amazon Web Services <br>
 [Stephen F. Siegel](https://vsl.cis.udel.edu/siegel.html), University of Delaware <br>
 [Subhajit Roy](https://www.cse.iitk.ac.in/users/subhajit/), Indian Institute of Technology Kanpur <br>
 [Sylvie Putot](https://www.lix.polytechnique.fr/Labo/Sylvie.Putot/), Ecole Polytechnique <br>

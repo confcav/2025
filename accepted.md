@@ -7,152 +7,152 @@ title: Accepted Papers
 *Verifying Tree-Manipulating Programs via CHCs* <font size="2">  <br>
 Gennaro Parlato (University of Molise); Marco Faella (University of Naples Federico II) </font>
 
-*Automatic Verification of Floating-Point Accumulation Networks* <br>
-<font size="2"> David K. Zhang, Alex Aiken (Stanford University)  </font>
+*Automatic Verification of Floating-Point Accumulation Networks* <font size="2"> <br>
+David K. Zhang, Alex Aiken (Stanford University)  </font>
 
-*Relational Hoare Logic for Realistically Modelled Machine Code* <br>
-<font size="2"> Denis Mazzucato (Carnegie Mellow University); Abdalrhman Mohamed (Stanford University); Juneyoung Lee (Amazon Web Services); Clark Barrett (Stanford University); Jim Grundy, John Harrison (Amazon Web Services); Corina Pasareanu (NASA Ames and Carnegie Mellow University) </font>
+*Relational Hoare Logic for Realistically Modelled Machine Code* <font size="2"> <br>
+Denis Mazzucato (Carnegie Mellow University); Abdalrhman Mohamed (Stanford University); Juneyoung Lee (Amazon Web Services); Clark Barrett (Stanford University); Jim Grundy, John Harrison (Amazon Web Services); Corina Pasareanu (NASA Ames and Carnegie Mellow University) </font>
 
-*Counting Abstraction and Decidability for the Verification of Structured Parameterized Networks* <br>
-<font size="2"> Marius Bozga, Radu Iosif (Univ. Grenoble Alpes, Grenoble INP, VERIMAG); Arnaud Sangnier (DIBRIS, Univ. of Genova, Italy); Neven Villani (Univ. Grenoble Alpes, Grenoble INP, VERIMAG)  </font>
+*Counting Abstraction and Decidability for the Verification of Structured Parameterized Networks* <font size="2"> <br>
+Marius Bozga, Radu Iosif (Univ. Grenoble Alpes, Grenoble INP, VERIMAG); Arnaud Sangnier (DIBRIS, Univ. of Genova, Italy); Neven Villani (Univ. Grenoble Alpes, Grenoble INP, VERIMAG)  </font>
 
-*Automated Verification of Monotonic Data Structure Traversals in C* <br>
-<font size="2"> Matthew Sotoudeh (Stanford University)  </font>
+*Automated Verification of Monotonic Data Structure Traversals in C* <font size="2"> <br>
+Matthew Sotoudeh (Stanford University)  </font>
 
-*Verifying Fault Tolerance of Quantum Error Correction Codes* <br>
-<font size="2"> Kean Chen, Yuhao Liu (University of Pennsylvania); Wang Fang (University of Edinburgh); Jennifer Paykin, Xin-Chuan Wu, Albert Schmitz (Intel); Steve Zdancewic, Gushu Li (University of Pennsylvania)  </font>
+*Verifying Fault Tolerance of Quantum Error Correction Codes* <font size="2"> <br>
+Kean Chen, Yuhao Liu (University of Pennsylvania); Wang Fang (University of Edinburgh); Jennifer Paykin, Xin-Chuan Wu, Albert Schmitz (Intel); Steve Zdancewic, Gushu Li (University of Pennsylvania)  </font>
 
-*Full LTL Synthesis over Infinite-state Arenas* <br>
-<font size="2"> Shaun Azzopardi (N/A); Luca Di Stefano (TU Wien); Nir Piterman, Gerardo Schneider (University of Gothenburg and Chalmers University of Technology)  </font>
+*Full LTL Synthesis over Infinite-state Arenas* <font size="2"> <br>
+Shaun Azzopardi (N/A); Luca Di Stefano (TU Wien); Nir Piterman, Gerardo Schneider (University of Gothenburg and Chalmers University of Technology)  </font>
 
-*Integer Reasoning Modulo Different Constants in SMT* <br>
-<font size="2"> Elizaveta Pertseva, Alex Ozdemir (Stanford); Shankara Pailoor, Alp Bassa (Veridise); Sorawee Porncharoenwase (Amazon); Işil Dillig (UT Austin); Clark Barrett (Stanford)  </font>
+*Integer Reasoning Modulo Different Constants in SMT* <font size="2"> <br>
+Elizaveta Pertseva, Alex Ozdemir (Stanford); Shankara Pailoor, Alp Bassa (Veridise); Sorawee Porncharoenwase (Amazon); Işil Dillig (UT Austin); Clark Barrett (Stanford)  </font>
 
-*On the Complexity of Checking Mixed Isolation Levels for SQL Transactions* <br>
-<font size="2"> Ahmed Bouajjani (IRIF, CNRS, University Paris Cité); Constantin Enea (LIX, École Polytechnique, CNRS and Institut Polytechnique de Paris); Enrique Román-Calvo (IRIF, CNRS, University Paris Cité)  </font>
+*On the Complexity of Checking Mixed Isolation Levels for SQL Transactions* <font size="2"> <br>
+Ahmed Bouajjani (IRIF, CNRS, University Paris Cité); Constantin Enea (LIX, École Polytechnique, CNRS and Institut Polytechnique de Paris); Enrique Román-Calvo (IRIF, CNRS, University Paris Cité)  </font>
 
-*Approximating Fixpoints of Approximated Functions* <br>
-<font size="2"> Paolo Baldan (University of Padova); Sebastian Gurke (University of Duisburg-Essen, Germany); Barbara König (University of Duisburg-Essen); Tommaso Padoan (Università di Trieste); Florian Wittbold (University of Duisburg-Essen)  </font>
+*Approximating Fixpoints of Approximated Functions* <font size="2"> <br>
+Paolo Baldan (University of Padova); Sebastian Gurke (University of Duisburg-Essen, Germany); Barbara König (University of Duisburg-Essen); Tommaso Padoan (Università di Trieste); Florian Wittbold (University of Duisburg-Essen)  </font>
 
-*D-Hammer: Efficient Equational Reasoning for Labelled Dirac Notation* <br>
-<font size="2"> Yingte Xu (Max Planck Institute for Security and Privacy); Gilles Barthe (Max Planck Institute for Security and Privacy & IMDEA Software Institute); Li Zhou (Institute of Software, Chinese Academy of Sciences)  </font>
+*D-Hammer: Efficient Equational Reasoning for Labelled Dirac Notation* <font size="2"> <br>
+Yingte Xu (Max Planck Institute for Security and Privacy); Gilles Barthe (Max Planck Institute for Security and Privacy & IMDEA Software Institute); Li Zhou (Institute of Software, Chinese Academy of Sciences)  </font>
 
-*Universal Robustness of Certified Floating-Point Neural Networks* <br>
-<font size="2"> Geonho Hwang (Korea Institute for Advanced Study); Wonyeol Lee (POSTECH); Yeachan Park (Korea Institute for Advanced Study); Sejun Park (Korea University); Feras Saad (Carnegie Mellon University)  </font>
+*Universal Robustness of Certified Floating-Point Neural Networks* <font size="2"> <br>
+Geonho Hwang (Korea Institute for Advanced Study); Wonyeol Lee (POSTECH); Yeachan Park (Korea Institute for Advanced Study); Sejun Park (Korea University); Feras Saad (Carnegie Mellon University)  </font>
 
-*Assessing the Quality of Binomial Samplers: A Statistical Distance Framework* <br>
-<font size="2"> Sourav Chakraborty (Indian Statistical Institute); Kuldeep S. Meel (Georgia Institute of Technology); Uddalok Sarkar (Indian Statistical Institute)  </font>
+*Assessing the Quality of Binomial Samplers: A Statistical Distance Framework* <font size="2"> <br>
+Sourav Chakraborty (Indian Statistical Institute); Kuldeep S. Meel (Georgia Institute of Technology); Uddalok Sarkar (Indian Statistical Institute)  </font>
 
-*Counter Example Guided Reactive Synthesis for LTL Modulo Theories* <br>
-<font size="2"> Andoni Rodriguez, Felipe Gorostiaga, Cesar Sanchez (IMDEA Software Institute)  </font>
+*Counter Example Guided Reactive Synthesis for LTL Modulo Theories* <font size="2"> <br>
+Andoni Rodriguez, Felipe Gorostiaga, Cesar Sanchez (IMDEA Software Institute)  </font>
 
-*Approximate Probabilistic Bisimulation for Continuous-Time Markov Chains* <br>
-<font size="2"> Timm Spork (Technische Universität Dresden, Germany); Christel Baier (TU Dresden); Joost-Pieter Katoen (RWTH-Aachen University, Germany); Sascha Klüppelholz (TU Dresden); Jakob Piribauer (Technische Universität Dresden, Germany; Universität Leipzig, Germany)  </font>
+*Approximate Probabilistic Bisimulation for Continuous-Time Markov Chains* <font size="2"> <br>
+Timm Spork (Technische Universität Dresden, Germany); Christel Baier (TU Dresden); Joost-Pieter Katoen (RWTH-Aachen University, Germany); Sascha Klüppelholz (TU Dresden); Jakob Piribauer (Technische Universität Dresden, Germany; Universität Leipzig, Germany)  </font>
 
-*Automated Verification of Consistency in Zero-Knowledge Proof Circuits* <br>
-<font size="2"> Jon Stephens (University of Texas at Austin); Shankara Pailoor (Veridise Inc); Isil Dillig (University of Texas at Austin)  </font>
+*Automated Verification of Consistency in Zero-Knowledge Proof Circuits* <font size="2"> <br>
+Jon Stephens (University of Texas at Austin); Shankara Pailoor (Veridise Inc); Isil Dillig (University of Texas at Austin)  </font>
 
-*Efficient Probabilistic Model Checking for Relational Reachability* <br>
-<font size="2"> Lina Gerlach (RWTH Aachen Univsersity); Tobias Winkler, Erika Ábrahám (RWTH Aachen University); Borzoo Bonakdarpour (Michigan State University); Sebastian Junges (Radboud University)  </font>
+*Efficient Probabilistic Model Checking for Relational Reachability* <font size="2"> <br>
+Lina Gerlach (RWTH Aachen Univsersity); Tobias Winkler, Erika Ábrahám (RWTH Aachen University); Borzoo Bonakdarpour (Michigan State University); Sebastian Junges (Radboud University)  </font>
 
-*Robust Probabilistic Bisimilarity for Labelled Markov Chains* <br>
-<font size="2"> Franck van Breugel (York University); Syyeda Zainab Fatmi, Stefan Kiefer, David Parker (University of Oxford)  </font>
+*Robust Probabilistic Bisimilarity for Labelled Markov Chains* <font size="2"> <br>
+Franck van Breugel (York University); Syyeda Zainab Fatmi, Stefan Kiefer, David Parker (University of Oxford)  </font>
 
-*A Formally Verified Robustness Certifier for Neural Networks* <br>
-<font size="2"> James Tobler (University of Queensland); Hira Taqdees Syeda, Toby Murray (University of Melbourne)  </font>
+*A Formally Verified Robustness Certifier for Neural Networks* <font size="2"> <br>
+James Tobler (University of Queensland); Hira Taqdees Syeda, Toby Murray (University of Melbourne)  </font>
 
-*Regex Decision Procedures in RE#* <br>
-<font size="2"> Ian Erik Varatalu (Tallinn University of Technology); Margus Veanes (MSR Redmond); Ekaterina Zhuchko, Juhan Ernits (Tallinn University of Technology)  </font>
+*Regex Decision Procedures in RE#* <font size="2"> <br>
+Ian Erik Varatalu (Tallinn University of Technology); Margus Veanes (MSR Redmond); Ekaterina Zhuchko, Juhan Ernits (Tallinn University of Technology)  </font>
 
-*Lean-auto: An Interface between Lean 4 and Automated Theorem Provers* <br>
-<font size="2"> Yicheng Qian (Stanford University); Joshua Clune (Carnegie Mellon University); Clark Barrett (Stanford University); Jeremy Avigad (Carnegie Mellon University)  </font>
+*Lean-auto: An Interface between Lean 4 and Automated Theorem Provers* <font size="2"> <br>
+Yicheng Qian (Stanford University); Joshua Clune (Carnegie Mellon University); Clark Barrett (Stanford University); Jeremy Avigad (Carnegie Mellon University)  </font>
 
-*Accelerating Automated Program Verifiers by Automatic Proof Localization* <br>
-<font size="2"> Kiran Gopinathan (University of Illinois Urbana-Champaign); Dionysios Spiliopoulos (ETH Zurich); Vikram Goyal (National University of Singapore); Peter Müller, Markus Püschel (ETH Zurich); Ilya Sergey (National University of Singapore)  </font>
+*Accelerating Automated Program Verifiers by Automatic Proof Localization* <font size="2"> <br>
+Kiran Gopinathan (University of Illinois Urbana-Champaign); Dionysios Spiliopoulos (ETH Zurich); Vikram Goyal (National University of Singapore); Peter Müller, Markus Püschel (ETH Zurich); Ilya Sergey (National University of Singapore)  </font>
 
-*Accelerating Markov Chain Model Checking: Good-for-Games Meets Unambiguous Automata* <br>
-<font size="2"> Yong Li (Institute of Software, Chinese Academy of Sciences); Soumyajit Paul, Sven Schewe, Qiyi Tang (University of Liverpool)  </font>
+*Accelerating Markov Chain Model Checking: Good-for-Games Meets Unambiguous Automata* <font size="2"> <br>
+Yong Li (Institute of Software, Chinese Academy of Sciences); Soumyajit Paul, Sven Schewe, Qiyi Tang (University of Liverpool)  </font>
 
-*Deeply Optimizing the SAT Solver for the IC3 Algorithm* <br>
-<font size="2"> Yuheng Su (University of Chinese Academy of Sciences; Institute of Software, Chinese Academy of Sciences); Qiusong Yang (Institute of Software, Chinese Academy of Sciences, Beijing, China); Yiwei Ci (Institute of Software, Chinese Academy of Sciences); Yingcheng Li, Tianjun Bu (University of Chinese Academy of Sciences; Institute of Software, Chinese Academy of Sciences); Ziyu Huang (Beijing Forestry University)  </font>
+*Deeply Optimizing the SAT Solver for the IC3 Algorithm* <font size="2"> <br>
+Yuheng Su (University of Chinese Academy of Sciences; Institute of Software, Chinese Academy of Sciences); Qiusong Yang (Institute of Software, Chinese Academy of Sciences, Beijing, China); Yiwei Ci (Institute of Software, Chinese Academy of Sciences); Yingcheng Li, Tianjun Bu (University of Chinese Academy of Sciences; Institute of Software, Chinese Academy of Sciences); Ziyu Huang (Beijing Forestry University)  </font>
 
-*On the Almost-Sure Termination of Probabilistic Counter Programs* <br>
-<font size="2"> Sergei Novozhilov (Zhejiang University; The Hong Kong University of Science and Technology); Mingqi Yang, Mingshuai Chen, Zhiyang Li, Jianwei Yin (Zhejiang University)  </font>
+*On the Almost-Sure Termination of Probabilistic Counter Programs* <font size="2"> <br>
+Sergei Novozhilov (Zhejiang University; The Hong Kong University of Science and Technology); Mingqi Yang, Mingshuai Chen, Zhiyang Li, Jianwei Yin (Zhejiang University)  </font>
 
-*Polyregular Model Checking* <br>
-<font size="2"> Aliaume Lopez, Rafał Stefański (University of Warsaw)  </font>
+*Polyregular Model Checking* <font size="2"> <br>
+Aliaume Lopez, Rafał Stefański (University of Warsaw)  </font>
 
-*Small Decision Trees for MDPs with Deductive Synthesis* <br>
-<font size="2"> Roman Andriushchenko, Milan Češka (Brno University of Technology); Sebastian Junges (Radboud University); Filip Macák (Brno University of Technology)  </font>
+*Small Decision Trees for MDPs with Deductive Synthesis* <font size="2"> <br>
+Roman Andriushchenko, Milan Češka (Brno University of Technology); Sebastian Junges (Radboud University); Filip Macák (Brno University of Technology)  </font>
 
-*Property Directed Reachability with Extended Resolution* <br>
-<font size="2"> Yakir Vizel, Andrew Luka (Technion – Israel Institute of Technology)  </font>
+*Property Directed Reachability with Extended Resolution* <font size="2"> <br>
+Yakir Vizel, Andrew Luka (Technion – Israel Institute of Technology)  </font>
 
-*Arithmetizing Shape Analysis* <br>
-<font size="2"> Sebastian Wolff, Ekanshdeep Gupta (New York University); Zafer Esen (Uppsala University); Hossein Hojjat (TeIAS, Khatam University); Philipp Rümmer (University of Regensburg); Thomas Wies (New York University)  </font>
+*Arithmetizing Shape Analysis* <font size="2"> <br>
+Sebastian Wolff, Ekanshdeep Gupta (New York University); Zafer Esen (Uppsala University); Hossein Hojjat (TeIAS, Khatam University); Philipp Rümmer (University of Regensburg); Thomas Wies (New York University)  </font>
 
-*Automata Learning from Preference and Equivalence Queries* <br>
-<font size="2"> Eric Hsiung, Joydeep Biswas, Swarat Chaudhuri (University of Texas at Austin)  </font>
+*Automata Learning from Preference and Equivalence Queries* <font size="2"> <br>
+Eric Hsiung, Joydeep Biswas, Swarat Chaudhuri (University of Texas at Austin)  </font>
 
-*Infinite-state Liveness Checking with rlive* <br>
-<font size="2"> Alessandro Cimatti, Alberto Griggio (Fondazione Bruno Kessler); Christopher Johannsen, Kristin Yvonne Rozier (Iowa State University); Stefano Tonetta (FBK)  </font>
+*Infinite-state Liveness Checking with rlive* <font size="2"> <br>
+Alessandro Cimatti, Alberto Griggio (Fondazione Bruno Kessler); Christopher Johannsen, Kristin Yvonne Rozier (Iowa State University); Stefano Tonetta (FBK)  </font>
 
-*Scaling Up Proactive Enforcement* <br>
-<font size="2"> François Hublet (ETH Zürich); Leonardo Lima (University of Copenhagen); David Basin, Srdjan Krstic (ETH Zürich); Dmitriy Traytel (University of Copenhagen)  </font>
+*Scaling Up Proactive Enforcement* <font size="2"> <br>
+François Hublet (ETH Zürich); Leonardo Lima (University of Copenhagen); David Basin, Srdjan Krstic (ETH Zürich); Dmitriy Traytel (University of Copenhagen)  </font>
 
-*Data-driven Verification of Procedural Programs with Integer Arrays* <br>
-<font size="2"> Ahmed Bouajjani (Université Paris Cité); Wael-Amine Boutglay (Université Paris Cité and Mohammed VI Polytechnic University); Peter Habermehl (Université Paris Cité)  </font>
+*Data-driven Verification of Procedural Programs with Integer Arrays* <font size="2"> <br>
+Ahmed Bouajjani (Université Paris Cité); Wael-Amine Boutglay (Université Paris Cité and Mohammed VI Polytechnic University); Peter Habermehl (Université Paris Cité)  </font>
 
-*Structural operational semantics for functional and security verification of pipelined processors* <br>
-<font size="2"> Robert Colvin (University of Queensland); Roger Su (Australian National University)  </font>
+*Structural operational semantics for functional and security verification of pipelined processors* <font size="2"> <br>
+Robert Colvin (University of Queensland); Roger Su (Australian National University)  </font>
 
-*Compositional Synthesis of Discrete Event System Controllers with LTL Goals* <br>
-<font size="2"> Hernán Gabriel Gagliardi (Universidad de Buenos Aires); Victor Braberman (Universidad de Buenos Aires/CONICET); Sebastian Uchitel (Universidad de Buenos Aires, CONICET, Imperial College London)  </font>
+*Compositional Synthesis of Discrete Event System Controllers with LTL Goals* <font size="2"> <br>
+Hernán Gabriel Gagliardi (Universidad de Buenos Aires); Victor Braberman (Universidad de Buenos Aires/CONICET); Sebastian Uchitel (Universidad de Buenos Aires, CONICET, Imperial College London)  </font>
 
-*Policy Verification in Stochastic Dynamical Systems Using Logarithmic Neural Certificates* <br>
-<font size="2"> Thom Badings (University of Oxford); Wietze Koops (Lund University); Sebastian Junges (Radboud University); Nils Jansen (Ruhr-University Bochum)  </font>
+*Policy Verification in Stochastic Dynamical Systems Using Logarithmic Neural Certificates* <font size="2"> <br>
+Thom Badings (University of Oxford); Wietze Koops (Lund University); Sebastian Junges (Radboud University); Nils Jansen (Ruhr-University Bochum)  </font>
 
-*A Formally Verified IEEE 754 Floating-Point Implementation of Interval Iteration for MDPs* <br>
-<font size="2"> Bram Kohlen (University of Twente); Maximilian Schäffeler (TU Munich); Mohammad Abdulaziz (King's College London); Arnd Hartmanns, Peter Lammich (University of Twente)  </font>
+*A Formally Verified IEEE 754 Floating-Point Implementation of Interval Iteration for MDPs* <font size="2"> <br>
+Bram Kohlen (University of Twente); Maximilian Schäffeler (TU Munich); Mohammad Abdulaziz (King's College London); Arnd Hartmanns, Peter Lammich (University of Twente)  </font>
 
-*Engineering an Efficient Probabilistic Exact Model Counter* <br>
-<font size="2"> Mate Soos (University of Toronto); Kuldeep S. Meel (Georgia Institute of Technology and University of Toronto)  </font>
+*Engineering an Efficient Probabilistic Exact Model Counter* <font size="2"> <br>
+Mate Soos (University of Toronto); Kuldeep S. Meel (Georgia Institute of Technology and University of Toronto)  </font>
 
-*Verified and Optimized Implementation of Orthologic Proof Search* <br>
-<font size="2"> Simon Guilloud, Clément Pit-Claudel (EPFL)  </font>
+*Verified and Optimized Implementation of Orthologic Proof Search* <font size="2"> <br>
+Simon Guilloud, Clément Pit-Claudel (EPFL)  </font>
 
-*Branching Bisimulation Learning* <br>
-<font size="2"> Alessandro Abate (University of Oxford); Mirco Giacobbe (University of Birmingham); Christian Micheletti (University of Padua); Yannik Schnitzer (University of Oxford)  </font>
+*Branching Bisimulation Learning* <font size="2"> <br>
+Alessandro Abate (University of Oxford); Mirco Giacobbe (University of Birmingham); Christian Micheletti (University of Padua); Yannik Schnitzer (University of Oxford)  </font>
 
-*Automatic Synthesis of Smooth Infinite Horizon Paths Satisfying Linear Temporal Logic Specifications* <br>
-<font size="2"> Samuel Williams, Jyotirmoy Deshmukh (University of Southern California)  </font>
+*Automatic Synthesis of Smooth Infinite Horizon Paths Satisfying Linear Temporal Logic Specifications* <font size="2"> <br>
+Samuel Williams, Jyotirmoy Deshmukh (University of Southern California)  </font>
 
-*FoRSMin: Systematic Derivation of Reachability Invariants for Distributed Protocols* <br>
-<font size="2"> Yun-Rong Luo (University of Michigan, Ann Arbor); Aman Goel (AWS); Karem Sakallah (University of Michigan)  </font>
+*FoRSMin: Systematic Derivation of Reachability Invariants for Distributed Protocols* <font size="2"> <br>
+Yun-Rong Luo (University of Michigan, Ann Arbor); Aman Goel (AWS); Karem Sakallah (University of Michigan)  </font>
 
-*Raven: An SMT-Based Concurrency Verifier* <br>
-<font size="2"> Ekanshdeep Gupta, Nisarg Patel, Thomas Wies (New York University)  </font>
+*Raven: An SMT-Based Concurrency Verifier* <font size="2"> <br>
+Ekanshdeep Gupta, Nisarg Patel, Thomas Wies (New York University)  </font>
 
-*Counterexample-Guided Commutativity* <br>
-<font size="2"> Marcel Ebbinghaus, Dominik Klumpp, Andreas Podelski (University of Freiburg)  </font>
+*Counterexample-Guided Commutativity* <font size="2"> <br>
+Marcel Ebbinghaus, Dominik Klumpp, Andreas Podelski (University of Freiburg)  </font>
 
-*FeynmanDD: Quantum Circuit Analysis with Classical Decision Diagrams* <br>
-<font size="2"> Ziyuan Wang (Tsinghua); Bin Cheng (NUS); Longxiang Yuan (Tsinghua); Zhengfeng Ji (Tsinghua and Zhongguancun Lab)  </font>
+*FeynmanDD: Quantum Circuit Analysis with Classical Decision Diagrams* <font size="2"> <br>
+Ziyuan Wang (Tsinghua); Bin Cheng (NUS); Longxiang Yuan (Tsinghua); Zhengfeng Ji (Tsinghua and Zhongguancun Lab)  </font>
 
-*INTERLEAVE: Empirically Faster Symbolic MEC Decomposition* <br>
-<font size="2"> Suguman Bansal (Georgia Institute of Technolgy); Ramneet Singh (Indian Institute of Technology Delhi)  </font>
+*INTERLEAVE: Empirically Faster Symbolic MEC Decomposition* <font size="2"> <br>
+Suguman Bansal (Georgia Institute of Technolgy); Ramneet Singh (Indian Institute of Technology Delhi)  </font>
 
-*GPUMC: A Stateless Model Checker for GPU Weak Memory Concurrency* <br>
-<font size="2"> Soham Chakraborty (TU Delft); S. Krishna (IIT Bombay); Andreas Pavlogiannis (Aarhus University); Omkar Tuppe (IIT Bombay)  </font>
+*GPUMC: A Stateless Model Checker for GPU Weak Memory Concurrency* <font size="2"> <br>
+Soham Chakraborty (TU Delft); S. Krishna (IIT Bombay); Andreas Pavlogiannis (Aarhus University); Omkar Tuppe (IIT Bombay)  </font>
 
-*Deductive Synthesis of Reinforcement Learning Agents for Infinite Horizon Tasks* <br>
-<font size="2"> Yuning Wang, He Zhu (Rutgers)  </font>
+*Deductive Synthesis of Reinforcement Learning Agents for Infinite Horizon Tasks* <font size="2"> <br>
+Yuning Wang, He Zhu (Rutgers)  </font>
 
-*Quantitative Supermartingale Certificates* <br>
-<font size="2"> Alessandro Abate (University of Oxford); Mirco Giacobbe, Diptarko Roy (University of Birmingham)  </font>
+*Quantitative Supermartingale Certificates* <font size="2"> <br>
+Alessandro Abate (University of Oxford); Mirco Giacobbe, Diptarko Roy (University of Birmingham)  </font>
 
-*Compositional Abstraction for Timed Systems with Broadcast Synchronization* <br>
-<font size="2"> Hanyue Chen (Tongji University); Miaomiao Zhang (Tongji Uniersity); Frits Vaandrager (Radboud University)  </font>
+*Compositional Abstraction for Timed Systems with Broadcast Synchronization* <font size="2"> <br>
+Hanyue Chen (Tongji University); Miaomiao Zhang (Tongji Uniersity); Frits Vaandrager (Radboud University)  </font>
 
-*Supermartingale Certificates for Quantitative Omega-regular Verification and Control* <br>
-<font size="2"> Thomas A. Henzinger (IST Austria); Kaushik Mallik (IMDEA Software Institute); Pouya Sadeghi (University of Tehran); Djordje Zikelic (Singapore Management University)  </font>
+*Supermartingale Certificates for Quantitative Omega-regular Verification and Control* <font size="2"> <br>
+Thomas A. Henzinger (IST Austria); Kaushik Mallik (IMDEA Software Institute); Pouya Sadeghi (University of Tehran); Djordje Zikelic (Singapore Management University)  </font>

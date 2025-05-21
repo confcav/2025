@@ -4,8 +4,8 @@ title: Accepted Papers
 ---
 #### Research Papers 
 
-*Verifying Tree-Manipulating Programs via CHCs* <br>
-<font size="2"> Gennaro Parlato (University of Molise); Marco Faella (University of Naples Federico II) </font>
+*Verifying Tree-Manipulating Programs via CHCs* <font size="2">  <br>
+Gennaro Parlato (University of Molise); Marco Faella (University of Naples Federico II) </font>
 
 *Automatic Verification of Floating-Point Accumulation Networks* <br>
 <font size="2"> David K. Zhang, Alex Aiken (Stanford University)  </font>

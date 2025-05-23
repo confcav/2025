@@ -34,6 +34,8 @@ website: [https://www.andrew.cmu.edu/user/pcorina/](https://www.andrew.cmu.edu/u
 
 [Roderick Bloem](https://www.iaik.tugraz.at/person/roderick-bloem/), Graz University of Technology
 
+<img src="https://conferences.i-cav.org/2025/assets/img/Roderick.jpg" alt="Roderick" width="200">
+
  **Abstract:** We will present a method to prove the absence of power side channels in systems that are protected using masking. Power side channels may allow attackers to discover secret information by measuring electromagnetic emanations from a chip. Masking is a countermeasure to hide secrets by duplication and addition of randomness. We will discuss how to formally prove security against power side channel techniques for circuits. We will then move on to software running on a CPU, where hardware details can have surprising effects. We will present some vulnerabilities on a small CPU and how to fix them, and we will talk about contracts that take side channels into account.
 
 **Bio:** Roderick Bloem is a professor at Graz University of Technology. He received his M.Sc. degree in Computer Science from Leiden University, the Netherlands, in 1996, and his Ph.D. degree in Computer Science from the University of Colorado at Boulder in 2001.  From 2002 until 2008, he was an Assistant at Graz University of Technology, Graz, Austria. From 2008, he has been a full professor of Computer Science at the same university. He is a co-editor of the Handbook of Model Checking and has published over 140 peer reviewed papers in formal verification, reactive synthesis, Safe AI, and security.

@@ -21,6 +21,7 @@ author: International Conference on Computer Aided Verification
 
 navbar-links:
   Registration: "registration"
+  Accepted Papers: "accepted"
   Calls:
     - Call for Papers: "cfp"
     - Call for Workshops: "cfw"

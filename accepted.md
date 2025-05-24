@@ -139,7 +139,7 @@ Marcel Ebbinghaus, Dominik Klumpp, Andreas Podelski (University of Freiburg)  </
 * FeynmanDD: Quantum Circuit Analysis with Classical Decision Diagrams <font size="2"> <br>
 Ziyuan Wang (Tsinghua); Bin Cheng (NUS); Longxiang Yuan (Tsinghua); Zhengfeng Ji (Tsinghua and Zhongguancun Lab)  </font>
 
-* INTERLEAVE: Empirically Faster Symbolic MEC Decomposition <font size="2"> <br>
+* INTERLEAVE: A Faster Symbolic Algorithm for Maximal End Component Decomposition <font size="2"> <br>
 Suguman Bansal (Georgia Institute of Technolgy); Ramneet Singh (Indian Institute of Technology Delhi)  </font>
 
 * GPUMC: A Stateless Model Checker for GPU Weak Memory Concurrency <font size="2"> <br>
@@ -177,7 +177,7 @@ Adwait Godbole (University of California, Berkeley); Brian Huffman (Intel Labs);
 Benjamin von Berg, Bernhard Aichernig (TU Graz) </font>
 
 * The Vampire Diary <font size="2"> <br>
-Filip Bartek (Czech Technical University in Prague); Ahmed Bhayat (University of Manchester); Robin Coutelier, Marton Hajdu, Matthias Hetzenberger (TU Wien); Petra Hozzova (Czech Technical University in Prague); Laura Kovacs, Jakob Rath (TU Wien); Michael Rawson (University of Southampton); Giles Reger (The University of Manchester); Martin Suda (Czech Technical University in Prague); Johannes Schoisswohl (TU Wien); Andrei Voronkov (The University of Manhester) </font>
+Filip Bartek (Czech Technical University in Prague); Ahmed Bhayat (University of Manchester); Robin Coutelier, Marton Hajdu, Matthias Hetzenberger (TU Wien); Petra Hozzova (Czech Technical University in Prague); Laura Kovacs, Jakob Rath (TU Wien); Michael Rawson (University of Southampton); Giles Reger (The University of Manchester); Martin Suda (Czech Technical University in Prague); Johannes Schoisswohl (TU Wien); Andrei Voronkov (The University of Manchester) </font>
 
 * Fifteen Years of Viper <font size="2"> <br>
 Marco Eilers, Malte Schwerhoff (ETH Zurich); Alexander J. Summers (University of British Columbia); Peter Müller (ETH Zurich) </font>

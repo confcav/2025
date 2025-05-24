@@ -5,13 +5,13 @@ title: Accepted Papers
 #### Research Papers 
 
 * Verifying Tree-Manipulating Programs via CHCs <font size="2">  <br>
-Gennaro Parlato (University of Molise); Marco Faella (University of Naples Federico II) </font>
+Marco Faella (University of Naples Federico II); Gennaro Parlato (University of Molise) </font>
 
 * Automatic Verification of Floating-Point Accumulation Networks <font size="2"> <br>
 David K. Zhang, Alex Aiken (Stanford University)  </font>
 
 * Relational Hoare Logic for Realistically Modelled Machine Code <font size="2"> <br>
-Denis Mazzucato (Carnegie Mellow University); Abdalrhman Mohamed (Stanford University); Juneyoung Lee (Amazon Web Services); Clark Barrett (Stanford University); Jim Grundy, John Harrison (Amazon Web Services); Corina Pasareanu (NASA Ames and Carnegie Mellow University) </font>
+Denis Mazzucato (Carnegie Mellon University); Abdalrhman Mohamed (Stanford University); Juneyoung Lee (Amazon Web Services); Clark Barrett (Stanford University); Jim Grundy, John Harrison (Amazon Web Services); Corina Pasareanu (NASA Ames and Carnegie Mellon University) </font>
 
 * Counting Abstraction and Decidability for the Verification of Structured Parameterized Networks <font size="2"> <br>
 Marius Bozga, Radu Iosif (Univ. Grenoble Alpes, Grenoble INP, VERIMAG); Arnaud Sangnier (DIBRIS, Univ. of Genova, Italy); Neven Villani (Univ. Grenoble Alpes, Grenoble INP, VERIMAG)  </font>
@@ -19,8 +19,8 @@ Marius Bozga, Radu Iosif (Univ. Grenoble Alpes, Grenoble INP, VERIMAG); Arnaud S
 * Automated Verification of Monotonic Data Structure Traversals in C <font size="2"> <br>
 Matthew Sotoudeh (Stanford University)  </font>
 
-* Verifying Fault Tolerance of Quantum Error Correction Codes <font size="2"> <br>
-Kean Chen, Yuhao Liu (University of Pennsylvania); Wang Fang (University of Edinburgh); Jennifer Paykin, Xin-Chuan Wu, Albert Schmitz (Intel); Steve Zdancewic, Gushu Li (University of Pennsylvania)  </font>
+* Verifying Fault-Tolerance of Quantum Error Correction Codes <font size="2"> <br>
+Kean Chen, Yuhao Liu (University of Pennsylvania); Wang Fang (University of Edinburgh); Jennifer Paykin, Xin-Chuan Wu, Albert Schmitz (Intel Corporation); Steve Zdancewic, Gushu Li (University of Pennsylvania)  </font>
 
 * Full LTL Synthesis over Infinite-state Arenas <font size="2"> <br>
 Shaun Azzopardi (N/A); Luca Di Stefano (TU Wien); Nir Piterman, Gerardo Schneider (University of Gothenburg and Chalmers University of Technology)  </font>
@@ -38,16 +38,17 @@ Paolo Baldan (University of Padova); Sebastian Gurke (University of Duisburg-Ess
 Yingte Xu (Max Planck Institute for Security and Privacy); Gilles Barthe (Max Planck Institute for Security and Privacy & IMDEA Software Institute); Li Zhou (Institute of Software, Chinese Academy of Sciences)  </font>
 
 * Floating-Point Neural Networks Are Provably Robust Universal Approximators <font size="2"> <br>
-Geonho Hwang (Korea Institute for Advanced Study); Wonyeol Lee (POSTECH); Yeachan Park (Korea Institute for Advanced Study); Sejun Park (Korea University); Feras Saad (Carnegie Mellon University)  </font>
+Geonho Hwang (GIST); Wonyeol Lee (POSTECH); Yeachan Park (Sejong University); Sejun Park (Korea University); Feras Saad (Carnegie Mellon University)  </font>
 
 * Assessing the Quality of Binomial Samplers: A Statistical Distance Framework <font size="2"> <br>
 Sourav Chakraborty (Indian Statistical Institute); Kuldeep S. Meel (Georgia Institute of Technology); Uddalok Sarkar (Indian Statistical Institute)  </font>
 
 * Counter Example Guided Reactive Synthesis for LTL Modulo Theories <font size="2"> <br>
-Andoni Rodriguez, Felipe Gorostiaga, Cesar Sanchez (IMDEA Software Institute)  </font>
+Andoni Rodriguez (IMDEA Software Institute and Universidad Politecnica
+de Madrid, Spain); Felipe Gorostiaga, Cesar Sanchez (IMDEA Software Institute)  </font>
 
 * Approximate Probabilistic Bisimulation for Continuous-Time Markov Chains <font size="2"> <br>
-Timm Spork (Technische Universität Dresden, Germany); Christel Baier (TU Dresden); Joost-Pieter Katoen (RWTH-Aachen University, Germany); Sascha Klüppelholz (TU Dresden); Jakob Piribauer (Technische Universität Dresden, Germany; Universität Leipzig, Germany)  </font>
+Timm Spork, Christel Baier (Technische Universität Dresden); Joost-Pieter Katoen (RWTH Aachen University); Sascha Klüppelholz (Technische Universität Dresden); Jakob Piribauer (Technische Universität Dresden; Universität Leipzig)  </font>
 
 * Automated Verification of Consistency in Zero-Knowledge Proof Circuits <font size="2"> <br>
 Jon Stephens (University of Texas at Austin); Shankara Pailoor (Veridise Inc); Isil Dillig (University of Texas at Austin)  </font>
@@ -241,5 +242,5 @@ Roberto Cavada, Alessandro Cimatti, Alberto Griggio, Christian Lidström, Gianlu
 * Verifying PETSc Vector Components Using CIVL <font size="2"> <br>
 Venkata Narayana Sarma Dhavala, Stephen F. Siegel (University of Delaware); Jan Hueckelheim, Paul Hovland (Argonne National Laboratory)  </font>
 
-* Space Explanations of Neural Network Classification (Case Study) <font size="2"> <br>
+* Space Explanations of Neural Network Classification <font size="2"> <br>
 Tomas Kolarik (Università della Svizzera italiana, USI); Faezeh Labbaf (Università della Svizzera italiana (USI)); Martin Blicha (Università della Svizzera italiana); Grigory Fedyukovich (Florida State University); Natasha Sharygina (University of Lugano); Michael Wand (Istituto Dalle Molle di studi sull’intelligenza artificiale USI-SUPSI)  </font>

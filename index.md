@@ -23,7 +23,7 @@ from July 21-25, 2025 in Zagreb, Croatia
 * Full papers due: ~~January 31, 2025~~ **\*Firm\***
 * Author response period: ~~March 11 - 14, 2025~~
 * Author notification: ~~April 2, 2025~~
-* Camera-ready deadline: May 23, 2025
+* Camera-ready deadline: ~~May 23, 2025~~
 
 #### WORKSHOP PROPOSAL SUBMISSIONS
 * Proposals are due by email to the Workshop chair: December 1, 2024

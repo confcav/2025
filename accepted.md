@@ -243,4 +243,4 @@ Roberto Cavada, Alessandro Cimatti, Alberto Griggio, Christian Lidström, Gianlu
 Venkata Narayana Sarma Dhavala, Stephen F. Siegel (University of Delaware); Jan Hueckelheim, Paul Hovland (Argonne National Laboratory)  </font>
 
 * Space Explanations of Neural Network Classification <font size="2"> <br>
-Faezeh Labbaf, Tomas Kolarik, Martin Blicha (University of Lugano (USI)); Grigory Fedyukovich (Florida State University); Michael Wand (SUPSI, IDSIA, Lugano); Natasha Sharygina (University of Lugano (USI))  </font>
+Faezeh Labbaf, Tomas Kolarik (University of Lugano (USI)); Martin Blicha (University of Lugano (USI), Ethereum Foundation) Grigory Fedyukovich (Florida State University, University of Lugano (USI)); Michael Wand (SUPSI, IDSIA, Lugano); Natasha Sharygina (University of Lugano (USI))  </font>

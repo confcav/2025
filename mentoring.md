@@ -15,25 +15,25 @@ We warmly invite students to apply for travel scholarships to attend the Verific
 Deadline for applications: May 2, 2025
 
 #### Invited Speakers
-[Cesare Tinelli](https://homepage.cs.uiowa.edu/~tinelli/), University of Iowa
 <img src="https://conferences.i-cav.org/2025/assets/img/cesare.jpg" alt="Cesare" width="200">
+[Cesare Tinelli](https://homepage.cs.uiowa.edu/~tinelli/), University of Iowa
 **Abstract:** TBA
 
-[Anne-Kathrin Schmuck](https://wp.mpi-sws.org/akschmuck/), Max Planck Institute for Software Systems
 <img src="https://conferences.i-cav.org/2025/assets/img/akschmuck.jpg" alt="Anne-Kathrin" width="200">
+[Anne-Kathrin Schmuck](https://wp.mpi-sws.org/akschmuck/), Max Planck Institute for Software Systems
 **Abstract:** TBA
 
-[Sebastian Junges](https://sjunges.github.io/), Radboud University
 <img src="https://conferences.i-cav.org/2025/assets/img/sebastian.jpg" alt="Sebastian" width="200">
+[Sebastian Junges](https://sjunges.github.io/), Radboud University
 **Abstract:** TBA
 
 
-[Roderick Bloem](https://www.iaik.tugraz.at/person/roderick-bloem/), Graz University of Technology
 <img src="https://conferences.i-cav.org/2025/assets/img/Roderick-2.jpg" alt="Roderick" width="200">
+[Roderick Bloem](https://www.iaik.tugraz.at/person/roderick-bloem/), Graz University of Technology
 **Abstract:** TBA
 
-[Sanjit Seshia](https://people.eecs.berkeley.edu/~sseshia/), University of California, Berkeley
 <img src="https://conferences.i-cav.org/2025/assets/img/sanjit.jpg" alt="Sanjit" width="200">
+[Sanjit Seshia](https://people.eecs.berkeley.edu/~sseshia/), University of California, Berkeley
 **Abstract:** TBA
 
 

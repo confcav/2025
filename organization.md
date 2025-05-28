@@ -102,7 +102,7 @@ Alfons Laarman, Leiden Institute of Advanced Computer Science (LIACS) <br>
 [Hari Govind Vediramana Krishnan](https://hgvk94.github.io/), University of Waterloo <br>
 [Hazem Torfah](https://starlab.systems/torfah.html), Chalmers University of Technology, Sweden <br>
 [He Zhu](https://herowanzhu.github.io/), Rutgers <br>
-[Hossein Hojjat](https://teias.institute/~hojjat/), Tehran Institute of Advanced Studies <br>
+[Hossein Hojjat](https://teias.institute/~hojjat/),  Tehran Institute for Advanced Studies <br>
 [Ichiro Hasuo](https://group-mmm.org/~ichiro/), National Institute of Informatics <br> 
 [Jana Hofmann](https://janahofmann.github.io/), MPI-SP <br>
 [Ji Guan](https://scholar.google.com/citations?user=muIp5UIAAAAJ&hl=en), Institute of Software, Chinese Academy of Sciences <br>

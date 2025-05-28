@@ -10,9 +10,9 @@ The workshop program will include a number of talks and interactive sessions. Th
 
 #### Student Travel Scholarship
 
-We warmly invite students to apply for travel scholarships to attend the Verification Mentoring Workshop and CAV 2025. Applications are received via the [form](https://docs.google.com/forms/d/e/1FAIpQLSd7d0zcZ6BSepxDfY2hmb2fL8Go7_SWTL_VDkjxjBeprz3Qhw/viewform?usp=dialog).
+We warmly invite students to apply for travel scholarships to attend the Verification Mentoring Workshop and CAV 2025. Applications are now closed.
 
-Deadline for applications: May 2, 2025
+Deadline for applications: ~~May 2, 2025~~
 
 #### Invited Speakers
 [Cesare Tinelli](https://homepage.cs.uiowa.edu/~tinelli/), University of Iowa <br>
@@ -46,5 +46,3 @@ Deadline for applications: May 2, 2025
 Elizabeth Polgreen, University of Edinburgh <br>
 Kaushik Mallik, IMDEA Software Institute <br>
 Thom Badings, University of Oxford
-
-Further details TBA

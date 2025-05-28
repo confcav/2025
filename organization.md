@@ -134,7 +134,7 @@ Joey Dodds, Amazon <br>
 [Peter Müller](https://www.pm.inf.ethz.ch/people/group-members/pmueller.html), ETH Zurich <br>
 [Philipp Ruemmer](http://www.philipp.ruemmer.org/), University of Regensburg <br>
 Qinxiang Cao, Shanghai Jiao Tong University <br>
-[Ravi Mangal](https://www.cs.colostate.edu/ravimangal/), Colorado State University <br> 
+[Ravi Mangal](https://ravimangal.github.io/), Colorado State University <br> 
 [Rayna Dimitrova](https://cispa.de/en/people/c01radi), CISPA Helmholtz Center for Information Security <br>
 [Roderick Bloem](https://www.iaik.tugraz.at/person/roderick-bloem/), Graz University of Technology <br>
 [Ruzica Piskac chair](http://www.cs.yale.edu/homes/piskac/), Yale <br>

@@ -56,23 +56,23 @@ If arriving by train, the main conference venue is just a short 20-minute walk f
 
 #### Things To Do and Experience
 
-##### Experience Spica
+###### Experience Spica
 Špica (pronounced as: shpizza) is a tradition in Zagreb, and other cities in Croatia, of slowly sipping coffee and people watching at or around the main square. Traditionally, one goes to špica on Saturday mornings, often after buying groceries at the local market (such as Dolac market next to the main square that is worth checking out), but really any nice sunny day after work or during lunch break works. Here is a longer read about špica in [Zagreb](https://zablogreb.wordpress.com/2013/10/15/what-topping-do-you-want-on-your-spica/)
 
 So, pick a nice day and go to the area around Zagreb's main square to relax, have coffee and maybe a kremšnita (traditional dessert), and experience real Zagreb špica.
 
-##### Walk around Upper Town
+###### Walk around Upper Town
 Zagreb Upper Town (Gornji grad) is the old part of the city situated on a hill above the main square (Trg Bana Josipa Jelacica). It offers beautiful views of the city, as well as numerous historical buildings and museums, such as Saint Mark’s church, Croatian parliament, Croatian Museum of Naive Art, etc.
 
 
-##### Bakeries
+###### Bakeries
 Bakeries are everywhere in Zagreb. Apart from selling fresh bread, they typically also sell an assortment of fresh pastries, both sweet and savory. It is common for people in Zagreb to grab a quick breakfast or a late-night snack to-go from a local bakery.
 
-##### Coffee
+###### Coffee
 Cafes are everywhere in Zagreb
 
-##### Hike up Sljeme
+###### Hike up Sljeme
 Sljeme is the local mountain you can see on the outskirts of Zagreb, and a favorite hiking and picnic area for locals. There is a cable car that goes to the top, which you can reach by tram (#14) and then a short bus ride. Or you can hike up and take that cable car down.
 
-##### Food
+###### Food
 Here is a good list of local dishes to try while in [Zagreb](https://www.goatrotichronicles.ca/what-to-eat-in-zagreb/)

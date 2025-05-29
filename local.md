@@ -21,7 +21,7 @@ Below are a few convenient hotels located near the venue.
 
 
 #### Restaurants
-We can recommend a few restaurants in the Zagreb center:
+We can recommend a few restaurants in the Zagreb center: <br>
 [Restoran Vinodol -](https://vinodol-zg.hr/en/) traditional and international dishes <br>
 [Restoran Korčula -](https://www.restoran-korcula.hr/home) mostly traditional fish dishes <br>
 [BioMania Zagreb -](https://biomania.hr/locations/biomania-zagreb/) vegan & organic dishes <br>

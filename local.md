@@ -4,7 +4,7 @@ title: Local
 ---
 
 #### General Information
-Zagreb is a vibrant, walkable, and safe city. Even late at night, it is safe to walk around, which is handy since nightlife venues, such as bars, are often open until very late. (Why are they open late? To find out, you can read about the “party breaking” term that is commonly used in Croatia in this fun blog post: https://zablogreb.wordpress.com/category/party-breakers/).
+Zagreb is a vibrant, walkable, and safe city. Even late at night, it is safe to walk around, which is handy since nightlife venues, such as bars, are often open until very late. (Why are they open late? To find out, you can read about the “party breaking” term that is commonly used in Croatia in this fun [blog post](https://zablogreb.wordpress.com/category/party-breakers/)).
 
 Note that the main conference and workshops are in two different venues (see Venues for more information). The venues are a short 20-minute walk from each other. Moreover, there are tram stops really close to them, and tram #13 takes you back and forth (4 stops, around 15-20 minutes including walking). 
 
@@ -22,33 +22,35 @@ Below are a few convenient hotels located near the venue.
 
 #### Restaurants
 We can recommend a few restaurants in the Zagreb center:
-[Restoran Vinodol -](https://vinodol-zg.hr/en/) traditional and international dishes
-[Restoran Korčula -](https://www.restoran-korcula.hr/home) mostly traditional fish dishes
-[BioMania Zagreb -](https://biomania.hr/locations/biomania-zagreb/) vegan & organic dishes
-[Gourmet Bar Basta -](https://basta.bar/zagreb-en/) well-known for its pizzas
+[Restoran Vinodol -](https://vinodol-zg.hr/en/) traditional and international dishes <br>
+[Restoran Korčula -](https://www.restoran-korcula.hr/home) mostly traditional fish dishes <br>
+[BioMania Zagreb -](https://biomania.hr/locations/biomania-zagreb/) vegan & organic dishes <br>
+[Gourmet Bar Basta -](https://basta.bar/zagreb-en/) well-known for its pizzas <br>
 
 
 #### Public Transportation
 
-##### Trams
+###### Trams
 Trams (and sometimes buses) are a convenient and cheap public transportation option for exploring the city. For more details, including how to purchase tickets, please see this [link](https://www.zet.hr/en).
-##### Taxi
+
+###### Taxi
 Uber is available in Zagreb, and we recommend it as an easy and convenient way to get a taxi ride. There are many regular taxis as well; if using a regular taxi, you should make sure to ask about the rate/cost in advance before starting your ride. For regular taxis, about 30 EUR should be expected from the Airport to anywhere in the Zagreb center or vice versa.
-##### Bikes
+
+###### Bikes
 It is possible to rent a bike from several rental agencies, see, for example [here](https://rentabikezagreb.com/)
 In the last several years, there has been much improvement in bicycle lanes across the city. Still, for touring the strict Zagreb center and the old town, bikes are not recommended as there are almost no lanes and there are a lot of pedestrians around. So, the preferred method of transport around the center is by tram or on foot.
 For bike lanes throughout the city, please see this [link](https://sindikatbiciklista.hr/en/our-work/small-steps-to-a-cycling-friendly-city/cycling-through-the-city/) 
 
 
-##### Arriving by Air
+###### Arriving by Air
 Flights should be made with the final destination listed as Zagreb International Airport (ZAG Franjo Tudman). This is the only international airport in Zagreb and is located about a 20-minute drive from Zagreb center (about 15 kilometers).
 
 
-##### Options to get to the city?
+###### Options to get to the city?
 From the Zagreb Airport, there are several options to get to the city, including taxis, Uber, bus, or rent-a-car. Please see this [link](https://www.zagreb-airport.hr/en/passengers/to-from-the-airport/35) 
 The least expensive option is the bus, which will take you from the airport to the Zagreb Central Bus Station (Autobusni kolodvor Zagreb in Croatian: [link](https://www.akz.hr/)) in about a 35-minute drive. The bus leaves every 30 minutes. You may take a taxi, Uber, or Tram to your destination from the Zagreb Central Bus Station.
 
-##### Arriving by Train
+###### Arriving by Train
 If arriving by train, the main conference venue is just a short 20-minute walk from the main Zagreb train station (Glavni kolodvor in Croatian). Alternatively, there are trams too (#2, #4, #9) as well as taxis.
 
 

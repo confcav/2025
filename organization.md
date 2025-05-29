@@ -150,7 +150,7 @@ Qinxiang Cao, Shanghai Jiao Tong University <br>
 [Subhajit Roy](https://www.cse.iitk.ac.in/users/subhajit/), Indian Institute of Technology Kanpur <br>
 [Sylvie Putot](https://www.lix.polytechnique.fr/Labo/Sylvie.Putot/), Ecole Polytechnique <br>
 [Tachio Terauchi](https://terauchi.w.waseda.jp/), Waseda University <br>
-[Tatjana Petrov](https://www.tpetrov.info/), University of Konstanz <br>
+[Tatjana Petrov](https://www.tpetrov.info/), University of Trieste, Italy <br>
 [Thomas Wahl](https://www.khoury.northeastern.edu/home/wahl/), Trusted Science and Technology, Inc. <br>
 Tim King, Amazon <br>
 [Timos Antonopoulos](https://www.cs.yale.edu/homes/antonopoulos-timos/), Yale University <br>

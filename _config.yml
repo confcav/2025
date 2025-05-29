@@ -28,7 +28,7 @@ navbar-links:
   Calls:
     - Call for Papers: "cfp"
     - Call for Workshops: "cfw"
-  Artifact Evaluation: "artifact"
+    - Artifact Evaluation: "artifact"
   Workshops: 
     - Workshops: "workshops"
     - Mentoring: "mentoring"

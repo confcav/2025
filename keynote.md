@@ -2,13 +2,13 @@
 layout: page
 title: Keynotes
 ---
-### Title: TBA
+### Through the Looking Glass: Semantic Analysis of Neural Networks
 
 [Corina Păsăreanu](https://www.andrew.cmu.edu/user/pcorina/), Carnegie Mellon University, USA
 
 <img src="https://conferences.i-cav.org/2025/assets/img/corina.png" alt="Corina" width="200">
 
-**Abstract:** TBA
+**Abstract:** Neural networks are known for their lack of transparency, making them difficult to understand and analyze. In this talk, we explore methods designed to interpret, formally analyze, and even shape the internal representations of neural networks using human-understandable abstractions. We review recent techniques including the use of vision-language models to investigate perception modules, the application of probing and steering vectors to identify vulnerabilities in code models, and an axiomatic approach for validating mechanistic interpretation of transformer models.
 
 **Bio:** Corina Pasareanu is an ACM Fellow working at NASA Ames. She is
 affiliated with KBR and Carnegie Mellon University's CyLab. Her

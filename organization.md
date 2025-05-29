@@ -50,7 +50,7 @@ title: Organization
 [Alan J. Hu](https://www.cs.ubc.ca/people/alan-hu), University of British Columbia <br>
 [Alberto Griggio](https://es-static.fbk.eu/people/griggio/), Fondazione Bruno Kessler <br>
 [Alessandro Cimatti](https://dicenter.fbk.eu/contacts/alessandro-cimatti/), Fondazione Bruno Kessler <br>
-[Alexander Nadel](https://www.cs.tau.ac.il/research/alexander.nadel/), Technion & Intel <br>
+[Alexander Nadel](https://www.cs.tau.ac.il/research/alexander.nadel/), Technion & NVIDIA <br>
 [Alexander J. Summers](https://www.cs.ubc.ca/~alexsumm/) University of British Columbia <br>
 Alfons Laarman, Leiden Institute of Advanced Computer Science (LIACS) <br>
 [Aman Goel](https://aman-goel.github.io/), AWS <br>
@@ -80,7 +80,7 @@ Alfons Laarman, Leiden Institute of Advanced Computer Science (LIACS) <br>
 [Corina Pasareanu](https://www.cylab.cmu.edu/directory/bios/pasareanu-corina.html), NASA Ames and Carnegie Mellon University <br>
 [Cristina David](https://cristina-david.github.io/), University of Bristol <br>
 [Daniel Kröning](https://www.kroening.com/), Amazon <br>
-[Daniel STAN](http://www.lre.epita.fr/perso/daniel-stan/), LRE Epita, <br>
+[Daniel STAN](http://www.lre.epita.fr/perso/daniel-stan/), LRE EPITA, ICube, University of Strasbourg, France <br>
 [Damien Zufferey](https://dzufferey.github.io/), NVIDIA <br>
 [Dirk Beyer](https://www.sosy-lab.org/people/beyer/), LMU Munich, Germany <br>
 [Dominik Winterer](https://wintered.github.io/), ETH Zurich <br>
@@ -98,7 +98,7 @@ Alfons Laarman, Leiden Institute of Advanced Computer Science (LIACS) <br>
 [Guy Katz](https://www.katz-lab.com/), The Hebrew University of Jerusalem <br>
 [Hadar Frenkel](https://u.cs.biu.ac.il/~frenkeh3/), Bar Ilan University <br>
 [Haoze (Andrew) Wu](https://wu-haoze.github.io/), Amherst College <br>
-[Harald Ruess](https://www.linkedin.com/in/harald-ruess-24aa1920/?locale=de_DE), Entalus, FL, USA <br>
+[Harald Ruess](https://www.linkedin.com/in/harald-ruess-24aa1920/?locale=de_DE), SRI International, Menlo Park, California <br>
 [Hari Govind Vediramana Krishnan](https://hgvk94.github.io/), University of Waterloo <br>
 [Hazem Torfah](https://starlab.systems/torfah.html), Chalmers University of Technology, Sweden <br>
 [He Zhu](https://herowanzhu.github.io/), Rutgers <br>

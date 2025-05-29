@@ -45,9 +45,8 @@ For bike lanes throughout the city, please see this [link](https://sindikatbicik
 ###### Arriving by Air
 Flights should be made with the final destination listed as Zagreb International Airport (ZAG Franjo Tudman). This is the only international airport in Zagreb and is located about a 20-minute drive from Zagreb center (about 15 kilometers).
 
-
-###### Options to get to the city?
 From the Zagreb Airport, there are several options to get to the city, including taxis, Uber, bus, or rent-a-car. Please see this [link](https://www.zagreb-airport.hr/en/passengers/to-from-the-airport/35) 
+
 The least expensive option is the bus, which will take you from the airport to the Zagreb Central Bus Station (Autobusni kolodvor Zagreb in Croatian: [link](https://www.akz.hr/)) in about a 35-minute drive. The bus leaves every 30 minutes. You may take a taxi, Uber, or Tram to your destination from the Zagreb Central Bus Station.
 
 ###### Arriving by Train
@@ -69,7 +68,7 @@ Zagreb Upper Town (Gornji grad) is the old part of the city situated on a hill a
 Bakeries are everywhere in Zagreb. Apart from selling fresh bread, they typically also sell an assortment of fresh pastries, both sweet and savory. It is common for people in Zagreb to grab a quick breakfast or a late-night snack to-go from a local bakery.
 
 ###### Coffee
-Cafes are everywhere in Zagreb
+Cafes are everywhere in Zagreb, and many will open their patios in summer. While nowadays it is easy to get coffee to-go, traditionally, slowly enjoying coffee while relaxing, reading, or chatting with friends or colleagues is the way to go.
 
 ###### Hike up Sljeme
 Sljeme is the local mountain you can see on the outskirts of Zagreb, and a favorite hiking and picnic area for locals. There is a cable car that goes to the top, which you can reach by tram (#14) and then a short bus ride. Or you can hike up and take that cable car down.

@@ -68,7 +68,7 @@ Zagreb Upper Town (Gornji grad) is the old part of the city situated on a hill a
 Bakeries are everywhere in Zagreb. Apart from selling fresh bread, they typically also sell an assortment of fresh pastries, both sweet and savory. It is common for people in Zagreb to grab a quick breakfast or a late-night snack to-go from a local bakery.
 
 ###### Coffee
-Cafes are everywhere in Zagreb, and many will open their patios in summer. While nowadays it is easy to get coffee to-go, traditionally, slowly enjoying coffee while relaxing, reading, or chatting with friends or colleagues is the way to go.
+Cafes are everywhere in Zagreb, and many will open their patios in summer. While nowadays it is easy to get coffee to-go, traditionally, slowly enjoying coffee while relaxing, reading, or chatting with friends or colleagues is the way to go. This blog post nicely explains Croatian coffee culture, link [here](https://zablogreb.wordpress.com/category/coffee/).
 
 ###### Hike up Sljeme
 Sljeme is the local mountain you can see on the outskirts of Zagreb, and a favorite hiking and picnic area for locals. There is a cable car that goes to the top, which you can reach by tram (#14) and then a short bus ride. Or you can hike up and take that cable car down.

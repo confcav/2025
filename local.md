@@ -74,4 +74,4 @@ Cafes are everywhere in Zagreb, and many will open their patios in summer. While
 Sljeme is the local mountain you can see on the outskirts of Zagreb, and a favorite hiking and picnic area for locals. There is a cable car that goes to the top, which you can reach by tram (#14) and then a short bus ride. Or you can hike up and take that cable car down.
 
 ###### Food
-Here is a good list of local dishes to try while in [Zagreb](https://www.goatrotichronicles.ca/what-to-eat-in-zagreb/)
+Here is a good list of local dishes to try while in Zagreb, link [here](https://www.goatrotichronicles.ca/what-to-eat-in-zagreb/)

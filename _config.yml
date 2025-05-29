@@ -20,7 +20,10 @@ author: International Conference on Computer Aided Verification
 ###############################################
 
 navbar-links:
-  Registration: "registration"
+  Attending:
+    - Registration: "registration"
+    - Venues: "venues"
+    - Local Info: "local"
   Accepted Papers: "accepted"
   Calls:
     - Call for Papers: "cfp"
@@ -29,7 +32,6 @@ navbar-links:
   Workshops: 
     - Workshops: "workshops"
     - Mentoring: "mentoring"
-  Venues: "venues"
   Keynotes: "keynote"
   Organization: "organization"
   CAV Award: "award"

@@ -5,10 +5,10 @@ title: Workshops
 The following workshops will be held before the main conference. Workshops will be held at the Faculty of Electrical Engineering and Computing. Please see [venues page](https://conferences.i-cav.org/2025/venues/) for details.
 
 #### WORKSHOPS ON JULY 21st
-[Verification Mentoring Workshop](https://conferences.i-cav.org/2025/mentoring/) (VMW) <br>
+[Verification Mentoring Workshop (VMW)](https://conferences.i-cav.org/2025/mentoring/) <br>
 Organizers: [Grigory Fedyukovich](mailto:grigory@cs.fsu.edu), Florida State University; [Mukund Raghothaman](mailto:raghotha@usc.edu), University of Southern California <br>
 
-[Workshop on Verification of Quantum Computing](https://verifiedqc.github.io/2025/cfp/) <br>
+[Workshop on Verification of Quantum Computing (VQC)](https://verifiedqc.github.io/2025/cfp/) <br>
 Organizers: [Runzhou Tao]( mailto:rztao@umd.edu), University of Maryland; [Yu-Fang Chen](mailto:yfc@iis.sinica.edu.tw), Academia Sinica <br>
 
 [International Workshop on Trustworthy Cyber-Physical Systems (TACPS)](https://www.tacps.org/) <br>
@@ -24,7 +24,7 @@ Organizers: [Kedar Namjoshi](mailto:kedar.namjoshi@nokia-bell-labs.com), Nokia B
 Organizers: [Mirco Giacobbe](mailto:m.giacobbe@bham.ac.uk), University of Birmingham; [Anna Lukina](mailto:A.Lukina@tudelft.nl), Delft University of Technology
 
 #### WORKSHOPS ON JULY 22nd
-[Workshop on Automated Reasoning for Tensor Compilers](https://ar4tc.org/) <br>
+[Workshop on Automated Reasoning for Tensor Compilers (AR4TC)](https://ar4tc.org/) <br>
 Organizers: [Temesghen Kahsai](mailto:teme@amazon.com), Amazon; [Sean McLaughlin](mailto:seanmcl@amazon.com), Amazon; [Daniel Kroening](mailto:dkr@amazon.co.uk), Amazon <br>
 
 [Meeting on String Constraints and Applications (MOSCA)](https://mosca2025.github.io/) <br>

@@ -99,7 +99,7 @@ Alfons Laarman, Leiden Institute of Advanced Computer Science (LIACS) <br>
 [Hadar Frenkel](https://u.cs.biu.ac.il/~frenkeh3/), Bar Ilan University <br>
 [Haoze (Andrew) Wu](https://wu-haoze.github.io/), Amherst College <br>
 [Harald Ruess](https://www.linkedin.com/in/harald-ruess-24aa1920/?locale=de_DE), SRI International, Menlo Park, California <br>
-[Hari Govind Vediramana Krishnan](https://hgvk94.github.io/), University of Waterloo <br>
+[Hari Govind Vediramana Krishnan](https://hgvk94.github.io/), Microsoft <br>
 [Hazem Torfah](https://starlab.systems/torfah.html), Chalmers University of Technology, Sweden <br>
 [He Zhu](https://herowanzhu.github.io/), Rutgers <br>
 [Hossein Hojjat](https://teias.institute/~hojjat/),  Tehran Institute for Advanced Studies <br>
@@ -167,7 +167,7 @@ William Hallahan, Binghamton University <br>
 [Yuting Wang](http://jhc.sjtu.edu.cn/~yutingwang), Shanghai Jiao Tong University <br>
 [Yuxin Deng](https://basics.sjtu.edu.cn/~yuxin/), Shanghai Key Laboratory of Trustworthy Computing, East China Normal University, Shanghai, China <br>
 [Yuyang Sang](https://morusleaf.github.io/), Alibaba Cloud <br>
-[Zvonimir Rakamaric chair](https://zvonimir.github.io/), Amazon (AWS)
+[Zvonimir Rakamaric chair](https://zvonimir.github.io/), Amazon Web Services
 
 #### STEERING COMMITTEE
 [Orna Grumberg](http://www.cs.technion.ac.il/~orna/), Technion <br>

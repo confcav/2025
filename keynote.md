@@ -32,7 +32,7 @@ website: [https://www.andrew.cmu.edu/user/pcorina/](https://www.andrew.cmu.edu/u
 
 ### Side Channel Secure Software: A Hardware Question
 
-[Roderick Bloem](https://www.iaik.tugraz.at/person/roderick-bloem/), Graz University of Technology
+[Roderick Bloem](https://www.iaik.tugraz.at/person/roderick-bloem/), Graz University of Technology, Austria
 
 <img src="https://conferences.i-cav.org/2025/assets/img/Roderick.jpg" alt="Roderick" width="200">
 

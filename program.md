@@ -15,7 +15,6 @@ Second day workshop schedule
 
 <style>
     .schedule {
-        width: 90%;
         text-align: center;
     }
     .schedule th {
@@ -80,14 +79,15 @@ Second day workshop schedule
         <th>Synthesis and Learning</th>
         <th>Concurrency and Runtime Verification</th>
     </tr>
+    <tr>
         <th>17:30-17:45</th>
         <td colspan="2" > </td>
     </tr>
-    </tr>
+    <tr>
         <th>17:45-18:45</th>
         <td colspan="2" > Industry Panel </td>
     </tr>
-    </tr>
+    <tr>
         <th>19:00</th>
         <td colspan="2" > Reception </td>
     </tr>

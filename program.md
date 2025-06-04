@@ -13,22 +13,9 @@ Second day workshop schedule
 
 ### July 23rd (Wednesday)
 
-                Room A                          Room B
-8:30 - 9am  Breakfast
-9:00-10:30	Opening remarks; CAV Award	
-10:30-11:00	Coffee break					
-11:00-12:00	Keynote	
-12:00-14:00	Lunch	
-14:00-15:30	Hardware Model Checking	    Probabilistic Reasoning I
-15:30-16:00	Coffee break		
-16:00-17:30	Synthesis and Learning	    Concurrency and Runtime Verification
-17:30-17:45
-17:45-18:45	Industry Panel	
-19:00       Reception	
-
 <style>
     .schedule {
-        width: 80%;
+        width: 90%;
         text-align: center;
     }
     .schedule th {
@@ -36,17 +23,17 @@ Second day workshop schedule
         word-wrap: break-word;
         text-align: center;
     }
-    .schedule tr:nth-child(1) { background: orange; }
-    .schedule tr:nth-child(2) { background: blue; }
-    .schedule tr:nth-child(3) { background: orange; }
-    .schedule tr:nth-child(4) { background: blue; }
-    .schedule tr:nth-child(5) { background: orange; }
-    .schedule tr:nth-child(6) { background: gray; }
-    .schedule tr:nth-child(7) { background: orange; }
-    .schedule tr:nth-child(8) { background: gray; }
+    .schedule tr:nth-child(1) { background: white; }
+    .schedule tr:nth-child(2) { background: orange; }
+    .schedule tr:nth-child(3) { background: white; }
+    .schedule tr:nth-child(4) { background: yellow; }
+    .schedule tr:nth-child(5) { background: white; }
+    .schedule tr:nth-child(6) { background: green; }
+    .schedule tr:nth-child(7) { background: white; }
+    .schedule tr:nth-child(8) { background: green; }
     .schedule tr:nth-child(9) { background: white; }
-    .schedule tr:nth-child(10) { background: gray; }
-    .schedule tr:nth-child(11) { background: orange; }
+    .schedule tr:nth-child(10) { background: red; }
+    .schedule tr:nth-child(11) { background: white; }
 
 
 </style>
@@ -84,6 +71,26 @@ Second day workshop schedule
         <th>Hardware Model Checking</th>
         <th>Probabilistic Reasoning I</th>
     </tr>
-</table>
+    <tr>
+        <th>15:30-16:00</th>
+        <td colspan="2" >Coffee break</td>
+    </tr>
+    <tr>
+        <th>16:00-17:30</th>
+        <th>Synthesis and Learning</th>
+        <th>Concurrency and Runtime Verification</th>
+    </tr>
+        <th>17:30-17:45</th>
+        <td colspan="2" > </td>
+    </tr>
+    </tr>
+        <th>17:45-18:45</th>
+        <td colspan="2" > Industry Panel </td>
+    </tr>
+    </tr>
+        <th>19:00</th>
+        <td colspan="2" > Reception </td>
+    </tr>
+</table>	
 
 </div>

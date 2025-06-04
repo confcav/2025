@@ -18,21 +18,22 @@ Second day workshop schedule
         text-align: center;
     }
     .schedule th {
-        background: grey;
+        background: white;
         word-wrap: break-word;
         text-align: center;
     }
-    .schedule tr:nth-child(1) { background: white; }
-    .schedule tr:nth-child(2) { background: orange; }
-    .schedule tr:nth-child(3) { background: white; }
-    .schedule tr:nth-child(4) { background: yellow; }
-    .schedule tr:nth-child(5) { background: white; }
-    .schedule tr:nth-child(6) { background: green; }
-    .schedule tr:nth-child(7) { background: white; }
-    .schedule tr:nth-child(8) { background: green; }
-    .schedule tr:nth-child(9) { background: white; }
-    .schedule tr:nth-child(10) { background: red; }
-    .schedule tr:nth-child(11) { background: white; }
+    .schedule tr:nth-child(1) { background: light gray; }
+    .schedule tr:nth-child(2) { background: white; }
+    .schedule tr:nth-child(3) { background: orange; }
+    .schedule tr:nth-child(4) { background: white; }
+    .schedule tr:nth-child(5) { background: yellow; }
+    .schedule tr:nth-child(6) { background: white; }
+    .schedule tr:nth-child(7) { background: green; }
+    .schedule tr:nth-child(8) { background: white; }
+    .schedule tr:nth-child(9) { background: green; }
+    .schedule tr:nth-child(10) { background: white; }
+    .schedule tr:nth-child(11) { background: red; }
+    .schedule tr:nth-child(12) { background: white; }
 
 
 </style>

@@ -53,13 +53,37 @@ Second day workshop schedule
 
 <div class="schedule">
 
-| | Room A | Room B |
-| -- | -- | -- |
-| 8:30 - 9am | Breakfast |
-| 9:00-10:30 | Opening remarks; CAV Award |
-| 10:30-11:00 | Coffee break |				
-| 11:00-12:00 | Keynote |	
-| 12:00-14:00 | Lunch |
-| 14:00-15:30 |	Hardware Model Checking | Probabilistic Reasoning I |
+<table>
+    <tr>
+        <th>Time</th>
+        <th>Room A</th>
+        <th>Room B</th>
+    </tr>
+    <tr>
+        <th>8:30-9:00</th>
+        <td colspan="2" >Breakfast</td>
+    </tr>
+    <tr>
+        <th>9:00-10:30</th>
+        <td colspan="2" >Opening Remarks; CAV Award</td>
+    </tr>
+    <tr>
+        <th>10:30-11:00</th>
+        <td colspan="2" >Coffee break</td>
+    </tr>
+    <tr>
+        <th>11:00-12:00</th>
+        <td colspan="2" >Keynote</td>
+    </tr>
+    <tr>
+        <th>12:00-14:00</th>
+        <td colspan="2" >Lunch</td>
+    </tr>
+    <tr>
+        <th>14:00-15:30</th>
+        <th>Hardware Model Checking</th>
+        <th>Probabilistic Reasoning I</th>
+    </tr>
+</table>
 
 </div>

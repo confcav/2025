@@ -17,7 +17,7 @@ Organizers: [Xi (James) Zheng](mailto:james.zheng@mq.edu.au), Macquarie Universi
 [Workshop on Hyperproperties: Advances in Theory and Applications (HYPER)](https://hyperworkshop25.cispa.io/) <br>
 Organizers: [Hadar Frenkel](mailto:hadar.frenkel@biu.ac.il), Bar Ilan University; [Ana Oliveira Da Costa](mailto:ana.costa@ist.ac.at), IST Austria; [Niklas Metzger](mailto:niklas.metzger@cispa.de), CISPA – Helmholtz Center for Information Security <br>
 
-[Allen Emerson Memorial](https://www.ccs.neu.edu/home/wahl/EAE_Symposium/allen_emerson_symposium.html) <br>
+[Allen Emerson Memorial](https://thomaswahl.github.io/EAE-Memorial-Symposium/) <br>
 Organizers: [Kedar Namjoshi](mailto:kedar.namjoshi@nokia-bell-labs.com), Nokia Bell Labs; [Thomas Wahl](mailto:thomas.wahl.gm@gmail.com), Trusted Science & Technology <br>
 
 [Symposium on AI Verification (SAIV)](https://www.aiverification.org/2025/), **Both Days** <br>

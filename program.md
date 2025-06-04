@@ -22,7 +22,7 @@ Second day workshop schedule
         word-wrap: break-word;
         text-align: center;
     }
-    .schedule tr:nth-child(1) { background: light gray; }
+    .schedule tr:nth-child(1) { background: white; }
     .schedule tr:nth-child(2) { background: white; }
     .schedule tr:nth-child(3) { background: orange; }
     .schedule tr:nth-child(4) { background: white; }
@@ -91,6 +91,122 @@ Second day workshop schedule
     <tr>
         <th>19:00</th>
         <td colspan="2" > Reception </td>
+    </tr>
+</table>	
+
+</div>
+
+### July 24th (Thursday)
+<div class="schedule">
+
+<table>
+    <tr>
+        <th>Time</th>
+        <th>Room A</th>
+        <th>Room B</th>
+    </tr>
+    <tr>
+        <th>8:30-9:00</th>
+        <td colspan="2" >Breakfast</td>
+    </tr>
+    <tr>
+        <th>9:00-10:30</th>
+        <th>Neural Networks</th>
+        <th>Model Counting and First-Order Logic</th>
+    </tr>
+    <tr>
+        <th>10:30-11:00</th>
+        <td colspan="2" >Coffee break</td>
+    </tr>
+    <tr>
+        <th>11:00-12:00</th>
+        <td colspan="2" >Keynote</td>
+    </tr>
+    <tr>
+        <th>12:00-14:00</th>
+        <td colspan="2" >Lunch</td>
+    </tr>
+    <tr>
+        <th>14:00-15:30</th>
+        <th>Data Structures</th>
+        <th>Reactive Synthesis</th>
+    </tr>
+    <tr>
+        <th>15:30-16:00</th>
+        <td colspan="2" >Coffee break</td>
+    </tr>
+    <tr>
+        <th>16:00-17:30</th>
+        <th>Cryptography and Security</th>
+        <th>Model Checking</th>
+    </tr>
+    <tr>
+        <th>17:30-18:45</th>
+        <td colspan="2" > </td>
+    </tr>
+    <tr>
+        <th>19:00</th>
+        <td colspan="2" > Banquet </td>
+    </tr>
+</table>	
+
+</div>
+
+### July 25th (Friday)
+<div class="schedule">
+
+<table>
+    <tr>
+        <th>Time</th>
+        <th>Room A</th>
+        <th>Room B</th>
+    </tr>
+    <tr>
+        <th>8:30-9:00</th>
+        <td colspan="2" >Breakfast</td>
+    </tr>
+    <tr>
+        <th>9:00-10:30</th>
+        <th>Decision Procedures</th>
+        <th>MDPs and Probabilistic Reasoning</th>
+    </tr>
+    <tr>
+        <th>10:30-11:00</th>
+        <td colspan="2" >Coffee break</td>
+    </tr>
+    <tr>
+        <th>11:00-12:00</th>
+        <td colspan="2" >Keynote</td>
+    </tr>
+    <tr>
+        <th>12:00-14:00</th>
+        <td colspan="2" >Lunch, Logic Lounge</td>
+    </tr>
+    <tr>
+        <th>14:00-15:30</th>
+        <th>Quantum Computing</th>
+        <th>Probabilistic Reasoning II</th>
+    </tr>
+    <tr>
+        <th>15:30-16:00</th>
+        <td colspan="2" >Coffee break</td>
+    </tr>
+    <tr>
+        <th>16:00-17:30</th>
+        <th>Applications</th>
+        <th>Networks and Protocols</th>
+    </tr>
+    <tr>
+        <th>17:30-17:45</th>
+        <td colspan="2" > </td>
+    </tr>
+    <tr>
+        <th>17:45-18:45</th>
+        <td colspan="2" > Business Meeting </td>
+    </tr>
+    <tr>
+        <th>19:00</th>
+        <td colspan="2" > PC Dinner </td>
     </tr>
 </table>	
 

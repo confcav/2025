@@ -127,7 +127,7 @@ title: Program
     </tr>
     <tr>
         <th>14:00-15:30</th>
-        <th>Hardware Model Checking <br>
+        <th>Hardware Model Checking<br>
         Infinite-state Liveness Checking with rlive <br>
         <font size="2"> A. Cimatti, A. Griggio, C. Johannsen, K. Rozier, S. Tonetta </font> <br>
         Deeply Optimizing the SAT Solver for the IC3 Algorithm <br>

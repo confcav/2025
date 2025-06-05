@@ -72,11 +72,11 @@ title: Program
 
 <style>
     .schedule {
-        text-align: center;
+        text-align: left;
     }
     .schedule th {
         word-wrap: break-word;
-        text-align: center;
+        text-align: left;
     }
     .schedule td {
         word-wrap: break-word;
@@ -148,7 +148,8 @@ title: Program
         On the Almost-Sure Termination of Probabilistic Counter Programs <br>
         <font size="2"> S. Novozhilov, M. Yang, M. Chen, Z. Li, J. Yin </font> <br>
         POPACheck: A Model Checker for Probabilistic Pushdown Automata <br>
-        <font size="2"> F. Pontiggia, E. Bartocci, M. Chiari </font>
+        <font size="2"> F. Pontiggia, E. Bartocci, M. Chiari </font> <br>
+          <br>
         </th>
     </tr>
     <tr>

@@ -130,13 +130,13 @@ title: Program
         <th><font size="4"> Hardware Model Checking </font><br>
         <font size="3"> Infinite-state Liveness Checking with rlive</font> <br>
         <font size="2"> A. Cimatti, A. Griggio, C. Johannsen, K. Rozier, S. Tonetta </font> <br>
-        Deeply Optimizing the SAT Solver for the IC3 Algorithm</font> <br>
+        <font size="3">Deeply Optimizing the SAT Solver for the IC3 Algorithm</font> <br>
         <font size="2"> Y. Su, Q. Yang, Y. Ci, Y. Li, T. Bu, Z. Huang </font> <br>
-        Property Directed Reachability with Extended Resolution</font> <br>
+        <font size="3">Property Directed Reachability with Extended Resolution</font> <br>
         <font size="2"> Y. Vizel, A. Luka </font> <br>
-        Introducing Certificates to the Hardware Model Checking Competition</font> <br>
+        <font size="3">Introducing Certificates to the Hardware Model Checking Competition</font> <br>
         <font size="2"> N. Froleyks, E. Yu, M. Preiner, A. Biere, K. Heljanko </font> <br>
-        Btor2-Select: Machine Learning Based Algorithm Selection for Hardware Model Checking</font> <br>
+        <font size="3"> Btor2-Select: Machine Learning Based Algorithm Selection for Hardware Model Checking</font> <br>
         <font size="2"> Z. Lu, P. Chien, N. Lee, A. Gurfinkel, V. Ganesh </font>
           <br>
           <br>

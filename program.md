@@ -80,17 +80,17 @@ title: Program
     }
     .schedule td {
         word-wrap: break-word;
-        text-align: center;
+        text-align: left;
     }
     .schedule tr:nth-child(1) { background: white; }
     .schedule tr:nth-child(2) { background: white; }
-    .schedule tr:nth-child(3) { background: green; }
+    .schedule tr:nth-child(3) { background: yellow; }
     .schedule tr:nth-child(4) { background: white; }
-    .schedule tr:nth-child(5) { background: yellow; }
+    .schedule tr:nth-child(5) { background: green; }
     .schedule tr:nth-child(6) { background: white; }
-    .schedule tr:nth-child(7) { background: green; }
+    .schedule tr:nth-child(7) { background: yellow; }
     .schedule tr:nth-child(8) { background: white; }
-    .schedule tr:nth-child(9) { background: green; }
+    .schedule tr:nth-child(9) { background: yellow; }
     .schedule tr:nth-child(10) { background: white; }
     .schedule tr:nth-child(11) { background: red; }
     .schedule tr:nth-child(12) { background: white; }
@@ -148,7 +148,7 @@ title: Program
         On the Almost-Sure Termination of Probabilistic Counter Programs <br>
         <font size="2"> S. Novozhilov, M. Yang, M. Chen, Z. Li, J. Yin </font> <br>
         POPACheck: A Model Checker for Probabilistic Pushdown Automata <br>
-        <font size="2"> F. Pontiggia, E. Bartocci, M. Chiari </font> <br>
+        <font size="2"> F. Pontiggia, E. Bartocci, M. Chiari </font>
         </th>
     </tr>
     <tr>

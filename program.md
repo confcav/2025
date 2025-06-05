@@ -7,7 +7,7 @@ title: Program
         text-align: center;
     }
     .workshop th {
-        background: gray;
+        background: white;
         word-wrap: break-word;
         text-align: center;
     }

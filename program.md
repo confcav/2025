@@ -15,7 +15,7 @@ title: Program
 </style>
 
 ### July 21st (Monday Workshops)
-<div class="schedule">
+<div class="workshop">
 
 <table>
     <tr>
@@ -41,7 +41,7 @@ title: Program
 
 ### July 22nd (Tuesday Workshops)
 
-<div class="schedule">
+<div class="workshop">
 
 <table>
     <tr>
@@ -84,7 +84,7 @@ title: Program
     }
     .schedule tr:nth-child(1) { background: white; }
     .schedule tr:nth-child(2) { background: white; }
-    .schedule tr:nth-child(3) { background: orange; }
+    .schedule tr:nth-child(3) { background: green; }
     .schedule tr:nth-child(4) { background: white; }
     .schedule tr:nth-child(5) { background: yellow; }
     .schedule tr:nth-child(6) { background: white; }
@@ -205,7 +205,7 @@ title: Program
     </tr>
     <tr>
         <th>19:00</th>
-        <td colspan="2" > Banquet </td>
+        <td colspan="2" background="white" > Banquet </td>
     </tr>
 </table>	
 

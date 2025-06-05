@@ -75,7 +75,10 @@ title: Program
         text-align: center;
     }
     .schedule th {
-        background: white;
+        word-wrap: break-word;
+        text-align: center;
+    }
+    .schedule td {
         word-wrap: break-word;
         text-align: center;
     }

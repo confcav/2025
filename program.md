@@ -137,7 +137,9 @@ title: Program
         Introducing Certificates to the Hardware Model Checking Competition</font> <br>
         <font size="2"> N. Froleyks, E. Yu, M. Preiner, A. Biere, K. Heljanko </font> <br>
         Btor2-Select: Machine Learning Based Algorithm Selection for Hardware Model Checking</font> <br>
-        <font size="2"> Z. Lu, P. Chien, N. Lee, A. Gurfinkel, V. Ganesh </font> </th>
+        <font size="2"> Z. Lu, P. Chien, N. Lee, A. Gurfinkel, V. Ganesh </font>
+          <br>
+        </th>
         <th><font size="4">Probabilistic Reasoning I</font> <br>
         <font size="3">Quantitative Supermartingale Certificates</font> <br>
         <font size="2"> A. Abate, M. Giacobbe, D. Roy </font> <br>
@@ -149,8 +151,6 @@ title: Program
         <font size="2"> S. Novozhilov, M. Yang, M. Chen, Z. Li, J. Yin </font> <br>
         <font size="3">POPACheck: A Model Checker for Probabilistic Pushdown Automata</font> <br>
         <font size="2"> F. Pontiggia, E. Bartocci, M. Chiari </font> <br>
-          <br>
-          <br>
         </th>
     </tr>
     <tr>

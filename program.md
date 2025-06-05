@@ -107,27 +107,27 @@ title: Program
     </tr>
     <tr>
         <th>8:30-9:00</th>
-        <td>Breakfast</td>
+        <td colspan="2">Breakfast</td>
     </tr>
     <tr>
         <th>9:00-10:30</th>
-        <td>Opening Remarks; CAV Award</td>
+        <td colspan="2">Opening Remarks; CAV Award</td>
     </tr>
     <tr>
         <th>10:30-11:00</th>
-        <td>Coffee break</td>
+        <td colspan="2">Coffee break</td>
     </tr>
     <tr>
         <th>11:00-12:00</th>
-        <td>Keynote</td>
+        <td colspan="2">Keynote</td>
     </tr>
     <tr>
         <th>12:00-14:00</th>
-        <td>Lunch</td>
+        <td colspan="2">Lunch</td>
     </tr>
     <tr>
         <th>14:00-15:30</th>
-        <th><font size="4"> Hardware Model Checking</font><br>
+        <th><font size="4"> Hardware Model Checking </font><br>
         <font size="3"> Infinite-state Liveness Checking with rlive</font> <br>
         <font size="2"> A. Cimatti, A. Griggio, C. Johannsen, K. Rozier, S. Tonetta </font> <br>
         Deeply Optimizing the SAT Solver for the IC3 Algorithm</font> <br>
@@ -138,6 +138,8 @@ title: Program
         <font size="2"> N. Froleyks, E. Yu, M. Preiner, A. Biere, K. Heljanko </font> <br>
         Btor2-Select: Machine Learning Based Algorithm Selection for Hardware Model Checking</font> <br>
         <font size="2"> Z. Lu, P. Chien, N. Lee, A. Gurfinkel, V. Ganesh </font>
+          <br>
+          <br>
           <br>
         </th>
         <th><font size="4">Probabilistic Reasoning I</font> <br>

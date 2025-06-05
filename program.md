@@ -127,28 +127,29 @@ title: Program
     </tr>
     <tr>
         <th>14:00-15:30</th>
-        <th>Hardware Model Checking<br>
-        Infinite-state Liveness Checking with rlive <br>
+        <th><font size="4"> Hardware Model Checking</font><br>
+        <font size="3"> Infinite-state Liveness Checking with rlive</font> <br>
         <font size="2"> A. Cimatti, A. Griggio, C. Johannsen, K. Rozier, S. Tonetta </font> <br>
-        Deeply Optimizing the SAT Solver for the IC3 Algorithm <br>
+        Deeply Optimizing the SAT Solver for the IC3 Algorithm</font> <br>
         <font size="2"> Y. Su, Q. Yang, Y. Ci, Y. Li, T. Bu, Z. Huang </font> <br>
-        Property Directed Reachability with Extended Resolution <br>
+        Property Directed Reachability with Extended Resolution</font> <br>
         <font size="2"> Y. Vizel, A. Luka </font> <br>
-        Introducing Certificates to the Hardware Model Checking Competition <br>
+        Introducing Certificates to the Hardware Model Checking Competition</font> <br>
         <font size="2"> N. Froleyks, E. Yu, M. Preiner, A. Biere, K. Heljanko </font> <br>
-        Btor2-Select: Machine Learning Based Algorithm Selection for Hardware Model Checking <br>
+        Btor2-Select: Machine Learning Based Algorithm Selection for Hardware Model Checking</font> <br>
         <font size="2"> Z. Lu, P. Chien, N. Lee, A. Gurfinkel, V. Ganesh </font> </th>
-        <th>Probabilistic Reasoning I <br>
-        Quantitative Supermartingale Certificates <br>
+        <th><font size="4">Probabilistic Reasoning I</font> <br>
+        <font size="3">Quantitative Supermartingale Certificates</font> <br>
         <font size="2"> A. Abate, M. Giacobbe, D. Roy </font> <br>
-        Supermartingale Certificates for Quantitative Omega-regular Verification and Control <br>
+        <font size="3">Supermartingale Certificates for Quantitative Omega-regular Verification and Control</font> <br>
         <font size="2"> T. Henzinger, K. Mallik, P. Sadeghi, Đ. Žikelić </font> <br>
-        Approximate Probabilistic Bisimulation for Continuous-Time Markov Chains <br>
+        <font size="3">Approximate Probabilistic Bisimulation for Continuous-Time Markov Chains</font> <br>
         <font size="2"> T. Spork, C. Baier, J. Katoen, S. Klüppelholz, J. Piribauer </font> <br>
-        On the Almost-Sure Termination of Probabilistic Counter Programs <br>
+        <font size="3">On the Almost-Sure Termination of Probabilistic Counter Programs</font> <br>
         <font size="2"> S. Novozhilov, M. Yang, M. Chen, Z. Li, J. Yin </font> <br>
-        POPACheck: A Model Checker for Probabilistic Pushdown Automata <br>
+        <font size="3">POPACheck: A Model Checker for Probabilistic Pushdown Automata</font> <br>
         <font size="2"> F. Pontiggia, E. Bartocci, M. Chiari </font> <br>
+          <br>
           <br>
         </th>
     </tr>

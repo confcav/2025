@@ -155,7 +155,7 @@ title: Program
 
 </div>
 
-#### Room A Session Program (Hardware Model Checking)
+#### (14:00-15:30) Room A Session Program, Hardware Model Checking
 * Infinite-state Liveness Checking with rlive
     - A. Cimatti, A. Griggio, C. Johannsen, K. Rozier, S. Tonetta
 * Deeply Optimizing the SAT Solver for the IC3 Algorithm
@@ -167,7 +167,7 @@ title: Program
 * Btor2-Select: Machine Learning Based Algorithm Selection for Hardware Model Checking
     - Z. Lu, P. Chien, N. Lee, A. Gurfinkel, V. Ganesh
     
-#### Room B Session Program (Probabilistic Reasoning I)
+#### (14:00-15:30) Room B Session Program, Probabilistic Reasoning I
 * Quantitative Supermartingale Certificates
     - A. Abate, M. Giacobbe, D. Roy 
 * Supermartingale Certificates for Quantitative Omega-regular Verification and Control
@@ -178,6 +178,32 @@ title: Program
     - S. Novozhilov, M. Yang, M. Chen, Z. Li, J. Yin 
 * POPACheck: A Model Checker for Probabilistic Pushdown Automata
     - F. Pontiggia, E. Bartocci, M. Chiari
+
+#### (16:00-17:30) Room A Session Program, Synthesis and Learning
+* Deductive Synthesis of Reinforcement Learning Agents for Infinite Horizon Tasks
+    - Y. Wang, H. Zhu
+* Automata Learning from Preference and Equivalence Queries
+    - E. Hsiung, J. Biswas, S. Chaudhuri
+* Branching Bisimulation Learning
+    - A. Abate, M. Giacobbe, C. Micheletti, Y. Schnitzer
+* Extending AALpy with Passive Learning: A Generalized State-Merging Approach
+    - B. von Berg, B. Aichernig
+* LearnLib: 10 years later
+    - M. Frohme, F. Howar, B. Steffen
+* A Misconception-Driven Adaptive Tutor for Linear Temporal Logic
+    - S. Prasad, B. Greenman, T. Nelson, S. Krishnamurthi
+
+#### (16:00-17:30) Room B Session Program, Concurrency and Runtime Verification
+* GPUMC: A Stateless Model Checker for GPU Weak Memory Concurrency
+    - S. Chakraborty, S. Krishna, A. Pavlogiannis, O. Tuppe
+* Counterexample-Guided Commutativity
+    - M. Ebbinghaus, D. Klumpp, A. Podelski
+* Scaling Up Proactive Enforcement
+    - F. Hublet, L. Lima, D. Basin, S. Krstic, D. Traytel
+* An Intermediate Program Representation for Optimizing Stream-Based Languages
+    - F. Scheerer, J. Baumeister, B. Finkbeiner, A. Correnson
+* PyCaliper: Python-embedded Infrastructure for RTL Verification and Specification Synthesis
+    - A. Godbole, B. Huffman, F. Liu, C. Rozas, S. Seshia
 
 ### July 24th (Thursday)
 <div class="schedule">

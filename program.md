@@ -72,15 +72,15 @@ title: Program
 
 <style>
     .schedule {
-        text-align: left;
+        text-align: center;
     }
     .schedule th {
         word-wrap: break-word;
-        text-align: left;
+        text-align: center;
     }
     .schedule td {
         word-wrap: break-word;
-        text-align: left;
+        text-align: center;
     }
     .schedule tr:nth-child(1) { background: white; }
     .schedule tr:nth-child(2) { background: white; }
@@ -155,7 +155,7 @@ title: Program
 
 </div>
 
-#### Room A (Hardware Model Checking)
+#### Room A Session Program (Hardware Model Checking)
 * Infinite-state Liveness Checking with rlive
     - A. Cimatti, A. Griggio, C. Johannsen, K. Rozier, S. Tonetta
 * Deeply Optimizing the SAT Solver for the IC3 Algorithm
@@ -167,16 +167,16 @@ title: Program
 * Btor2-Select: Machine Learning Based Algorithm Selection for Hardware Model Checking
     - Z. Lu, P. Chien, N. Lee, A. Gurfinkel, V. Ganesh
     
-#### Probabilistic Reasoning I
-*Quantitative Supermartingale Certificates
+#### Room B Session Program (Probabilistic Reasoning I)
+* Quantitative Supermartingale Certificates
     - A. Abate, M. Giacobbe, D. Roy 
-*Supermartingale Certificates for Quantitative Omega-regular Verification and Control
+* Supermartingale Certificates for Quantitative Omega-regular Verification and Control
     - T. Henzinger, K. Mallik, P. Sadeghi, Đ. Žikelić 
-*Approximate Probabilistic Bisimulation for Continuous-Time Markov Chains
+* Approximate Probabilistic Bisimulation for Continuous-Time Markov Chains
     - T. Spork, C. Baier, J. Katoen, S. Klüppelholz, J. Piribauer 
-*On the Almost-Sure Termination of Probabilistic Counter Programs
+* On the Almost-Sure Termination of Probabilistic Counter Programs
     - S. Novozhilov, M. Yang, M. Chen, Z. Li, J. Yin 
-*POPACheck: A Model Checker for Probabilistic Pushdown Automata
+* POPACheck: A Model Checker for Probabilistic Pushdown Automata
     - F. Pontiggia, E. Bartocci, M. Chiari
 
 ### July 24th (Thursday)

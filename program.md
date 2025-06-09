@@ -97,6 +97,46 @@ title: Program
 
 </style>
 
+<style>
+    .gray-box {
+        background-color: #f0f0f0; /* light gray */
+        border-radius: 8px;
+        padding: 5px;
+        max-width: 730px;
+        margin: 5px auto;
+        color: #333;
+        }
+    .entry {
+        display: grid;
+        grid-template-columns: 120px 1fr; /* fixed width for time, rest for content */
+        column-gap: 20px;
+        padding: 10px 0;
+        border-bottom: 1px solid #ccc;
+    }
+    .entry:last-child {
+        border-bottom: none;
+    }
+    .time {
+        font-weight: normal;
+        font-size: 1em;
+        /* align time to right for neatness */
+        text-align: left;
+        padding-right: 10px;
+    }
+    .details {
+        /* no special styling needed here, just normal flow */
+    }
+    .title {
+        font-weight: 600;
+        font-size: 1em;
+        margin-bottom: 6px;
+    }
+    .speakers {
+        font-size: 0.9em;
+        line-height: 1.3;
+    }
+</style>
+
 <div class="schedule">
 
 <table>
@@ -155,17 +195,54 @@ title: Program
 
 </div>
 
-#### (14:00-15:30) Room A Session Program, Hardware Model Checking
-* Infinite-state Liveness Checking with rlive
-    - A. Cimatti, A. Griggio, C. Johannsen, K. Rozier, S. Tonetta
-* Deeply Optimizing the SAT Solver for the IC3 Algorithm
-    - Y. Su, Q. Yang, Y. Ci, Y. Li, T. Bu, Z. Huang
-* Property Directed Reachability with Extended Resolution
-    - Y. Vizel, A. Luka
-* Introducing Certificates to the Hardware Model Checking Competition
-    - N. Froleyks, E. Yu, M. Preiner, A. Biere, K. Heljanko
-* Btor2-Select: Machine Learning Based Algorithm Selection for Hardware Model Checking
-    - Z. Lu, P. Chien, N. Lee, A. Gurfinkel, V. Ganesh
+<div class="gray-box">
+    <h4 id="1400-1530-room-a-session-program-hardware-model-checking">14:00-15:30 Hardware Model Checking</h4>
+    <b>Room: A</b><br>
+    <b>Session Chair: TBD</b>
+    <div class="entry">
+      <div class="time">14:00-14:20</div>
+      <div class="details">
+        <div class="title">Infinite-state Liveness Checking with rlive</div>
+        <div class="speakers">
+            Alessandro Cimatti, Alberto Griggio (Fondazione Bruno Kessler), Christopher Johannsen, Kristin Yvonne Rozier (Iowa State University), Stefano Tonetta (FBK)
+        </div>
+      </div>
+    </div>
+    <div class="entry">
+        <div class="time">14:20-14:40</div>
+        <div class="details">
+          <div class="title">Deeply Optimizing the SAT Solver for the IC3 Algorithm
+              </div>
+          <div class="speakers">
+              Yuheng Su (University of Chinese Academy of Sciences; Institute of Software, Chinese Academy of Sciences); Qiusong Yang (Institute of Software, Chinese Academy of Sciences, Beijing, China); Yiwei Ci (Institute of Software, Chinese Academy of Sciences); Yingcheng Li, Tianjun Bu (University of Chinese Academy of Sciences; Institute of Software, Chinese Academy of Sciences); Ziyu Huang (Beijing Forestry University)
+          </div>
+        </div>
+      </div>
+      <div class="entry">
+        <div class="time">14:40-15:00</div>
+        <div class="details">
+          <div class="title">Property Directed Reachability with Extended Resolution</div>
+          <div class="speakers">
+            Yakir Vizel, Andrew Luka (Technion - Israel Institute of Technology)</div>
+        </div>
+      </div>
+      <div class="entry">
+        <div class="time">15:00-15:20</div>
+        <div class="details">
+          <div class="title">Introducing Certificates to the Hardware Model Checking Competition</div>
+          <div class="speakers">
+            Nils Froleyks (JKU Linz), Emily Yu (Institute of Science and Technology Austria), Mathias Preiner (Stanford University), Armin Biere (University of Freiburg), Keijo Heljanko (University of Helsinki)</div>
+        </div>
+      </div>
+      <div class="entry">
+        <div class="time">15:20-15:30</div>
+        <div class="details">
+          <div class="title">Btor2-Select: Machine Learning Based Algorithm Selection for Hardware Model Checking</div>
+          <div class="speakers">
+            Zhengyang Lu (University of Waterloo), Po-Chun Chien (LMU Munich), Nian-Ze Lee (National Taiwan University), Arie Gurfinkel (University of Waterloo), Vijay Ganesh (Georgia Institute of Technology)</div>
+        </div>
+      </div>
+</div>
     
 #### (14:00-15:30) Room B Session Program, Probabilistic Reasoning I
 * Quantitative Supermartingale Certificates

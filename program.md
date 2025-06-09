@@ -163,7 +163,7 @@ title: Program
         <tr>
             <th>14:00-15:30</th>
             <th><a href="#hardware-model-checking"> Hardware Model Checking</a> </th>
-            <th><a href="#probabilistic-reasoning-i"> Probabilistic Reasoning I </th>
+            <th><a href="#probabilistic-reasoning-i"> Probabilistic Reasoning I</a> </th>
         </tr>
         <tr>
             <th>15:30-16:00</th>
@@ -171,8 +171,8 @@ title: Program
         </tr>
         <tr>
             <th>16:00-17:30</th>
-            <th><a href="#synthesis-and-learning"> Synthesis and Learning</th>
-            <th><a href="#concurrency-and-runtime"> Concurrency and Runtime Verification</th>
+            <th><a href="#synthesis-and-learning"> Synthesis and Learning</a></th>
+            <th><a href="#concurrency-and-runtime"> Concurrency and Runtime Verification</a></th>
         </tr>
         <tr>
             <th>17:30-17:45</th>
@@ -198,8 +198,7 @@ title: Program
       <div class="details">
         <div class="title">Infinite-state Liveness Checking with rlive</div>
         <div class="speakers">
-            Alessandro Cimatti, Alberto Griggio (Fondazione Bruno Kessler), Christopher Johannsen, Kristin Yvonne Rozier (Iowa State University), Stefano Tonetta (FBK)
-        </div>
+            Alessandro Cimatti, Alberto Griggio (Fondazione Bruno Kessler), Christopher Johannsen, Kristin Yvonne Rozier (Iowa State University), Stefano Tonetta (FBK) </div>
       </div>
     </div>
     <div class="entry">
@@ -208,8 +207,7 @@ title: Program
           <div class="title">Deeply Optimizing the SAT Solver for the IC3 Algorithm
               </div>
           <div class="speakers">
-              Yuheng Su (University of Chinese Academy of Sciences; Institute of Software, Chinese Academy of Sciences); Qiusong Yang (Institute of Software, Chinese Academy of Sciences, Beijing, China); Yiwei Ci (Institute of Software, Chinese Academy of Sciences); Yingcheng Li, Tianjun Bu (University of Chinese Academy of Sciences; Institute of Software, Chinese Academy of Sciences); Ziyu Huang (Beijing Forestry University)
-          </div>
+              Yuheng Su (University of Chinese Academy of Sciences; Institute of Software, Chinese Academy of Sciences); Qiusong Yang (Institute of Software, Chinese Academy of Sciences, Beijing, China); Yiwei Ci (Institute of Software, Chinese Academy of Sciences); Yingcheng Li, Tianjun Bu (University of Chinese Academy of Sciences; Institute of Software, Chinese Academy of Sciences); Ziyu Huang (Beijing Forestry University) </div>
         </div>
       </div>
       <div class="entry">
@@ -247,8 +245,7 @@ title: Program
       <div class="details">
         <div class="title">Quantitative Supermartingale Certificates</div>
         <div class="speakers">
-        Alessandro Abate (University of Oxford); Mirco Giacobbe, Diptarko Roy (University of Birmingham) 
-        </div>
+        Alessandro Abate (University of Oxford); Mirco Giacobbe, Diptarko Roy (University of Birmingham) </div>
       </div>
     </div>
     <div class="entry">
@@ -257,8 +254,7 @@ title: Program
           <div class="title">Supermartingale Certificates for Quantitative Omega-regular Verification and Control
               </div>
           <div class="speakers">
-          Thomas A. Henzinger (IST Austria); Kaushik Mallik (IMDEA Software Institute); Pouya Sadeghi (University of Tehran); Djordje Zikelic (Singapore Management University) 
-          </div>
+          Thomas A. Henzinger (IST Austria); Kaushik Mallik (IMDEA Software Institute); Pouya Sadeghi (University of Tehran); Djordje Zikelic (Singapore Management University) </div>
         </div>
       </div>
       <div class="entry">
@@ -266,8 +262,7 @@ title: Program
         <div class="details">
           <div class="title">Approximate Probabilistic Bisimulation for Continuous-Time Markov Chains</div>
           <div class="speakers">
-          Timm Spork, Christel Baier (Technische Universität Dresden); Joost-Pieter Katoen (RWTH Aachen University); Sascha Klüppelholz (Technische Universität Dresden); Jakob Piribauer (Technische Universität Dresden; Universität Leipzig) 
-            </div>
+          Timm Spork, Christel Baier (Technische Universität Dresden); Joost-Pieter Katoen (RWTH Aachen University); Sascha Klüppelholz (Technische Universität Dresden); Jakob Piribauer (Technische Universität Dresden; Universität Leipzig) </div>
         </div>
       </div>
       <div class="entry">
@@ -275,8 +270,7 @@ title: Program
         <div class="details">
           <div class="title">On the Almost-Sure Termination of Probabilistic Counter Programs</div>
           <div class="speakers">
-          Sergei Novozhilov (Zhejiang University; The Hong Kong University of Science and Technology); Mingqi Yang, Mingshuai Chen, Zhiyang Li, Jianwei Yin (Zhejiang University) 
-            </div>
+          Sergei Novozhilov (Zhejiang University; The Hong Kong University of Science and Technology); Mingqi Yang, Mingshuai Chen, Zhiyang Li, Jianwei Yin (Zhejiang University) </div>
         </div>
       </div>
       <div class="entry">
@@ -284,13 +278,123 @@ title: Program
         <div class="details">
           <div class="title">POPACheck: A Model Checker for Probabilistic Pushdown Automata</div>
           <div class="speakers">
-          Francesco Pontiggia, Ezio Bartocci, Michele Chiari (TU Wien) 
-            </div>
+          Francesco Pontiggia, Ezio Bartocci, Michele Chiari (TU Wien) </div>
         </div>
       </div>
 </div>
 
+<div class="gray-box">
+    <h4 id="synthesis-and-learning">16:00-17:30 Synthesis and Learning</h4>
+    <b>Room: A</b><br>
+    <b>Session Chair: TBD</b>
+    <div class="entry">
+      <div class="time">16:00-16:20</div>
+      <div class="details">
+        <div class="title">Deductive Synthesis of Reinforcement Learning Agents for Infinite Horizon Tasks</div>
+        <div class="speakers">
+        Yuning Wang, He Zhu (Rutgers) 
+        </div>
+      </div>
+    </div>
+     <div class="entry">
+      <div class="time">16:20-16:40</div>
+      <div class="details">
+        <div class="title">Automata Learning from Preference and Equivalence Queries</div>
+        <div class="speakers">
+        Eric Hsiung, Joydeep Biswas, Swarat Chaudhuri (University of Texas at Austin) 
+        </div>
+      </div>
+    </div>
+    <div class="entry">
+      <div class="time">16:40-17:00</div>
+      <div class="details">
+        <div class="title">Branching Bisimulation Learning</div>
+        <div class="speakers">
+        Alessandro Abate (University of Oxford); Mirco Giacobbe (University of Birmingham); Christian Micheletti (University of Padua); Yannik Schnitzer (University of Oxford)
+        </div>
+      </div>
+    </div>
+    <div class="entry">
+      <div class="time">17:00-17:10</div>
+      <div class="details">
+        <div class="title">Extending AALpy with Passive Learning: A Generalized State-Merging Approach</div>
+        <div class="speakers">
+        Benjamin von Berg, Bernhard Aichernig (TU Graz)
+        </div>
+      </div>
+    </div>
+        <div class="entry">
+      <div class="time">16:20-16:40</div>
+      <div class="details">
+        <div class="title">LearnLib: 10 years later</div>
+        <div class="speakers">
+        Markus Frohme (Technische Universität Dortmund); Falk Howar (Technische Universität Dortmund, Fraunhofer ISST); Bernhard Steffen (Technische Universität Dortmund) 
+        </div>
+      </div>
+    </div>
+        <div class="entry">
+      <div class="time">16:20-16:40</div>
+      <div class="details">
+        <div class="title">A Misconception-Driven Adaptive Tutor for Linear Temporal Logic</div>
+        <div class="speakers">
+        Siddhartha Prasad (Brown University); Ben Greenman (University of Utah, USA); Tim Nelson, Shriram Krishnamurthi (Brown University) 
+        </div>
+      </div>
+    </div>
+   
+</div>
 
+<div class="gray-box">
+    <h4 id="concurrency-and-runtime">16:00-17:30 Concurrency and Runtime Verification</h4>
+    <b>Room: B</b><br>
+    <b>Session Chair: TBD</b>
+    <div class="entry">
+      <div class="time">16:00-16:20</div>
+      <div class="details">
+        <div class="title">GPUMC: A Stateless Model Checker for GPU Weak Memory Concurrency</div>
+        <div class="speakers">
+        Soham Chakraborty (TU Delft); S. Krishna (IIT Bombay); Andreas Pavlogiannis (Aarhus University); Omkar Tuppe (IIT Bombay) 
+        </div>
+      </div>
+    </div>
+    <div class="entry">
+      <div class="time">16:20-16:40</div>
+      <div class="details">
+        <div class="title">Counterexample-Guided Commutativity</div>
+        <div class="speakers">
+        Marcel Ebbinghaus, Dominik Klumpp, Andreas Podelski (University of Freiburg) 
+        </div>
+      </div>
+    </div>
+    <div class="entry">
+      <div class="time">16:40-17:00</div>
+      <div class="details">
+        <div class="title">Scaling Up Proactive Enforcement</div>
+        <div class="speakers">
+        François Hublet (ETH Zürich); Leonardo Lima (University of Copenhagen); David Basin, Srdjan Krstic (ETH Zürich); Dmitriy Traytel (University of Copenhagen) 
+        </div>
+      </div>
+    </div>
+    <div class="entry">
+      <div class="time">17:00-16:10</div>
+      <div class="details">
+        <div class="title">An Intermediate Program Representation for Optimizing Stream-Based Languages</div>
+        <div class="speakers">
+        Frederik Scheerer, Jan Baumeister, Bernd Finkbeiner, Arthur Correnson (CISPA Helmholtz Center for Information Security)
+        </div>
+      </div>
+    </div>
+    <div class="entry">
+      <div class="time">17:10-17:20</div>
+      <div class="details">
+        <div class="title">PyCaliper: Python-embedded Infrastructure for RTL Verification and Specification Synthesis</div>
+        <div class="speakers">
+        Adwait Godbole (University of California, Berkeley); Brian Huffman (Intel Labs); Fangfei Liu (Intel); Carlos V Rozas (Intel Labs); Sanjit A. Seshia (University of California, Berkeley) 
+        </div>
+      </div>
+    </div>
+
+</div>
 
 ### July 24th (Thursday)
 <div class="schedule">

@@ -369,6 +369,7 @@ title: Program
         Soham Chakraborty (TU Delft); S. Krishna (IIT Bombay); Andreas Pavlogiannis (Aarhus University); Omkar Tuppe (IIT Bombay) 
         </div>
       </div>
+    </div>
     <div class="entry">
       <div class="time">16:20-16:40</div>
       <div class="details">
@@ -377,6 +378,7 @@ title: Program
         Marcel Ebbinghaus, Dominik Klumpp, Andreas Podelski (University of Freiburg) 
         </div>
       </div>
+    </div>
     <div class="entry">
       <div class="time">16:40-17:00</div>
       <div class="details">
@@ -385,6 +387,7 @@ title: Program
         François Hublet (ETH Zürich); Leonardo Lima (University of Copenhagen); David Basin, Srdjan Krstic (ETH Zürich); Dmitriy Traytel (University of Copenhagen) 
         </div>
       </div>
+    </div>
     <div class="entry">
       <div class="time">17:00-16:10</div>
       <div class="details">
@@ -393,6 +396,7 @@ title: Program
         Frederik Scheerer, Jan Baumeister, Bernd Finkbeiner, Arthur Correnson (CISPA Helmholtz Center for Information Security)
         </div>
       </div>
+    </div>
     <div class="entry">
       <div class="time">17:10-17:20</div>
       <div class="details">
@@ -401,6 +405,7 @@ title: Program
         Adwait Godbole (University of California, Berkeley); Brian Huffman (Intel Labs); Fangfei Liu (Intel); Carlos V Rozas (Intel Labs); Sanjit A. Seshia (University of California, Berkeley) 
         </div>
       </div>
+    </div>
 
 </div>
 

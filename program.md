@@ -376,7 +376,7 @@ title: Program
       </div>
     </div>
     <div class="entry">
-      <div class="time">17:00-17:10</div>
+      <div class="time">17:00-17:10 </div>
       <div class="details">
         <div class="title">An Intermediate Program Representation for Optimizing Stream-Based Languages</div>
         <div class="speakers">

@@ -324,7 +324,7 @@ title: Program
       </div>
     </div>
         <div class="entry">
-      <div class="time">16:20-16:40</div>
+      <div class="time">17:10-17:20</div>
       <div class="details">
         <div class="title">LearnLib: 10 years later</div>
         <div class="speakers">
@@ -333,7 +333,7 @@ title: Program
       </div>
     </div>
         <div class="entry">
-      <div class="time">16:20-16:40</div>
+      <div class="time">17:20-17:30</div>
       <div class="details">
         <div class="title">A Misconception-Driven Adaptive Tutor for Linear Temporal Logic</div>
         <div class="speakers">
@@ -376,7 +376,7 @@ title: Program
       </div>
     </div>
     <div class="entry">
-      <div class="time">17:00-16:10</div>
+      <div class="time">17:00-17:10</div>
       <div class="details">
         <div class="title">An Intermediate Program Representation for Optimizing Stream-Based Languages</div>
         <div class="speakers">

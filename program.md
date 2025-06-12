@@ -154,7 +154,7 @@ title: Program
         </tr>
         <tr>
             <th>11:00-12:00</th>
-            <td colspan="2">Keynote</td>
+            <td colspan="2"><a href="#keynote-wednesday">Keynote</a></td>
         </tr>
         <tr>
             <th>12:00-14:00</th>
@@ -187,6 +187,19 @@ title: Program
             <td colspan="2" > Reception </td>
         </tr>
     </table>	
+</div>
+
+<div class="gray-box">
+    <h4 id="keynote-wednesday">11:00-12:00 Keynote TBA </h4>
+    <b>Room: TBD</b><br>
+    <div class="entry">
+      <div class="time"> 11:00-12:00 </div>
+      <div class="details">
+        <div class="title"> Keynote Title </div>
+        <div class="speakers">
+            Speaker </div>
+      </div>
+    </div>
 </div>
 
 <div class="gray-box">
@@ -420,7 +433,7 @@ title: Program
     </tr>
     <tr>
         <th>11:00-12:00</th>
-        <td colspan="2" >Keynote</td>
+        <td colspan="2"> <a href="keynote-thursday">Keynote</a></td>
     </tr>
     <tr>
         <th>12:00-14:00</th>
@@ -560,6 +573,19 @@ title: Program
       </div>
     </div>
 
+</div>
+
+<div class="gray-box">
+    <h4 id="keynote-thursday">11:00-12:00 Keynote TBA </h4>
+    <b>Room: TBD</b><br>
+    <div class="entry">
+      <div class="time"> 11:00-12:00 </div>
+      <div class="details">
+        <div class="title"> Keynote Title </div>
+        <div class="speakers">
+            Speaker </div>
+      </div>
+    </div>
 </div>
 
 <div class="gray-box">
@@ -742,8 +768,6 @@ title: Program
 
 </div>
 
-
-
 ### July 25th (Friday)
 <div class="schedule">
 
@@ -800,7 +824,8 @@ title: Program
         <th>19:00</th>
         <td colspan="2" > PC Dinner </td>
     </tr>
-</table>	
+</table>
+</div>	
 
 <div class="gray-box">
     <h4 id="decision-procedures">9:00-10:30 Decision Procedures</h4>
@@ -894,6 +919,19 @@ title: Program
       </div>
     </div>
 
+</div>
+
+<div class="gray-box">
+    <h4 id="keynote-friday">11:00-12:00 Keynote TBA </h4>
+    <b>Room: TBD</b><br>
+    <div class="entry">
+      <div class="time"> 11:00-12:00 </div>
+      <div class="details">
+        <div class="title"> Keynote Title </div>
+        <div class="speakers">
+            Speaker </div>
+      </div>
+    </div>
 </div>
 
 <div class="gray-box">
@@ -1057,7 +1095,5 @@ title: Program
             Elaine Li (New York University); Felix Stutz (University of Luxembourg); Thomas Wies (New York University); Damien Zufferey (NVIDIA) </div>
       </div>
     </div>
-
-</div>
 
 </div>

@@ -83,7 +83,7 @@ title: Program
     .schedule tr:nth-child(2) { background: white; }
     .schedule tr:nth-child(3) { background: yellow; }
     .schedule tr:nth-child(4) { background: white; }
-    .schedule tr:nth-child(5) { background: green; }
+    .schedule tr:nth-child(5) { background: orange; }
     .schedule tr:nth-child(6) { background: white; }
     .schedule tr:nth-child(7) { background: yellow; }
     .schedule tr:nth-child(8) { background: white; }

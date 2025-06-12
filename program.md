@@ -759,8 +759,8 @@ title: Program
     </tr>
     <tr>
         <th>9:00-10:30</th>
-        <th>Decision Procedures</th>
-        <th>MDPs and Probabilistic Reasoning</th>
+        <th><a href="#decision-procedures">Decision Procedures</a></th>
+        <th><a href="#mdps-and-probabilistic">MDPs and Probabilistic Reasoning</a></th>
     </tr>
     <tr>
         <th>10:30-11:00</th>
@@ -776,8 +776,8 @@ title: Program
     </tr>
     <tr>
         <th>14:00-15:30</th>
-        <th>Quantum Computing</th>
-        <th>Probabilistic Reasoning II</th>
+        <th><a href="#quantum-computing">Quantum Computing</a></th>
+        <th><a href="#probabilistic-reasoning-ii">Probabilistic Reasoning II</a></th>
     </tr>
     <tr>
         <th>15:30-16:00</th>
@@ -785,8 +785,8 @@ title: Program
     </tr>
     <tr>
         <th>16:00-17:30</th>
-        <th>Applications</th>
-        <th>Networks and Protocols</th>
+        <th><a href="#applications">Applications</a></th>
+        <th><a href="#networks-and-protocols">Networks and Protocols</a></th>
     </tr>
     <tr>
         <th>17:30-17:45</th>
@@ -801,5 +801,263 @@ title: Program
         <td colspan="2" > PC Dinner </td>
     </tr>
 </table>	
+
+<div class="gray-box">
+    <h4 id="decision-procedures">9:00-10:30 Decision Procedures</h4>
+    <b>Room: A</b><br>
+    <b>Session Chair: TBD</b>
+    <div class="entry">
+      <div class="time"> 9:00-9:20 </div>
+      <div class="details">
+        <div class="title"> Regex Decision Procedures in Extended RE# </div>
+        <div class="speakers">
+            Ian Erik Varatalu (Tallinn University of Technology); Margus Veanes (MSR Redmond); Ekaterina Zhuchko, Juhan Ernits (Tallinn University of Technology) </div>
+      </div>
+    </div>
+    <div class="entry">
+      <div class="time"> 9:20-9:40 </div>
+      <div class="details">
+        <div class="title"> Verified and Optimized Implementation of Orthologic Proof Search </div>
+        <div class="speakers">
+            Simon Guilloud, Clément Pit-Claudel (EPFL) </div>
+      </div>
+    </div>
+    <div class="entry">
+      <div class="time"> 9:40-10:00 </div>
+      <div class="details">
+        <div class="title"> Accelerating Automated Program Verifiers by Automatic Proof Localization </div>
+        <div class="speakers">
+            Kiran Gopinathan (University of Illinois Urbana-Champaign); Dionysios Spiliopoulos (ETH Zurich); Vikram Goyal (National University of Singapore); Peter Müller, Markus Püschel (ETH Zurich); Ilya Sergey (National University of Singapore) </div>
+      </div>
+    </div>
+    <div class="entry">
+      <div class="time"> 10:00-10:20 </div>
+      <div class="details">
+        <div class="title"> Lean-auto: An Interface between Lean 4 and Automated Theorem Provers </div>
+        <div class="speakers">
+            Yicheng Qian (Stanford University); Joshua Clune (Carnegie Mellon University); Clark Barrett (Stanford University); Jeremy Avigad (Carnegie Mellon University) </div>
+      </div>
+    </div>
+    <div class="entry">
+      <div class="time"> 10:20-10:30 </div>
+      <div class="details">
+        <div class="title"> Lean-SMT: An SMT tactic for discharging proof goals in Lean </div>
+        <div class="speakers">
+            Abdalrhman Mohamed (Stanford University); Tomaz Mascarenhas (Universidade Federal de Minas Gerais); Harun Khan (Stanford University); Haniel Barbosa (Universidade Federal de Minas Gerais); Andrew Reynolds (The University of Iowa, Amazon Web Services); Yicheng Qian (Stanford University); Cesare Tinelli (The University of Iowa); Clark Barrett (Stanford University) </div>
+      </div>
+    </div>
+
+</div>
+
+<div class="gray-box">
+    <h4 id="mdps-and-probabilistic">9:00-10:30 MDPs and Probabilistic Reasoning</h4>
+    <b>Room: B</b><br>
+    <b>Session Chair: TBD</b>
+    <div class="entry">
+      <div class="time"> 9:00-9:20 </div>
+      <div class="details">
+        <div class="title"> A Formally Verified IEEE 754 Floating-Point Implementation of Interval Iteration for MDPs </div>
+        <div class="speakers">
+            Bram Kohlen (University of Twente); Maximilian Schäffeler (TU Munich); Mohammad Abdulaziz (King's College London); Arnd Hartmanns, Peter Lammich (University of Twente) </div>
+      </div>
+    </div>
+    <div class="entry">
+      <div class="time"> 9:20-9:40 </div>
+      <div class="details">
+        <div class="title"> INTERLEAVE: A Faster Symbolic Algorithm for Maximal End Component Decomposition </div>
+        <div class="speakers">
+             Suguman Bansal (Georgia Institute of Technolgy); Ramneet Singh (Indian Institute of Technology Delhi) </div>
+      </div>
+    </div>
+    <div class="entry">
+      <div class="time"> 9:40-10:00 </div>
+      <div class="details">
+        <div class="title"> Small Decision Trees for MDPs with Deductive Synthesis </div>
+        <div class="speakers">
+            Roman Andriushchenko, Milan Češka (Brno University of Technology); Sebastian Junges (Radboud University); Filip Macák (Brno University of Technology) </div>
+      </div>
+    </div>
+        <div class="entry">
+      <div class="time"> 10:00-10:20 </div>
+      <div class="details">
+        <div class="title"> Approximating Fixpoints of Approximated Functions </div>
+        <div class="speakers">
+            Paolo Baldan (University of Padova); Sebastian Gurke (University of Duisburg-Essen, Germany); Barbara König (University of Duisburg-Essen); Tommaso Padoan (Università di Trieste); Florian Wittbold (University of Duisburg-Essen) </div>
+      </div>
+    </div>
+        <div class="entry">
+      <div class="time"> 10:20-10:30 </div>
+      <div class="details">
+        <div class="title"> StatWhy: Formal Verification Tool for Statistical Hypothesis Testing Programs </div>
+        <div class="speakers">
+            Yusuke Kawamoto (AIST); Kentaro Kobayashi (Tsukuba University & AIST); Kohei Suenaga (Kyoto University) </div>
+      </div>
+    </div>
+
+</div>
+
+<div class="gray-box">
+    <h4 id="quantum-computing">14:30-15:30 Quantum Computing</h4>
+    <b>Room: A</b><br>
+    <b>Session Chair: TBD</b>
+    <div class="entry">
+      <div class="time"> 14:30-14:50 </div>
+      <div class="details">
+        <div class="title"> Verifying Fault-Tolerance of Quantum Error Correction Codes </div>
+        <div class="speakers">
+            Kean Chen, Yuhao Liu (University of Pennsylvania); Wang Fang (University of Edinburgh); Jennifer Paykin, Xin-Chuan Wu, Albert Schmitz (Intel Corporation); Steve Zdancewic, Gushu Li (University of Pennsylvania) </div>
+      </div>
+    </div>
+    <div class="entry">
+      <div class="time"> 14:50-15:10 </div>
+      <div class="details">
+        <div class="title"> FeynmanDD: Quantum Circuit Analysis with Classical Decision Diagrams </div>
+        <div class="speakers">
+            Ziyuan Wang (Tsinghua); Bin Cheng (NUS); Longxiang Yuan (Tsinghua); Zhengfeng Ji (Tsinghua and Zhongguancun Lab) </div>
+      </div>
+    </div>
+    <div class="entry">
+      <div class="time"> 15:10-15:30 </div>
+      <div class="details">
+        <div class="title"> D-Hammer: Efficient Equational Reasoning for Labelled Dirac Notation </div>
+        <div class="speakers">
+            Yingte Xu (Max Planck Institute for Security and Privacy); Gilles Barthe (Max Planck Institute for Security and Privacy & IMDEA Software Institute); Li Zhou (Institute of Software, Chinese Academy of Sciences) </div>
+      </div>
+    </div>
+
+</div>
+
+<div class="gray-box">
+    <h4 id="probabilistic-reasoning-ii">14:30-15:30 Probabilistic Reasoning II</h4>
+    <b>Room: B</b><br>
+    <b>Session Chair: TBD</b>
+    <div class="entry">
+      <div class="time"> 14:30-14:50 </div>
+      <div class="details">
+        <div class="title"> Assessing the Quality of Binomial Samplers: A Statistical Distance Framework </div>
+        <div class="speakers">
+            Sourav Chakraborty (Indian Statistical Institute); Kuldeep S. Meel (Georgia Institute of Technology); Uddalok Sarkar (Indian Statistical Institute) </div>
+      </div>
+    </div>
+    <div class="entry">
+      <div class="time"> 14:50-15:10 </div>
+      <div class="details">
+        <div class="title"> Robust Probabilistic Bisimilarity for Labelled Markov Chains </div>
+        <div class="speakers">
+             Franck van Breugel (York University); Syyeda Zainab Fatmi, Stefan Kiefer, David Parker (University of Oxford) </div>
+      </div>
+    </div>
+    <div class="entry">
+      <div class="time"> 15:10-15:30 </div>
+      <div class="details">
+        <div class="title"> Accelerating Markov Chain Model Checking: Good-for-Games Meets Unambiguous Automata Specifications </div>
+        <div class="speakers">
+            Yong Li (Institute of Software, Chinese Academy of Sciences); Soumyajit Paul, Sven Schewe, Qiyi Tang (University of Liverpool) </div>
+      </div>
+    </div>
+
+</div>
+
+<div class="gray-box">
+    <h4 id="applications">16:00-17:30 Applications</h4>
+    <b>Room: A</b><br>
+    <b>Session Chair: TBD</b>
+    <div class="entry">
+      <div class="time"> 16:00-16:20 </div>
+      <div class="details">
+        <div class="title"> On the Complexity of Checking Mixed Isolation Levels for SQL Transactions </div>
+        <div class="speakers">
+            Ahmed Bouajjani (IRIF, CNRS, University Paris Cité); Constantin Enea (LIX, École Polytechnique, CNRS and Institut Polytechnique de Paris); Enrique Román-Calvo (IRIF, CNRS, University Paris Cité) </div>
+      </div>
+    </div>
+    <div class="entry">
+      <div class="time"> 16:20-16:40 </div>
+      <div class="details">
+        <div class="title"> Data-driven Verification of Procedural Programs with Integer Arrays </div>
+        <div class="speakers">
+            Ahmed Bouajjani (Université Paris Cité); Wael-Amine Boutglay (Université Paris Cité and Mohammed VI Polytechnic University); Peter Habermehl (Université Paris Cité) </div>
+      </div>
+    </div>
+    <div class="entry">
+      <div class="time"> 16:40-16:50 </div>
+      <div class="details">
+        <div class="title"> Automated Parameterized Verification of a Railway Protection System with Dafny </div>
+        <div class="speakers">
+            Roberto Cavada, Alessandro Cimatti, Alberto Griggio, Christian Lidström, Gianluca Redondi (Fondazione Bruno Kessler); Giuseppe Scaglione, Matteo Tessi (RFI); Dylan Trenti (Fondazione Bruno Kessler) </div>
+      </div>
+    </div>
+    <div class="entry">
+      <div class="time"> 16:50-17:00 </div>
+      <div class="details">
+        <div class="title"> Charon: An Analysis Framework for Rust </div>
+        <div class="speakers">
+            Son Ho (Inria, Microsoft Azure Research); Guillaume Boisseau (Inria); Lucas Franceschino (Cryspen); Yoann Prak, Aymeric Fromherz (Inria); Jonathan Protzenko (Microsoft Azure Research) </div>
+      </div>
+    </div>
+    <div class="entry">
+      <div class="time"> 17:00-17:10 </div>
+      <div class="details">
+        <div class="title"> Surfer – An Extensible Waveform Viewer </div>
+        <div class="speakers">
+            Frans Skarman (Linköping University); Lucas Klemmer, Daniel Große (Johannes Kepler University); Oscar Gustafsson (Linköping University); Kevin Laeufer (Cornell University) </div>
+      </div>
+    </div>
+    <div class="entry">
+      <div class="time"> 17:10-17:20 </div>
+      <div class="details">
+        <div class="title"> PyEuclid: A Versatile Formal Plane Geometry System in Python </div>
+        <div class="speakers">
+            Zhaoyu Li, Hangrui Bi, Jialiang Sun (University of Toronto); Zenan Li (Nanjing University); Kaiyu Yang (Meta FAIR); Xujie Si (University of Toronto) </div>
+      </div>
+    </div>
+
+</div>
+
+<div class="gray-box">
+    <h4 id="networks-and-protocols">16:00-17:30 Networks and Protocols</h4>
+    <b>Room: B</b><br>
+    <b>Session Chair: TBD</b>
+    <div class="entry">
+      <div class="time"> 16:00-16:20 </div>
+      <div class="details">
+        <div class="title"> Automatic Verification of Floating-Point Accumulation Networks </div>
+        <div class="speakers">
+            David K. Zhang, Alex Aiken (Stanford University) </div>
+      </div>
+    </div>
+    <div class="entry">
+      <div class="time"> 16:20-16:40 </div>
+      <div class="details">
+        <div class="title"> Counting Abstraction and Decidability for the Verification of Structured Parameterized Networks </div>
+        <div class="speakers">
+            Marius Bozga, Radu Iosif (Univ. Grenoble Alpes, Grenoble INP, VERIMAG); Arnaud Sangnier (DIBRIS, Univ. of Genova, Italy); Neven Villani (Univ. Grenoble Alpes, Grenoble INP, VERIMAG) </div>
+      </div>
+    </div>
+    <div class="entry">
+      <div class="time"> 16:40-17:00 </div>
+      <div class="details">
+        <div class="title"> QSM-Cutoff: Systematic Derivation of Quantified Cutoff Formulas for Distributed Protocols </div>
+        <div class="speakers">
+            Yun-Rong Luo (University of Michigan, Ann Arbor); Aman Goel (AWS); Karem Sakallah (University of Michigan) </div>
+      </div>
+    </div>
+    <div class="entry">
+      <div class="time"> 17:00-17:10 </div>
+      <div class="details">
+        <div class="title"> Space Explanations of Neural Network Classification </div>
+        <div class="speakers">
+            Faezeh Labbaf, Tomas Kolarik (University of Lugano (USI)); Martin Blicha (University of Lugano (USI), Ethereum Foundation) Grigory Fedyukovich (Florida State University, University of Lugano (USI)); Michael Wand (SUPSI, IDSIA, Lugano); Natasha Sharygina (University of Lugano (USI)) </div>
+      </div>
+    </div>
+    <div class="entry">
+      <div class="time"> 17:10-17:20 </div>
+      <div class="details">
+        <div class="title"> SPROUT: A Verifier for Symbolic Multiparty Protocols </div>
+        <div class="speakers">
+            Elaine Li (New York University); Felix Stutz (University of Luxembourg); Thomas Wies (New York University); Damien Zufferey (NVIDIA) </div>
+      </div>
+    </div>
+
+</div>
 
 </div>

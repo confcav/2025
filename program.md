@@ -433,7 +433,7 @@ title: Program
     </tr>
     <tr>
         <th>11:00-12:00</th>
-        <td colspan="2"> <a href="keynote-thursday">Keynote</a></td>
+        <td colspan="2"> <a href="#keynote-thursday">Keynote</a></td>
     </tr>
     <tr>
         <th>12:00-14:00</th>
@@ -792,7 +792,7 @@ title: Program
     </tr>
     <tr>
         <th>11:00-12:00</th>
-        <td colspan="2" >Keynote</td>
+        <td colspan="2" ><a href="#keynote-friday">Keynote</a></td>
     </tr>
     <tr>
         <th>12:00-14:00</th>

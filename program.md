@@ -18,22 +18,22 @@ title: Program
 <div class="workshop">
     <table>
         <tr>
-            <th>[Verification Mentoring Workshop (VMW)](https://conferences.i-cav.org/2025/mentoring/)</th>
+            <th><a href="https://conferences.i-cav.org/2025/mentoring/">Verification Mentoring Workshop (VMW)</a></th>
         </tr>
         <tr>
-            <th>[Workshop on Verification of Quantum Computing (VQC)](https://verifiedqc.github.io/2025/cfp/)</th>
+            <th><a href="https://verifiedqc.github.io/2025/cfp/">Workshop on Verification of Quantum Computing (VQC)</a></th>
         </tr>
         <tr>
-            <th>[International Workshop on Trustworthy Cyber-Physical Systems (TACPS)](https://www.tacps.org/)</th>
+            <th><a href="https://www.tacps.org/">International Workshop on Trustworthy Cyber-Physical Systems (TACPS)</a></th>
         </tr>
         <tr>
-            <th>[Workshop on Hyperproperties: Advances in Theory and Applications (HYPER)](https://hyperworkshop25.cispa.io/)</th>
+            <th><a href="https://hyperworkshop25.cispa.io/">Workshop on Hyperproperties: Advances in Theory and Applications (HYPER)</a></th>
         </tr>
         <tr>
-            <th>[Allen Emerson Memorial](https://thomaswahl.github.io/EAE-Memorial-Symposium/)</th>
+            <th><a href="https://thomaswahl.github.io/EAE-Memorial-Symposium/">Allen Emerson Memorial</a></th>
         </tr>
         <tr>
-            <th>[Symposium on AI Verification (SAIV)](https://www.aiverification.org/2025/), Both Days</th>
+            <th><a href="https://www.aiverification.org/2025/">Symposium on AI Verification (SAIV)</a>, Both Days</th>
         </tr>
     </table>
 </div>
@@ -43,25 +43,25 @@ title: Program
 <div class="workshop">
     <table>
         <tr>
-            <th>[Workshop on Automated Reasoning for Tensor Compilers (AR4TC)](https://ar4tc.org/)</th>
+            <th><a href="https://ar4tc.org/">Workshop on Automated Reasoning for Tensor Compilers (AR4TC)</a></th>
         </tr>
         <tr>
-            <th>[Meeting on String Constraints and Applications (MOSCA)](https://mosca2025.github.io/)</th>
+            <th><a href="https://mosca2025.github.io/">Meeting on String Constraints and Applications (MOSCA)</a></th>
         </tr>
         <tr>
-            <th>[14th Workshop on Synthesis (SYNT)](https://synt2025.github.io/)</th>
+            <th><a href="https://synt2025.github.io/">14th Workshop on Synthesis (SYNT)</a></th>
         </tr>
         <tr>
-            <th>[12th Workshop on Horn Clauses for Verification and Synthesis (HCVS)](https://www.sci.unich.it/hcvs25/)</th>
+            <th><a href="https://www.sci.unich.it/hcvs25/">12th Workshop on Horn Clauses for Verification and Synthesis (HCVS)</a></th>
         </tr>
         <tr>
-            <th>[Workshop on Verification of Probabilistic Programs (VeriProP)](https://veriprop.github.io/2025/)</th>
+            <th><a href="https://veriprop.github.io/2025/">Workshop on Verification of Probabilistic Programs (VeriProP)</a></th>
         </tr>
         <tr>
-            <th>[Ken McMillan Celebration](https://kenfest25.github.io/.)</th>
+            <th><a href="https://kenfest25.github.io/.">Ken McMillan Celebration</a></th>
         </tr>
         <tr>
-            <th>[Symposium on AI Verification (SAIV)](https://www.aiverification.org/2025/), Both Days</th>
+            <th><a href="https://www.aiverification.org/2025/">Symposium on AI Verification (SAIV)</a>, Both Days</th>
         </tr>
     </table>
 </div>

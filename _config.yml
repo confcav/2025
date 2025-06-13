@@ -25,6 +25,7 @@ navbar-links:
     - Venues: "venues"
     - Local Info: "local"
   Accepted Papers: "accepted"
+  Program: "program"
   Calls:
     - Call for Papers: "cfp"
     - Call for Workshops: "cfw"

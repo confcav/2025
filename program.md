@@ -18,22 +18,22 @@ title: Program
 <div class="workshop">
     <table>
         <tr>
-            <th>Verification Mentoring Workshop (VMW)</th>
+            <th>[Verification Mentoring Workshop (VMW)](https://conferences.i-cav.org/2025/mentoring/)</th>
         </tr>
         <tr>
-            <th>Workshop on Verification of Quantum Computing (VQC)</th>
+            <th>[Workshop on Verification of Quantum Computing (VQC)](https://verifiedqc.github.io/2025/cfp/)</th>
         </tr>
         <tr>
-            <th>International Workshop on Trustworthy Cyber-Physical Systems (TACPS)</th>
+            <th>[International Workshop on Trustworthy Cyber-Physical Systems (TACPS)](https://www.tacps.org/)</th>
         </tr>
         <tr>
-            <th>Workshop on Hyperproperties: Advances in Theory and Applications (HYPER)</th>
+            <th>[Workshop on Hyperproperties: Advances in Theory and Applications (HYPER)](https://hyperworkshop25.cispa.io/)</th>
         </tr>
         <tr>
-            <th>Allen Emerson Memorial</th>
+            <th>[Allen Emerson Memorial](https://thomaswahl.github.io/EAE-Memorial-Symposium/)</th>
         </tr>
         <tr>
-            <th>Symposium on AI Verification (SAIV), Both Days</th>
+            <th>[Symposium on AI Verification (SAIV)](https://www.aiverification.org/2025/), Both Days</th>
         </tr>
     </table>
 </div>
@@ -43,25 +43,25 @@ title: Program
 <div class="workshop">
     <table>
         <tr>
-            <th>Workshop on Automated Reasoning for Tensor Compilers (AR4TC)</th>
+            <th>[Workshop on Automated Reasoning for Tensor Compilers (AR4TC)](https://ar4tc.org/)</th>
         </tr>
         <tr>
-            <th>Meeting on String Constraints and Applications (MOSCA)</th>
+            <th>[Meeting on String Constraints and Applications (MOSCA)](https://mosca2025.github.io/)</th>
         </tr>
         <tr>
-            <th>14th Workshop on Synthesis (SYNT)</th>
+            <th>[14th Workshop on Synthesis (SYNT)](https://synt2025.github.io/)</th>
         </tr>
         <tr>
-            <th>12th Workshop on Horn Clauses for Verification and Synthesis (HCVS)</th>
+            <th>[12th Workshop on Horn Clauses for Verification and Synthesis (HCVS)](https://www.sci.unich.it/hcvs25/)</th>
         </tr>
         <tr>
-            <th>Workshop on Verification of Probabilistic Programs (VeriProP)</th>
+            <th>[Workshop on Verification of Probabilistic Programs (VeriProP)](https://veriprop.github.io/2025/)</th>
         </tr>
         <tr>
-            <th>Ken McMillan Celebration</th>
+            <th>[Ken McMillan Celebration](https://kenfest25.github.io/.)</th>
         </tr>
         <tr>
-            <th>Symposium on AI Verification (SAIV), Both Days</th>
+            <th>[Symposium on AI Verification (SAIV)](https://www.aiverification.org/2025/), Both Days</th>
         </tr>
     </table>
 </div>
@@ -190,14 +190,14 @@ title: Program
 </div>
 
 <div class="gray-box">
-    <h4 id="keynote-wednesday">11:00-12:00 Keynote TBA </h4>
+    <h4 id="keynote-wednesday">11:00-12:00 Keynote </h4>
     <b>Room: TBD</b><br>
     <div class="entry">
       <div class="time"> 11:00-12:00 </div>
       <div class="details">
-        <div class="title"> Keynote Title </div>
+        <div class="title"> Through the Looking Glass: Semantic Analysis of Neural Networks </div>
         <div class="speakers">
-            Speaker </div>
+            [Corina Păsăreanu](https://www.andrew.cmu.edu/user/pcorina/), Carnegie Mellon University, USA </div>
       </div>
     </div>
 </div>
@@ -576,14 +576,14 @@ title: Program
 </div>
 
 <div class="gray-box">
-    <h4 id="keynote-thursday">11:00-12:00 Keynote TBA </h4>
+    <h4 id="keynote-thursday">11:00-12:00 Keynote </h4>
     <b>Room: TBD</b><br>
     <div class="entry">
       <div class="time"> 11:00-12:00 </div>
       <div class="details">
-        <div class="title"> Keynote Title </div>
+        <div class="title"> Side Channel Secure Software: A Hardware Question </div>
         <div class="speakers">
-            Speaker </div>
+            [Roderick Bloem](https://www.iaik.tugraz.at/person/roderick-bloem/), Graz University of Technology, Austria </div>
       </div>
     </div>
 </div>
@@ -922,14 +922,14 @@ title: Program
 </div>
 
 <div class="gray-box">
-    <h4 id="keynote-friday">11:00-12:00 Keynote TBA </h4>
+    <h4 id="keynote-friday">11:00-12:00 Keynote </h4>
     <b>Room: TBD</b><br>
     <div class="entry">
       <div class="time"> 11:00-12:00 </div>
       <div class="details">
-        <div class="title"> Keynote Title </div>
+        <div class="title"> Cedar: A New Language for Expressive, Fast, Safe, and Analyzable Authorization </div>
         <div class="speakers">
-            Speaker </div>
+            [Emina Torlak](https://emina.github.io/), AWS and University of Washington, USA  </div>
       </div>
     </div>
 </div>

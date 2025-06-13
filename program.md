@@ -197,7 +197,7 @@ title: Program
       <div class="details">
         <div class="title"> Through the Looking Glass: Semantic Analysis of Neural Networks </div>
         <div class="speakers">
-            [Corina Păsăreanu](https://www.andrew.cmu.edu/user/pcorina/), Carnegie Mellon University, USA </div>
+            <a href="https://www.andrew.cmu.edu/user/pcorina/">Corina Păsăreanu</a>, Carnegie Mellon University, USA </div>
       </div>
     </div>
 </div>
@@ -583,7 +583,7 @@ title: Program
       <div class="details">
         <div class="title"> Side Channel Secure Software: A Hardware Question </div>
         <div class="speakers">
-            [Roderick Bloem](https://www.iaik.tugraz.at/person/roderick-bloem/), Graz University of Technology, Austria </div>
+            <a href="https://www.iaik.tugraz.at/person/roderick-bloem/">Roderick Bloem</a>, Graz University of Technology, Austria </div>
       </div>
     </div>
 </div>
@@ -929,7 +929,7 @@ title: Program
       <div class="details">
         <div class="title"> Cedar: A New Language for Expressive, Fast, Safe, and Analyzable Authorization </div>
         <div class="speakers">
-            [Emina Torlak](https://emina.github.io/), AWS and University of Washington, USA  </div>
+            <a href="https://emina.github.io/">Emina Torlak</a>, AWS and University of Washington, USA  </div>
       </div>
     </div>
 </div>

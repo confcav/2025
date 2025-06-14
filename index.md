@@ -18,14 +18,3 @@ from July 21-25, 2025 in Zagreb, Croatia
 * Early registration deadline: June 22, 2025
 * Workshops: July 21-22, 2025
 * Main conference: July 23-25, 2025
-
-#### PAPER SUBMISSIONS 
-* Full papers due: ~~January 31, 2025~~ **\*Firm\***
-* Author response period: ~~March 11 - 14, 2025~~
-* Author notification: ~~April 2, 2025~~
-* Camera-ready deadline: ~~May 23, 2025~~
-
-#### WORKSHOP PROPOSAL SUBMISSIONS
-* Proposals are due by email to the Workshop chair: December 1, 2024
-* Organizers will be notified about the participation: December 18, 2024
-* See [workshops page](https://conferences.i-cav.org/2025/) for details

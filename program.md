@@ -799,7 +799,7 @@ title: Program
         <td colspan="2" >Lunch, Logic Lounge</td>
     </tr>
     <tr>
-        <th>14:00-15:30</th>
+        <th>14:30-15:30</th>
         <th><a href="#quantum-computing">Quantum Computing</a></th>
         <th><a href="#probabilistic-reasoning-ii">Probabilistic Reasoning II</a></th>
     </tr>
@@ -819,10 +819,6 @@ title: Program
     <tr>
         <th>17:45-18:45</th>
         <td colspan="2" > Business Meeting </td>
-    </tr>
-    <tr>
-        <th>19:00</th>
-        <td colspan="2" > PC Dinner </td>
     </tr>
 </table>
 </div>	

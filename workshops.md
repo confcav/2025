@@ -24,9 +24,6 @@ Organizers: [Kedar Namjoshi](mailto:kedar.namjoshi@nokia-bell-labs.com), Nokia B
 Organizers: [Mirco Giacobbe](mailto:m.giacobbe@bham.ac.uk), University of Birmingham; [Anna Lukina](mailto:A.Lukina@tudelft.nl), Delft University of Technology
 
 #### WORKSHOPS ON JULY 22nd
-[Workshop on Automated Reasoning for Tensor Compilers (AR4TC)](https://ar4tc.org/) <br>
-Organizers: [Temesghen Kahsai](mailto:teme@amazon.com), Amazon; [Sean McLaughlin](mailto:seanmcl@amazon.com), Amazon; [Daniel Kroening](mailto:dkr@amazon.co.uk), Amazon <br>
-
 [Meeting on String Constraints and Applications (MOSCA)](https://mosca2025.github.io/) <br>
 Organizers: [Matthew Hague](mailto:matthew.hague@rhul.ac.uk), Royal Holloway University of London; [Ondřej Lengál](mailto:lengal@fit.vut.cz), Brno University of Technology; [Joel Day](mailto:J.Day@lboro.ac.uk), Loughborough University <br>
 

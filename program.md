@@ -43,9 +43,6 @@ title: Program
 <div class="workshop">
     <table>
         <tr>
-            <th><a href="https://ar4tc.org/">Workshop on Automated Reasoning for Tensor Compilers (AR4TC)</a></th>
-        </tr>
-        <tr>
             <th><a href="https://mosca2025.github.io/">Meeting on String Constraints and Applications (MOSCA)</a></th>
         </tr>
         <tr>

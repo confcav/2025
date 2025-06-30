@@ -793,7 +793,7 @@ title: Program
     </tr>
     <tr>
         <th>12:00-13:00</th>
-        <td>LogicLounge: Are AI minds genuine minds? <br>
+        <td colspan="2">LogicLounge: Are AI minds genuine minds? <br>
             Moshe Y. Vardi (Rice University) and Henry Shevlin (University of Cambridge)</td>
     </tr>
     <tr>

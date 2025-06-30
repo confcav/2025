@@ -792,8 +792,13 @@ title: Program
         <td colspan="2" ><a href="#keynote-friday">Keynote</a></td>
     </tr>
     <tr>
-        <th>12:00-14:00</th>
-        <td colspan="2" >Lunch, Logic Lounge</td>
+        <th>12:00-13:00</th>
+        <td>LogicLounge: Are AI minds genuine minds? <br>
+            Moshe Y. Vardi (Rice University) and Henry Shevlin (University of Cambridge)</td>
+    </tr>
+    <tr>
+        <th>13:00-14:00</th>
+        <td colspan="2">Lunch</td>
     </tr>
     <tr>
         <th>14:30-15:30</th>

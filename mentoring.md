@@ -38,7 +38,8 @@ Deadline for applications: ~~May 2, 2025~~
 #### Panelists
 [Tom Henzinger](https://pub.ista.ac.at/~tah/), (IST Austria) <br>
 [Daniel Kröning](https://www.kroening.com/), Amazon <br>
-[Suguman Bansal](https://suguman.github.io/), Georgia Institute of Technolgy
+[Rayna Dimitrova](https://raynadimitrova.github.io/), CISPA Helmholtz Center for Information Security <br>
+[Chana Weil-Kennedy](https://chana-wk.github.io/), CEA List
 
 #### Organizers
 [Grigory Fedyukovich (chair)](mailto:grigory@cs.fsu.edu), Florida State University <br>

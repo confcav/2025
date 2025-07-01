@@ -640,6 +640,7 @@ title: Program
       <div class="time"> 14:00-14:10 </div>
       <div class="details">
         <div class="title"> <a href="https://www.syntcomp.org/">Report on SYNTCOMP 2025</a> </div>
+        </div>
     </div>
     <div class="entry">
       <div class="time"> 14:10-14:30 </div>

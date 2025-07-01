@@ -633,16 +633,13 @@ title: Program
 </div>
 
 <div class="gray-box">
-    <h4 id="reactive-synthesis">14:00-15:30 Reactive Synthesis</h4>
+    <h4 id="reactive-synthesis">14:00-15:40 Reactive Synthesis</h4>
     <b>Room: B</b><br>
     <b>Session Chair: TBD</b>
     <div class="entry">
       <div class="time"> 14:00-14:10 </div>
       <div class="details">
         <div class="title"> <a href="https://www.syntcomp.org/">Report on SYNTCOMP 2025</a> </div>
-        <div class="speakers">
-            Hernán Gabriel Gagliardi (Universidad de Buenos Aires); Victor Braberman (Universidad de Buenos Aires/CONICET); Sebastian Uchitel (Universidad de Buenos Aires, CONICET, Imperial College London)  </div>
-      </div>
     </div>
     <div class="entry">
       <div class="time"> 14:10-14:30 </div>

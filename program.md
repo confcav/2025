@@ -437,12 +437,12 @@ title: Program
         <td colspan="2" >Lunch</td>
     </tr>
     <tr>
-        <th>14:00-15:30</th>
+        <th>14:00-15:40</th>
         <th><a href="#data-structures">Data Structures</a></th>
         <th><a href="#reactive-synthesis">Reactive Synthesis</a></th>
     </tr>
     <tr>
-        <th>15:30-16:00</th>
+        <th>15:40-16:00</th>
         <td colspan="2" >Coffee break</td>
     </tr>
     <tr>
@@ -637,7 +637,15 @@ title: Program
     <b>Room: B</b><br>
     <b>Session Chair: TBD</b>
     <div class="entry">
-      <div class="time"> 14:00-14:20 </div>
+      <div class="time"> 14:00-14:10 </div>
+      <div class="details">
+        <div class="title"> <a href="https://www.syntcomp.org/">Report on SYNTCOMP 2025</a> </div>
+        <div class="speakers">
+            Hernán Gabriel Gagliardi (Universidad de Buenos Aires); Victor Braberman (Universidad de Buenos Aires/CONICET); Sebastian Uchitel (Universidad de Buenos Aires, CONICET, Imperial College London)  </div>
+      </div>
+    </div>
+    <div class="entry">
+      <div class="time"> 14:10-14:30 </div>
       <div class="details">
         <div class="title"> Scaling GR(1) Synthesis via a Compositional Framework for LTL Discrete Event Control </div>
         <div class="speakers">
@@ -645,7 +653,7 @@ title: Program
       </div>
     </div>
     <div class="entry">
-      <div class="time"> 14:20-14:40 </div>
+      <div class="time"> 14:30-14:50 </div>
       <div class="details">
         <div class="title"> Counter Example Guided Reactive Synthesis for LTL Modulo Theories </div>
         <div class="speakers">
@@ -653,7 +661,7 @@ title: Program
       </div>
     </div>
     <div class="entry">
-      <div class="time"> 14:40-15:00 </div>
+      <div class="time"> 14:50-15:10 </div>
       <div class="details">
         <div class="title"> Automatic Synthesis of Smooth Infinite Horizon Paths Satisfying Linear Temporal Logic Specifications </div>
         <div class="speakers">
@@ -661,7 +669,7 @@ title: Program
       </div>
     </div>
     <div class="entry">
-      <div class="time"> 15:00-15:20 </div>
+      <div class="time"> 15:10-15:30 </div>
       <div class="details">
         <div class="title"> Full LTL Synthesis over Infinite-state Arenas </div>
         <div class="speakers">
@@ -669,7 +677,7 @@ title: Program
       </div>
     </div>
     <div class="entry">
-      <div class="time"> 15:20-15:30 </div>
+      <div class="time"> 15:30-15:40 </div>
       <div class="details">
         <div class="title"> Issy: A Comprehensive Tool for Specification and Synthesis of Infinite-State Reactive Systems </div>
         <div class="speakers">

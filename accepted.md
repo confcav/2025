@@ -175,7 +175,7 @@ Tianhao Wei, Hanjiang Hu (Carnegie Mellon University); Luca Marzari (University 
 Adwait Godbole (University of California, Berkeley); Brian Huffman (Intel Labs); Fangfei Liu (Intel); Carlos V Rozas (Intel Labs); Sanjit A. Seshia (University of California, Berkeley) </font>
 
 * Extending AALpy with Passive Learning: A Generalized State-Merging Approach <font size="2"> <br>
-Benjamin von Berg, Bernhard Aichernig (TU Graz) </font>
+Benjamin von Berg (TU Graz), Bernhard Aichernig (TU Graz and Johannes Kepler University Linz) </font>
 
 * The Vampire Diary <font size="2"> <br>
 Filip Bartek (Czech Technical University in Prague); Ahmed Bhayat (University of Manchester); Robin Coutelier, Marton Hajdu, Matthias Hetzenberger (TU Wien); Petra Hozzova (Czech Technical University in Prague); Laura Kovacs, Jakob Rath (TU Wien); Michael Rawson (University of Southampton); Giles Reger (The University of Manchester); Martin Suda (Czech Technical University in Prague); Johannes Schoisswohl (TU Wien); Andrei Voronkov (The University of Manchester) </font>

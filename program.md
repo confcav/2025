@@ -329,7 +329,7 @@ title: Program
       <div class="details">
         <div class="title">Extending AALpy with Passive Learning: A Generalized State-Merging Approach</div>
         <div class="speakers">
-        Benjamin von Berg, Bernhard Aichernig (TU Graz)
+        Benjamin von Berg (TU Graz), Bernhard Aichernig (TU Graz and Johannes Kepler University Linz)
         </div>
       </div>
     </div>

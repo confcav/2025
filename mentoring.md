@@ -36,10 +36,11 @@ Deadline for applications: ~~May 2, 2025~~
 **Abstract:** TBA <br>
 
 #### Panelists
-[Tom Henzinger](https://pub.ista.ac.at/~tah/), (IST Austria) <br>
+[Chana Weil-Kennedy](https://chana-wk.github.io/), CEA List <br>
+[Damien Zufferey](https://dzufferey.github.io/), Sonar Source <br>
 [Daniel Kröning](https://www.kroening.com/), Amazon <br>
 [Rayna Dimitrova](https://raynadimitrova.github.io/), CISPA Helmholtz Center for Information Security <br>
-[Chana Weil-Kennedy](https://chana-wk.github.io/), CEA List
+[Tom Henzinger](https://pub.ista.ac.at/~tah/), IST Austria
 
 #### Organizers
 [Grigory Fedyukovich (chair)](mailto:grigory@cs.fsu.edu), Florida State University <br>

@@ -139,7 +139,7 @@ title: Program
         </tr>
         <tr>
             <th>8:30-9:00</th>
-            <td colspan="2">Breakfast</td>
+            <td colspan="2">Breakfast (Provided)</td>
         </tr>
         <tr>
             <th>9:00-10:30</th>
@@ -147,7 +147,7 @@ title: Program
         </tr>
         <tr>
             <th>10:30-11:00</th>
-            <td colspan="2">Coffee break</td>
+            <td colspan="2">Coffee Break (Provided)</td>
         </tr>
         <tr>
             <th>11:00-12:00</th>
@@ -155,7 +155,7 @@ title: Program
         </tr>
         <tr>
             <th>12:00-14:00</th>
-            <td colspan="2">Lunch</td>
+            <td colspan="2">Lunch (Not Provided)</td>
         </tr>
         <tr>
             <th>14:00-15:30</th>
@@ -164,7 +164,7 @@ title: Program
         </tr>
         <tr>
             <th>15:30-16:00</th>
-            <td colspan="2" >Coffee break</td>
+            <td colspan="2" >Coffee Break (Provided)</td>
         </tr>
         <tr>
             <th>16:00-17:30</th>
@@ -417,7 +417,7 @@ title: Program
     </tr>
     <tr>
         <th>8:30-9:00</th>
-        <td colspan="2" >Breakfast</td>
+        <td colspan="2" >Breakfast (Provided)</td>
     </tr>
     <tr>
         <th>9:00-10:30</th>
@@ -426,7 +426,7 @@ title: Program
     </tr>
     <tr>
         <th>10:30-11:00</th>
-        <td colspan="2" >Coffee break</td>
+        <td colspan="2" >Coffee Break (Provided)</td>
     </tr>
     <tr>
         <th>11:00-12:00</th>
@@ -434,7 +434,7 @@ title: Program
     </tr>
     <tr>
         <th>12:00-14:00</th>
-        <td colspan="2" >Lunch</td>
+        <td colspan="2" >Lunch (Not Provided)</td>
     </tr>
     <tr>
         <th>14:00-15:40</th>
@@ -443,7 +443,7 @@ title: Program
     </tr>
     <tr>
         <th>15:40-16:00</th>
-        <td colspan="2" >Coffee break</td>
+        <td colspan="2" >Coffee Break (Provided)</td>
     </tr>
     <tr>
         <th>16:00-17:30</th>
@@ -782,7 +782,7 @@ title: Program
     </tr>
     <tr>
         <th>8:30-9:00</th>
-        <td colspan="2" >Breakfast</td>
+        <td colspan="2" >Breakfast (Provided)</td>
     </tr>
     <tr>
         <th>9:00-10:30</th>
@@ -791,7 +791,7 @@ title: Program
     </tr>
     <tr>
         <th>10:30-11:00</th>
-        <td colspan="2" >Coffee break</td>
+        <td colspan="2" >Coffee Break (Provided)</td>
     </tr>
     <tr>
         <th>11:00-12:00</th>
@@ -803,7 +803,7 @@ title: Program
     </tr>
     <tr>
         <th>13:00-14:00</th>
-        <td colspan="2">Lunch</td>
+        <td colspan="2">Lunch (Not Provided)</td>
     </tr>
     <tr>
         <th>14:30-15:30</th>
@@ -812,7 +812,7 @@ title: Program
     </tr>
     <tr>
         <th>15:30-16:00</th>
-        <td colspan="2" >Coffee break</td>
+        <td colspan="2" >Coffee Break (Provided)</td>
     </tr>
     <tr>
         <th>16:00-17:30</th>

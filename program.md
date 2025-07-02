@@ -939,6 +939,19 @@ title: Program
 </div>
 
 <div class="gray-box">
+    <h4 id="logic-lounge">12:00-13:00 LogicLounge  <br> </h4>
+    <b>Room: TBD</b><br>
+    <div class="entry">
+      <div class="time"> 11:00-12:00 </div>
+      <div class="details">
+        <div class="title"> Are AI minds genuine minds? </div>
+        <div class="speakers">
+            Moshe Y. Vardi (Rice University) and Henry Shevlin (University of Cambridge)  </div>
+      </div>
+    </div>
+</div>
+
+<div class="gray-box">
     <h4 id="quantum-computing">14:30-15:30 Quantum Computing</h4>
     <b>Room: A</b><br>
     <b>Session Chair: TBD</b>

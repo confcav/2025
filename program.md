@@ -799,7 +799,7 @@ title: Program
     </tr>
     <tr>
         <th>12:00-13:00</th>
-        <td colspan="2"><a href"=logic-lounge">LogicLounge</a></td>
+        <td colspan="2"><a href="#logic-lounge">LogicLounge</a></td>
     </tr>
     <tr>
         <th>13:00-14:00</th>

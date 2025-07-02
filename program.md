@@ -799,8 +799,7 @@ title: Program
     </tr>
     <tr>
         <th>12:00-13:00</th>
-        <td colspan="2">LogicLounge: Are AI minds genuine minds? <br>
-            Moshe Y. Vardi (Rice University) and Henry Shevlin (University of Cambridge)</td>
+        <td colspan="2"><a href"=logic-lounge">LogicLounge</a></td>
     </tr>
     <tr>
         <th>13:00-14:00</th>
@@ -942,7 +941,7 @@ title: Program
     <h4 id="logic-lounge">12:00-13:00 LogicLounge  <br> </h4>
     <b>Room: TBD</b><br>
     <div class="entry">
-      <div class="time"> 11:00-12:00 </div>
+      <div class="time"> 12:00-13:00 </div>
       <div class="details">
         <div class="title"> Are AI minds genuine minds? </div>
         <div class="speakers">

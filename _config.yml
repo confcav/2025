@@ -55,7 +55,7 @@ navbar-links:
 title-img: /assets/img/CAV_Logo.png
 
 # This controls the icon on the browser tab
- favicon: "/favicon.ico"
+ favicon: /favicon.ico
 
 #####################################
 # --- Footer social media links --- #

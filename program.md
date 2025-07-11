@@ -65,29 +65,79 @@ title: Program
 
 ### July 23rd (Wednesday)
 <style>
-    .schedule {
+    .schedule_fri {
         text-align: center;
     }
-    .schedule th {
+    .schedule_fri th {
         word-wrap: break-word;
         text-align: center;
     }
-    .schedule td {
+    .schedule_fri td {
         word-wrap: break-word;
         text-align: center;
     }
-    .schedule tr:nth-child(1) { background: white; }
-    .schedule tr:nth-child(2) { background: white; }
-    .schedule tr:nth-child(3) { background: orange; }
-    .schedule tr:nth-child(4) { background: white; }
-    .schedule tr:nth-child(5) { background: orange; }
-    .schedule tr:nth-child(6) { background: white; }
-    .schedule tr:nth-child(7) { background: yellow; }
-    .schedule tr:nth-child(8) { background: white; }
-    .schedule tr:nth-child(9) { background: yellow; }
-    .schedule tr:nth-child(10) { background: white; }
-    .schedule tr:nth-child(11) { background: pink; }
-    .schedule tr:nth-child(12) { background: green; }
+    .schedule_fri tr:nth-child(1) { background: white; }
+    .schedule_fri tr:nth-child(2) { background: white; }
+    .schedule_fri tr:nth-child(3) { background: yellow; }
+    .schedule_fri tr:nth-child(4) { background: white; }
+    .schedule_fri tr:nth-child(5) { background: orange; }
+    .schedule_fri tr:nth-child(6) { background: orange; }
+    .schedule_fri tr:nth-child(7) { background: white; }
+    .schedule_fri tr:nth-child(8) { background: yellow; }
+    .schedule_fri tr:nth-child(9) { background: white; }
+    .schedule_fri tr:nth-child(10) { background: yellow; }
+    .schedule_fri tr:nth-child(11) { background: white; }
+    .schedule_fri tr:nth-child(12) { background: pink; }
+</style>
+<style>
+    .schedule_thur {
+        text-align: center;
+    }
+    .schedule_thur th {
+        word-wrap: break-word;
+        text-align: center;
+    }
+    .schedule_thur td {
+        word-wrap: break-word;
+        text-align: center;
+    }
+    .schedule_thur tr:nth-child(1) { background: white; }
+    .schedule_thur tr:nth-child(2) { background: white; }
+    .schedule_thur tr:nth-child(3) { background: yellow; }
+    .schedule_thur tr:nth-child(4) { background: white; }
+    .schedule_thur tr:nth-child(5) { background: orange; }
+    .schedule_thur tr:nth-child(6) { background: white; }
+    .schedule_thur tr:nth-child(7) { background: yellow; }
+    .schedule_thur tr:nth-child(8) { background: white; }
+    .schedule_thur tr:nth-child(9) { background: yellow; }
+    .schedule_thur tr:nth-child(10) { background: white; }
+    .schedule_thur tr:nth-child(11) { background: green; }
+</style>
+
+<style>
+    .schedule_wed {
+        text-align: center;
+    }
+    .schedule_wed th {
+        word-wrap: break-word;
+        text-align: center;
+    }
+    .schedule_wed td {
+        word-wrap: break-word;
+        text-align: center;
+    }
+    .schedule_wed tr:nth-child(1) { background: white; }
+    .schedule_wed tr:nth-child(2) { background: white; }
+    .schedule_wed tr:nth-child(3) { background: orange; }
+    .schedule_wed tr:nth-child(4) { background: white; }
+    .schedule_wed tr:nth-child(5) { background: orange; }
+    .schedule_wed tr:nth-child(6) { background: white; }
+    .schedule_wed tr:nth-child(7) { background: yellow; }
+    .schedule_wed tr:nth-child(8) { background: white; }
+    .schedule_wed tr:nth-child(9) { background: yellow; }
+    .schedule_wed tr:nth-child(10) { background: white; }
+    .schedule_wed tr:nth-child(11) { background: pink; }
+    .schedule_wed tr:nth-child(12) { background: green; }
 </style>
 
 <style>
@@ -130,7 +180,7 @@ title: Program
     }
 </style>
 
-<div class="schedule">
+<div class="schedule_wed">
     <table>
         <tr>
             <th>Time</th>
@@ -407,7 +457,7 @@ title: Program
 </div>
 
 ### July 24th (Thursday)
-<div class="schedule">
+<div class="schedule_thur">
 
 <table>
     <tr>
@@ -772,7 +822,7 @@ title: Program
 </div>
 
 ### July 25th (Friday)
-<div class="schedule">
+<div class="schedule_fri">
 
 <table>
     <tr>

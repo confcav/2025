@@ -194,11 +194,11 @@ title: Program
         </tr>
         <tr>
             <th>9:00-9:30</th>
-            <td colspan="2"><a href="#opening">Opening Remarks</a></td>
+            <td colspan="2"><a href="#opening">Opening Remarks (Room A)</a></td>
         </tr>
         <tr>
             <th>9:30-10:30</th>
-            <td colspan="2"><a href="#cav-award">CAV Award Presentation</a></td>
+            <td colspan="2"><a href="#cav-award">CAV Award Presentation (Room A)</a></td>
         </tr>
         <tr>
             <th>10:30-11:00</th>
@@ -232,7 +232,7 @@ title: Program
         </tr>
         <tr>
             <th>17:45-18:45</th>
-            <td colspan="2" > Industry Panel </td>
+            <td colspan="2" > Industry Panel (Room A) </td>
         </tr>
         <tr>
             <th>19:00</th>
@@ -881,7 +881,7 @@ title: Program
     </tr>
     <tr>
         <th>12:00-13:00</th>
-        <td colspan="2"><a href="#logic-lounge">Logic Lounge</a></td>
+        <td colspan="2"><a href="#logic-lounge">Logic Lounge (Room A)</a></td>
     </tr>
     <tr>
         <th>13:00-14:00</th>
@@ -907,7 +907,7 @@ title: Program
     </tr>
     <tr>
         <th>17:45-18:45</th>
-        <td colspan="2" > Business Meeting </td>
+        <td colspan="2" > Business Meeting (Room A) </td>
     </tr>
 </table>
 </div>	

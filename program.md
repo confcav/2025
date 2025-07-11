@@ -236,7 +236,7 @@ title: Program
         </tr>
         <tr>
             <th>19:00</th>
-            <td colspan="2" > Reception </td>
+            <td colspan="2" > Reception (Panorama Room, 17th floor) </td>
         </tr>
     </table>	
 </div>
@@ -539,7 +539,7 @@ title: Program
     </tr>
     <tr>
         <th>19:00</th>
-        <td colspan="2"> Banquet </td>
+        <td colspan="2"> Banquet (restaurant Okrugljak) </td>
     </tr>
 </table>	
 

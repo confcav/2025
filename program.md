@@ -129,15 +129,16 @@ title: Program
     .schedule_wed tr:nth-child(1) { background: white; }
     .schedule_wed tr:nth-child(2) { background: white; }
     .schedule_wed tr:nth-child(3) { background: orange; }
-    .schedule_wed tr:nth-child(4) { background: white; }
-    .schedule_wed tr:nth-child(5) { background: orange; }
-    .schedule_wed tr:nth-child(6) { background: white; }
-    .schedule_wed tr:nth-child(7) { background: yellow; }
-    .schedule_wed tr:nth-child(8) { background: white; }
-    .schedule_wed tr:nth-child(9) { background: yellow; }
-    .schedule_wed tr:nth-child(10) { background: white; }
-    .schedule_wed tr:nth-child(11) { background: pink; }
-    .schedule_wed tr:nth-child(12) { background: lightgreen; }
+    .schedule_wed tr:nth-child(4) { background: orange; }
+    .schedule_wed tr:nth-child(5) { background: white; }
+    .schedule_wed tr:nth-child(6) { background: orange; }
+    .schedule_wed tr:nth-child(7) { background: white; }
+    .schedule_wed tr:nth-child(8) { background: yellow; }
+    .schedule_wed tr:nth-child(9) { background: white; }
+    .schedule_wed tr:nth-child(10) { background: yellow; }
+    .schedule_wed tr:nth-child(11) { background: white; }
+    .schedule_wed tr:nth-child(12) { background: pink; }
+    .schedule_wed tr:nth-child(13) { background: lightgreen; }
 </style>
 
 <style>
@@ -192,8 +193,12 @@ title: Program
             <td colspan="2">Breakfast (Provided)</td>
         </tr>
         <tr>
-            <th>9:00-10:30</th>
-            <td colspan="2">Opening Remarks; CAV Award</td>
+            <th>9:00-9:30</th>
+            <td colspan="2">Opening Remarks</td>
+        </tr>
+        <tr>
+            <th>9:30-10:30</th>
+            <td colspan="2">CAV Award</td>
         </tr>
         <tr>
             <th>10:30-11:00</th>
@@ -234,6 +239,34 @@ title: Program
             <td colspan="2" > Reception </td>
         </tr>
     </table>	
+</div>
+
+<div class="gray-box">
+    <h4>9:00-9:30 Opening Remarks </h4>
+    <b>Room: A</b><br>
+    <div class="entry">
+      <div class="time"> 9:00-9:30 </div>
+      <div class="details">
+        <div class="title"> Opening Remarks </div>
+        <div class="speakers">
+            [Ruzica Piskac](http://www.cs.yale.edu/homes/piskac/), Yale and [Zvonimir Rakamaric](https://zvonimir.github.io/), Amazon Web Services
+             </div>
+      </div>
+    </div>
+</div>
+
+<div class="gray-box">
+    <h4>9:30-10:30 CAV Award </h4>
+    <b>Room: A</b><br>
+    <div class="entry">
+      <div class="time"> 9:30-10:30 </div>
+      <div class="details">
+        <div class="title"> CAV Award </div>
+        <div class="speakers">
+            <a href="https://conferences.i-cav.org/2025/award/">Link for details</a>
+             </div>
+      </div>
+    </div>
 </div>
 
 <div class="gray-box">

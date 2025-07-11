@@ -657,6 +657,7 @@ title: Program
 <div class="gray-box">
     <h4 id="keynote-thursday">11:00-12:00 Keynote </h4>
     <b>Room: A</b><br>
+    <b>Session Chair: Bernd Finkbeiner</b>
     <div class="entry">
       <div class="time"> 11:00-12:00 </div>
       <div class="details">

@@ -249,7 +249,7 @@ title: Program
       <div class="details">
         <div class="title"> Opening Remarks </div>
         <div class="speakers">
-            <a href="http://www.cs.yale.edu/homes/piskac/">Ruzica Piskac</a>, Yale and <a href="https://zvonimir.github.io/">Zvonimir Rakamaric</a>, Amazon Web Services
+            <a href="http://www.cs.yale.edu/homes/piskac/">Ruzica Piskac</a>, Yale ; <a href="https://zvonimir.github.io/">Zvonimir Rakamaric</a>, Amazon Web Services
              </div>
       </div>
     </div>
@@ -261,9 +261,8 @@ title: Program
     <div class="entry">
       <div class="time"> 9:30-10:30 </div>
       <div class="details">
-        <div class="title"> CAV Award Presentation </div>
+        <div class="title"><a href="https://conferences.i-cav.org/2025/award/"> CAV Award Presentation </a> </div>
         <div class="speakers">
-            <a href="https://conferences.i-cav.org/2025/award/">Link for details</a>
              </div>
       </div>
     </div>

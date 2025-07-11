@@ -202,7 +202,7 @@ title: Program
 <div class="gray-box">
     <h4 id="hardware-model-checking">14:00-15:30 Hardware Model Checking</h4>
     <b>Room: A</b><br>
-    <b>Session Chair: TBD</b>
+    <b>Session Chair: Natasha Sharygina</b>
     <div class="entry">
       <div class="time">14:00-14:20</div>
       <div class="details">
@@ -249,7 +249,7 @@ title: Program
 <div class="gray-box">
     <h4 id="probabilistic-reasoning-i">14:00-15:30 Probabilistic Reasoning I</h4>
     <b>Room: B</b><br>
-    <b>Session Chair: TBD</b>
+    <b>Session Chair: Anne-Kathrin Schmuck</b>
     <div class="entry">
       <div class="time">14:00-14:20</div>
       <div class="details">
@@ -296,7 +296,7 @@ title: Program
 <div class="gray-box">
     <h4 id="synthesis-and-learning">16:00-17:30 Synthesis and Learning</h4>
     <b>Room: A</b><br>
-    <b>Session Chair: TBD</b>
+    <b>Session Chair: Mark Santolucito</b>
     <div class="entry">
       <div class="time">16:00-16:20</div>
       <div class="details">
@@ -357,7 +357,7 @@ title: Program
 <div class="gray-box">
     <h4 id="concurrency-and-runtime">16:00-17:30 Concurrency and Runtime Verification</h4>
     <b>Room: B</b><br>
-    <b>Session Chair: TBD</b>
+    <b>Session Chair: Ahmed Bouajjani</b>
     <div class="entry">
       <div class="time">16:00-16:20</div>
       <div class="details">
@@ -465,7 +465,7 @@ title: Program
 <div class="gray-box">
     <h4 id="neural-networks">9:00-10:30 Neural Networks</h4>
     <b>Room: A</b><br>
-    <b>Session Chair: TBD</b>
+    <b>Session Chair: Corina Pasareanu</b>
     <div class="entry">
       <div class="time"> 9:00-9:20 </div>
       <div class="details">
@@ -520,7 +520,7 @@ title: Program
 <div class="gray-box">
     <h4 id="models-and-fol">9:00-10:30 Model Counting and First-Order Logic</h4>
     <b>Room: B</b><br>
-    <b>Session Chair: TBD</b>
+    <b>Session Chair: Clark Barrett</b>
     <div class="entry">
       <div class="time"> 9:00-9:20 </div>
       <div class="details">
@@ -588,7 +588,7 @@ title: Program
 <div class="gray-box">
     <h4 id="data-structures">14:00-15:30 Data Structures</h4>
     <b>Room: A</b><br>
-    <b>Session Chair: TBD</b>
+    <b>Session Chair: Grigory Fedyukovich</b>
     <div class="entry">
       <div class="time"> 14:00-14:20 </div>
       <div class="details">
@@ -635,7 +635,7 @@ title: Program
 <div class="gray-box">
     <h4 id="reactive-synthesis">14:00-15:40 Reactive Synthesis</h4>
     <b>Room: B</b><br>
-    <b>Session Chair: TBD</b>
+    <b>Session Chair: Barbara Jobstmann</b>
     <div class="entry">
       <div class="time"> 14:00-14:10 </div>
       <div class="details">
@@ -688,7 +688,7 @@ title: Program
 <div class="gray-box">
     <h4 id="cryptography-and-security">16:00-17:30 Cryptography and Security</h4>
     <b>Room: A</b><br>
-    <b>Session Chair: TBD</b>
+    <b>Session Chair: Borzoo Bonakdarpour</b>
     <div class="entry">
       <div class="time"> 16:00-16:20 </div>
       <div class="details">
@@ -727,7 +727,7 @@ title: Program
 <div class="gray-box">
     <h4 id="model-checking">16:00-17:30 Model Checking</h4>
     <b>Room: B</b><br>
-    <b>Session Chair: TBD</b>
+    <b>Session Chair: Alessandro Cimatti</b>
     <div class="entry">
       <div class="time"> 16:00-16:20 </div>
       <div class="details">
@@ -833,7 +833,7 @@ title: Program
 <div class="gray-box">
     <h4 id="decision-procedures">9:00-10:30 Decision Procedures</h4>
     <b>Room: A</b><br>
-    <b>Session Chair: TBD</b>
+    <b>Session Chair: Thomas Wies</b>
     <div class="entry">
       <div class="time"> 9:00-9:20 </div>
       <div class="details">
@@ -880,7 +880,7 @@ title: Program
 <div class="gray-box">
     <h4 id="mdps-and-probabilistic">9:00-10:30 MDPs and Probabilistic Reasoning</h4>
     <b>Room: B</b><br>
-    <b>Session Chair: TBD</b>
+    <b>Session Chair: Joost-Pieter Katoen</b>
     <div class="entry">
       <div class="time"> 9:00-9:20 </div>
       <div class="details">
@@ -953,7 +953,7 @@ title: Program
 <div class="gray-box">
     <h4 id="quantum-computing">14:30-15:30 Quantum Computing</h4>
     <b>Room: A</b><br>
-    <b>Session Chair: TBD</b>
+    <b>Session Chair: Yu-Fang Chen</b>
     <div class="entry">
       <div class="time"> 14:30-14:50 </div>
       <div class="details">
@@ -984,7 +984,7 @@ title: Program
 <div class="gray-box">
     <h4 id="probabilistic-reasoning-ii">14:30-15:30 Probabilistic Reasoning II</h4>
     <b>Room: B</b><br>
-    <b>Session Chair: TBD</b>
+    <b>Session Chair: Djordje Zikelic</b>
     <div class="entry">
       <div class="time"> 14:30-14:50 </div>
       <div class="details">
@@ -1015,7 +1015,7 @@ title: Program
 <div class="gray-box">
     <h4 id="applications">16:00-17:30 Applications</h4>
     <b>Room: A</b><br>
-    <b>Session Chair: TBD</b>
+    <b>Session Chair: Stefan Leue</b>
     <div class="entry">
       <div class="time"> 16:00-16:20 </div>
       <div class="details">
@@ -1070,7 +1070,7 @@ title: Program
 <div class="gray-box">
     <h4 id="networks-and-protocols">16:00-17:30 Networks and Protocols</h4>
     <b>Room: B</b><br>
-    <b>Session Chair: TBD</b>
+    <b>Session Chair: Kedar Namjoshi</b>
     <div class="entry">
       <div class="time"> 16:00-16:20 </div>
       <div class="details">

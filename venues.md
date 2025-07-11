@@ -10,6 +10,6 @@ Workshops Venue - [Building D of the Faculty of Electrical Engineering and Compu
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5563.0873365271955!2d15.971377299999999!3d45.8003692!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4765d6f150cf2ccd%3A0x739e5c279fd98531!2sFaculty%20of%20Electrical%20Engineering%20and%20Computing!5e0!3m2!1sen!2sus!4v1743628327445!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-For a detailed view of the workshops venue, including the pointer to the main entrance from Vukovarska street, as well as the locations of coffee breaks on the ground floot (and breakfast) and the lunch restaurant, please see below.
+For a detailed view of the workshops venue, including the pointer to the main entrance from Vukovarska street, as well as the locations of coffee breaks on the ground floor (and breakfast) and the lunch restaurant, please see below.
 
 <img src="https://conferences.i-cav.org/2025/assets/img/Google-Maps-FER-entrance.jpg" alt="FER Map" width="1500" class="center">

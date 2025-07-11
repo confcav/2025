@@ -111,7 +111,7 @@ title: Program
     .schedule_thur tr:nth-child(8) { background: white; }
     .schedule_thur tr:nth-child(9) { background: yellow; }
     .schedule_thur tr:nth-child(10) { background: white; }
-    .schedule_thur tr:nth-child(11) { background: green; }
+    .schedule_thur tr:nth-child(11) { background: lightgreen; }
 </style>
 
 <style>
@@ -137,7 +137,7 @@ title: Program
     .schedule_wed tr:nth-child(9) { background: yellow; }
     .schedule_wed tr:nth-child(10) { background: white; }
     .schedule_wed tr:nth-child(11) { background: pink; }
-    .schedule_wed tr:nth-child(12) { background: green; }
+    .schedule_wed tr:nth-child(12) { background: LightGreen; }
 </style>
 
 <style>

@@ -137,7 +137,7 @@ title: Program
     .schedule_wed tr:nth-child(9) { background: yellow; }
     .schedule_wed tr:nth-child(10) { background: white; }
     .schedule_wed tr:nth-child(11) { background: pink; }
-    .schedule_wed tr:nth-child(12) { background: LightGreen; }
+    .schedule_wed tr:nth-child(12) { background: lightgreen; }
 </style>
 
 <style>

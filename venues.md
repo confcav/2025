@@ -12,4 +12,4 @@ Workshops Venue - [Building D of the Faculty of Electrical Engineering and Compu
 
 For a detailed view of the workshops venue, including the pointer to the main entrance from Vukovarska street, as well as the locations of coffee breaks on the ground floot (and breakfast) and the lunch restaurant, please see below.
 
-<img src="https://conferences.i-cav.org/2025/assets/img/Google-Maps-FER-entrance.jpg" alt="FER Map" width="1000" class="center">
+<img src="https://conferences.i-cav.org/2025/assets/img/Google-Maps-FER-entrance.jpg" alt="FER Map" width="1500" class="center">

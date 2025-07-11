@@ -269,7 +269,7 @@ title: Program
 </div>
 
 <div class="gray-box">
-    <h4 id="keynote-wednesday">11:00-12:00 Keynote </h4>
+    <h4 id="keynote-wednesday">11:00-12:00 Keynote - Corina Păsăreanu </h4>
     <b>Room: A</b><br>
     <b> Session Chair: Ruzica Piskac </b>
     <div class="entry">
@@ -656,7 +656,7 @@ title: Program
 </div>
 
 <div class="gray-box">
-    <h4 id="keynote-thursday">11:00-12:00 Keynote </h4>
+    <h4 id="keynote-thursday">11:00-12:00 Keynote - Roderick Bloem </h4>
     <b>Room: A</b><br>
     <b>Session Chair: Bernd Finkbeiner</b>
     <div class="entry">
@@ -1009,7 +1009,7 @@ title: Program
 </div>
 
 <div class="gray-box">
-    <h4 id="keynote-friday">11:00-12:00 Keynote </h4>
+    <h4 id="keynote-friday">11:00-12:00 Keynote - Emina Torlak </h4>
     <b>Room: A</b><br>
     <b> Session Chair: Zvonimir Rakamaric</b>
     <div class="entry">

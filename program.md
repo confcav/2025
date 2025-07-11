@@ -194,11 +194,11 @@ title: Program
         </tr>
         <tr>
             <th>9:00-9:30</th>
-            <td colspan="2">Opening Remarks</td>
+            <td colspan="2"><a href="#opening">Opening Remarks</a></td>
         </tr>
         <tr>
             <th>9:30-10:30</th>
-            <td colspan="2">CAV Award</td>
+            <td colspan="2"><a href="#cav-award">CAV Award Presentation</a></td>
         </tr>
         <tr>
             <th>10:30-11:00</th>
@@ -242,7 +242,7 @@ title: Program
 </div>
 
 <div class="gray-box">
-    <h4>9:00-9:30 Opening Remarks </h4>
+    <h4 id="opening">9:00-9:30 Opening Remarks </h4>
     <b>Room: A</b><br>
     <div class="entry">
       <div class="time"> 9:00-9:30 </div>
@@ -256,12 +256,12 @@ title: Program
 </div>
 
 <div class="gray-box">
-    <h4>9:30-10:30 CAV Award </h4>
+    <h4 id="cav-award">9:30-10:30 CAV Award Presentation </h4>
     <b>Room: A</b><br>
     <div class="entry">
       <div class="time"> 9:30-10:30 </div>
       <div class="details">
-        <div class="title"> CAV Award </div>
+        <div class="title"> CAV Award Presentation </div>
         <div class="speakers">
             <a href="https://conferences.i-cav.org/2025/award/">Link for details</a>
              </div>

@@ -78,7 +78,7 @@ title: Program
     }
     .schedule tr:nth-child(1) { background: white; }
     .schedule tr:nth-child(2) { background: white; }
-    .schedule tr:nth-child(3) { background: yellow; }
+    .schedule tr:nth-child(3) { background: orange; }
     .schedule tr:nth-child(4) { background: white; }
     .schedule tr:nth-child(5) { background: orange; }
     .schedule tr:nth-child(6) { background: white; }
@@ -86,8 +86,8 @@ title: Program
     .schedule tr:nth-child(8) { background: white; }
     .schedule tr:nth-child(9) { background: yellow; }
     .schedule tr:nth-child(10) { background: white; }
-    .schedule tr:nth-child(11) { background: red; }
-    .schedule tr:nth-child(12) { background: white; }
+    .schedule tr:nth-child(11) { background: pink; }
+    .schedule tr:nth-child(12) { background: green; }
 </style>
 
 <style>

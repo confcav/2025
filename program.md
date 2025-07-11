@@ -81,7 +81,7 @@ title: Program
     .schedule_fri tr:nth-child(3) { background: yellow; }
     .schedule_fri tr:nth-child(4) { background: white; }
     .schedule_fri tr:nth-child(5) { background: orange; }
-    .schedule_fri tr:nth-child(6) { background: orange; }
+    .schedule_fri tr:nth-child(6) { background: pink; }
     .schedule_fri tr:nth-child(7) { background: white; }
     .schedule_fri tr:nth-child(8) { background: yellow; }
     .schedule_fri tr:nth-child(9) { background: white; }
@@ -201,7 +201,7 @@ title: Program
         </tr>
         <tr>
             <th>11:00-12:00</th>
-            <td colspan="2"><a href="#keynote-wednesday">Keynote</a></td>
+            <td colspan="2"><a href="#keynote-wednesday">Keynote (Room A) - Corina Păsăreanu</a></td>
         </tr>
         <tr>
             <th>12:00-14:00</th>
@@ -238,7 +238,7 @@ title: Program
 
 <div class="gray-box">
     <h4 id="keynote-wednesday">11:00-12:00 Keynote </h4>
-    <b>Room: TBD</b><br>
+    <b>Room: A</b><br>
     <div class="entry">
       <div class="time"> 11:00-12:00 </div>
       <div class="details">
@@ -480,7 +480,7 @@ title: Program
     </tr>
     <tr>
         <th>11:00-12:00</th>
-        <td colspan="2"> <a href="#keynote-thursday">Keynote</a></td>
+        <td colspan="2"> <a href="#keynote-thursday">Keynote (Room A) - Roderick Bloem</a></td>
     </tr>
     <tr>
         <th>12:00-14:00</th>
@@ -624,7 +624,7 @@ title: Program
 
 <div class="gray-box">
     <h4 id="keynote-thursday">11:00-12:00 Keynote </h4>
-    <b>Room: TBD</b><br>
+    <b>Room: A</b><br>
     <div class="entry">
       <div class="time"> 11:00-12:00 </div>
       <div class="details">
@@ -845,11 +845,11 @@ title: Program
     </tr>
     <tr>
         <th>11:00-12:00</th>
-        <td colspan="2" ><a href="#keynote-friday">Keynote</a></td>
+        <td colspan="2" ><a href="#keynote-friday">Keynote (Room A) - Emina Torlak</a></td>
     </tr>
     <tr>
         <th>12:00-13:00</th>
-        <td colspan="2"><a href="#logic-lounge">LogicLounge</a></td>
+        <td colspan="2"><a href="#logic-lounge">Logic Lounge</a></td>
     </tr>
     <tr>
         <th>13:00-14:00</th>
@@ -976,7 +976,7 @@ title: Program
 
 <div class="gray-box">
     <h4 id="keynote-friday">11:00-12:00 Keynote </h4>
-    <b>Room: TBD</b><br>
+    <b>Room: A</b><br>
     <div class="entry">
       <div class="time"> 11:00-12:00 </div>
       <div class="details">
@@ -988,8 +988,8 @@ title: Program
 </div>
 
 <div class="gray-box">
-    <h4 id="logic-lounge">12:00-13:00 LogicLounge  <br> </h4>
-    <b>Room: TBD</b><br>
+    <h4 id="logic-lounge">12:00-13:00 Logic Lounge  <br> </h4>
+    <b>Room: A</b><br>
     <div class="entry">
       <div class="time"> 12:00-13:00 </div>
       <div class="details">

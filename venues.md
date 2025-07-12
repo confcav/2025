@@ -18,8 +18,9 @@ For a detailed view of the workshops venue, including the pointer to the main en
 
 #### Banquet Venue
 Due to unforeseen construction work on the tram tracks in the direction of the
-Mihaljevac station, it will not be possible to reach the [Okrugljak restaurant](https://maps.app.goo.gl/UcSTWViu3Dp4K1dQ8) by tram
-during the CAV conference.
+Mihaljevac station, it will not be possible to reach the [Okrugljak restaurant](https://maps.app.goo.gl/UcSTWViu3Dp4K1dQ8) by tram during the CAV conference.
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2826.339158357681!2d15.971411499999999!3d45.845418599999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4765d75cb08e6f91%3A0xaddc9322591216e6!2sOkrugljak!5e1!3m2!1sen!2sus!4v1752363403586!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 The easiest and most time-efficient option to reach the banquet venue from the Westin Hotel is by taxi/Uber. However, if you would prefer to use public transit instead, we also provide detailed instructions below.
 

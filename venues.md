@@ -14,7 +14,7 @@ For a detailed view of the workshops venue, including the pointer to the main en
 
 <img src="https://conferences.i-cav.org/2025/assets/img/Google-Maps-FER-entrance.jpg" alt="FER Map" width="1000" class="center">
 
-Banquet Venue:
+#### Banquet Venue:
 Due to unforeseen construction work on the tram tracks in the direction of the
 Mihaljevac station, it will not be possible to reach the Okrugljak restaurant by tram
 during the CAV conference.

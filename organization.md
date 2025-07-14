@@ -174,3 +174,91 @@ William Hallahan, Binghamton University <br>
 [Aarti Gupta](https://www.cs.princeton.edu/~aartig/), Princeton University <br>
 [Daniel Kröning](https://www.kroening.com/), Amazon <br>
 [Ken McMillan](http://mcmil.net/wordpress/), UT Austin
+
+#### ARTIFACT EVALUATION COMMITTEE
+Abdalrhman Mohamed, Stanford University <br>
+Abhishek Kr Singh, National University of Singapore <br>
+Adwait Godbole, UC Berkeley <br>
+Akshatha Shenoy, Universita della italiana lugano <br>
+Alejandro Hernández-Cerezo, Complutense University of Madrid <br>
+Ameer Hamza, Florida State University <br>
+Amit Samanta, University of Utah <br>
+Anna Becchi, Fondazione Bruno Kessler <br>
+Annelot Bosman, Universiteit Leiden <br>
+Avaljot Singh, UIUC <br>
+Avraham Raviv, Bar Ilan university <br>
+Benjamin F Jones, Amazon Web Services <br>
+Bruno Andreotti, Federal University of Minas Gerais (UFMG) <br>
+Calvin Chau, Technische Universität Dresden, Germany <br>
+Cayden Codel, Carnegie Mellon University <br>
+Chenyu Zhou, University of Southern California <br>
+Christoph Weinhuber, University of Oxford <br>
+Clara Rodríguez-Núñez, Universidad Complutense de Madrid <br>
+Daniel Ajeleye, University of Colorado, Boulder <br>
+Diptarko Roy, University of Birmingham <br>
+Ehsan Kafshdar Goharshady, Institute of Science and Technology Austria (ISTA) <br>
+Enrico Magnago, Amazon Web Services <br>
+Filip Cano, Graz University of Technology <br>
+Filip Macák, Brno University of Technology <br>
+Filipe de Arruda, Universidade Federal de Pernambuco <br>
+Florian Sextl, TU Wien <br>
+Frédéric Recoules, CEA LIST <br>
+Geunyeol Yu, Pohang University of Science and Technology (POSTECH) <br>
+Guangyu Hu, The Hong Kong University of Science and Technology <br>
+Hichem Rami Ait-El-Hara, OCamlPro and Université Paris-Saclay, CEA, List <br>
+Idan Refaeli, The Hebrew University of Jerusalem <br>
+Jacqueline Mitchell, University of Southern California <br>
+Jaime Arias, CNRS, LIPN, Université Sorbonne Paris Nord <br>
+Jiong Yang, Georgia Institute of Technology <br>
+Joseph Tafese, University of Waterloo <br>
+Kadiray Karakaya, Paderborn University <br>
+Konstantin Britikov, University of Lugano (USI) <br>
+Konstantin Kueffner, IST Austria <br>
+Leni Aniva, Stanford University <br>
+Lutz Klinkenberg, RWTH Aachen University <br>
+Mahboubeh Samadi, Tehran Institute for Advanced Studies (TeIAS) <br>
+Mahyar Karimi, Institute of Science and Technology Austria <br>
+Marek Chalupa, Institute of Science and Technology Austria <br>
+Mário Pereira, NOVA School of Science and Technology, NOVA LINCS <br>
+Mathias Fleury, University Freiburg <br>
+Matthias Heizmann (chair), University of Stuttgart <br>
+Mehrdad Karrabi, Institute of Science and Technology Austria (ISTA) <br>
+Miguel Isabel, Complutense University of Madrid <br>
+Mihai Nicola, Stevens Institute of Technology <br>
+Mihály Dobos-Kovács, Budapest University of Technology and Economics <br>
+Mikael Mayer, Amazon AWS Automated Reasoning Dafny <br>
+Muqsit Azeem, Technical University of Munich <br>
+N. Ege Saraç, Institute of Science and Technology Austria (ISTA) <br>
+Neea Rusch, Augusta University <br>
+Nicolas Koh, Princeton <br>
+Omar Inverso, Gran Sasso Science Institute <br>
+Omkar Tuppe, IIT Bombay <br>
+Omri Isac, The Hebrew University of Jerusalem <br>
+Oyendrila Dobe, Amazon Web services <br>
+Pablo Gordillo, Complutense University of Madrid <br>
+Patrick Trentin, AWS - Amazon Web Services <br>
+Pei-Wei Chen, UC Berkeley <br>
+Peixin Wang, Nanyang Technological University <br>
+Philipp Kern, Karlsruhe Institute of Technology <br>
+Pinhan Zhao, University of Michigan <br>
+Po-Chun Chien, LMU Munich; Stanford University <br>
+Rajarshi Roy, University of Oxford <br>
+Ruzica Piskac (chair), Yale <br>
+Sankalp Gambhir, EPFL, Switzerland <br>
+Sascha Klüppelholz, Technische Universität Dresden, Germany <br>
+Shantanu Kulkarni, IIT Bombay <br>
+Simon Guilloud, EPFL <br>
+Stefan Zetzsche, Amazon Web Services
+Tanja Schindler (chair), University of Basel <br>
+Timo Lang, Huawei, Ireland Research Center <br>
+Xuan Xie, University of Alberta <br>
+Yanju Chen, University of California, Santa Barbara <br>
+Yannik Schnitzer, University of Oxford <br>
+Yibo Dong, East China normal university <br>
+Yizhak Elboher, The Hebrew University of Jerusalem Israel <br>
+Yogev Shalmon, Technion & Intel <br>
+Yuning Wang, Rutgers University <br>
+Yusen Su, University of Waterloo <br>
+Zhengyang John Lu, University of Waterloo <br>
+Zhiyang Chen, University of Toronto <br>
+Zunchen Huang, CWI

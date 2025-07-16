@@ -73,23 +73,23 @@ Deadline for applications: ~~May 2, 2025~~
 #### Invited Speakers
 [Cesare Tinelli](https://homepage.cs.uiowa.edu/~tinelli/), University of Iowa <br>
 <img src="https://conferences.i-cav.org/2025/assets/img/cesare.jpg" alt="Cesare" width="200"> <br>
-A whirlwind introduction to Satisfiability Modulo Theories and its applications <br>
+**Title:** A whirlwind introduction to Satisfiability Modulo Theories and its applications <br>
 
 [Anne-Kathrin Schmuck](https://wp.mpi-sws.org/akschmuck/), Max Planck Institute for Software Systems <br>
 <img src="https://conferences.i-cav.org/2025/assets/img/akschmuck.jpg" alt="Anne-Kathrin" width="200"> <br>
-The power of feedback — in autonomous cyber-physical systems & for a successful career <br>
+**Title:** The power of feedback — in autonomous cyber-physical systems & for a successful career <br>
 
 [Sebastian Junges](https://sjunges.github.io/), Radboud University <br>
 <img src="https://conferences.i-cav.org/2025/assets/img/sebastian.jpg" alt="Sebastian" width="200"> <br>
-Hello, Probabilistic Verification <br>
+**Title:** Hello, Probabilistic Verification <br>
 
 [Roderick Bloem](https://www.iaik.tugraz.at/person/roderick-bloem/), Graz University of Technology <br>
 <img src="https://conferences.i-cav.org/2025/assets/img/Roderick-2.jpg" alt="Roderick" width="200"> <br>
-The Pursuit of a Bad Career <br>
+**Title:** The Pursuit of a Bad Career <br>
 
 [Sanjit Seshia](https://people.eecs.berkeley.edu/~sseshia/), University of California, Berkeley <br>
 <img src="https://conferences.i-cav.org/2025/assets/img/sanjit.jpg" alt="Sanjit" width="200"> <br>
-From UCLID to UCLID5: 25 Years of Integrating AI and Formal Methods <br>
+**Title:** From UCLID to UCLID5: 25 Years of Integrating AI and Formal Methods <br>
 
 #### Panelists
 [Chana Weil-Kennedy](https://chana-wk.github.io/), CEA List <br>

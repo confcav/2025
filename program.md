@@ -521,7 +521,7 @@ title: Program
     </tr>
     <tr>
         <th>13:00-14:00</th>
-        <td colspan="2" >Business meeting</td>
+        <td colspan="2" >Business Meeting</td>
     </tr>
     <tr>
         <th>14:00-15:40</th>

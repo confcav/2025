@@ -86,8 +86,7 @@ title: Program
     .schedule_fri tr:nth-child(8) { background: yellow; }
     .schedule_fri tr:nth-child(9) { background: white; }
     .schedule_fri tr:nth-child(10) { background: yellow; }
-    .schedule_fri tr:nth-child(11) { background: white; }
-    .schedule_fri tr:nth-child(12) { background: pink; }
+
 </style>
 <style>
     .schedule_thur {
@@ -107,11 +106,12 @@ title: Program
     .schedule_thur tr:nth-child(4) { background: white; }
     .schedule_thur tr:nth-child(5) { background: orange; }
     .schedule_thur tr:nth-child(6) { background: white; }
-    .schedule_thur tr:nth-child(7) { background: yellow; }
-    .schedule_thur tr:nth-child(8) { background: white; }
-    .schedule_thur tr:nth-child(9) { background: yellow; }
-    .schedule_thur tr:nth-child(10) { background: white; }
-    .schedule_thur tr:nth-child(11) { background: lightgreen; }
+    .schedule_thur tr:nth-child(7) { background: pink; }
+    .schedule_thur tr:nth-child(8) { background: yellow; }
+    .schedule_thur tr:nth-child(9) { background: white; }
+    .schedule_thur tr:nth-child(10) { background: yellow; }
+    .schedule_thur tr:nth-child(11) { background: white; }
+    .schedule_thur tr:nth-child(12) { background: lightgreen; }
 </style>
 
 <style>
@@ -516,8 +516,12 @@ title: Program
         <td colspan="2"> <a href="#keynote-thursday">Keynote (Room A) - Roderick Bloem</a></td>
     </tr>
     <tr>
-        <th>12:00-14:00</th>
+        <th>12:00-13:00</th>
         <td colspan="2" >Lunch (Not Provided)</td>
+    </tr>
+    <tr>
+        <th>13:00-14:00</th>
+        <td colspan="2" >Business meeting</td>
     </tr>
     <tr>
         <th>14:00-15:40</th>
@@ -902,14 +906,6 @@ title: Program
         <th>16:00-17:30</th>
         <th><a href="#applications">Applications</a></th>
         <th><a href="#networks-and-protocols">Networks and Protocols</a></th>
-    </tr>
-    <tr>
-        <th>17:30-17:45</th>
-        <td colspan="2" > </td>
-    </tr>
-    <tr>
-        <th>17:45-18:45</th>
-        <td colspan="2" > Business Meeting (Room A) </td>
     </tr>
 </table>
 </div>	

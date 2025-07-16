@@ -22,7 +22,7 @@ from July 21-25, 2025 in Zagreb, Croatia
 #### PROCEEDINGS ACCESS
 
 
-[Part I](https://link.springer.com/book/9783031986673)
-[Part II](https://link.springer.com/book/9783031986789)
-[Part III](https://link.springer.com/book/9783031986819)
+[Part I](https://link.springer.com/book/9783031986673)<br>
+[Part II](https://link.springer.com/book/9783031986789)<br>
+[Part III](https://link.springer.com/book/9783031986819)<br>
 [Part IV](https://link.springer.com/book/9783031986840)

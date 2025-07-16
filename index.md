@@ -18,3 +18,11 @@ from July 21-25, 2025 in Zagreb, Croatia
 * Early registration deadline: June 22, 2025
 * Workshops: July 21-22, 2025
 * Main conference: July 23-25, 2025
+
+#### PROCEEDINGS ACCESS
+
+
+[Part I](https://link.springer.com/book/9783031986673)
+[Part II](https://link.springer.com/book/9783031986789)
+[Part III](https://link.springer.com/book/9783031986819)
+[Part IV](https://link.springer.com/book/9783031986840)

@@ -543,7 +543,7 @@ title: Program
     </tr>
     <tr>
         <th>19:00</th>
-        <td colspan="2"> Banquet ([restaurant Okrugljak](https://maps.app.goo.gl/UcSTWViu3Dp4K1dQ8)) <a href="https://conferences.i-cav.org/2025/venues/">(Details)</a> </td>
+        <td colspan="2"> Banquet (<a href="https://maps.app.goo.gl/UcSTWViu3Dp4K1dQ8">restaurant Okrugljak</a>) <a href="https://conferences.i-cav.org/2025/venues/">(Details)</a> </td>
     </tr>
 </table>	
 

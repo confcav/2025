@@ -20,7 +20,7 @@ The workshop program will include a number of talks and interactive sessions. Th
     </tr>
     <tr>
         <th>8:50-9:00</th>
-        <th>Opening remarks</th>
+        <td>Opening remarks</td>
     </tr>
     <tr>
         <th>9:00-9:45</th>
@@ -36,7 +36,7 @@ The workshop program will include a number of talks and interactive sessions. Th
     </tr>
     <tr>
         <th>11:00-12:00</th>
-        <th>Roderick Bloem: The Pursuit of a Bad Career</th>
+        <td>Roderick Bloem: The Pursuit of a Bad Career</td>
     </tr>
     <tr>
         <th>12:00-14:00</th>
@@ -44,7 +44,7 @@ The workshop program will include a number of talks and interactive sessions. Th
     </tr>
     <tr>
         <th>14:00-14:45</th>
-        <th>Sebastian Junges: Hello, Probabilistic Verification</th>
+        <td>Sebastian Junges: Hello, Probabilistic Verification</td>
     </tr>
     <tr>
         <th>14:45-15:00</th>

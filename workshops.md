@@ -39,7 +39,7 @@ The following workshops will be held before the main conference. Workshops will 
 **Organizers:** [Shufang Zhu](mailto:shufang.zhu@liverpool.ac.uk), University of Liverpool; [Mark Santolucito](mailto:msantolu@barnard.edu), Columbia University <br>
 
 [12th Workshop on Horn Clauses for Verification and Synthesis (HCVS)](https://www.sci.unich.it/hcvs25/) <br>
-**Room:** D-305	(D-building, 3rd floor) <br>
+**Room:** D-260	(D-building, 3rd floor) <br>
 **Organizers:** [Emanuele De Angelis](mailto:emanuele.deangelis@iasi.cnr.it), CNR-IASI; [Florian Frohn](mailto:florian.frohn@informatik.rwth-aachen.de), RWTH Aachen <br>
 
 [Workshop on Verification of Probabilistic Programs (VeriProP)](https://veriprop.github.io/2025/) <br>

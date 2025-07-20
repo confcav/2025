@@ -516,11 +516,11 @@ title: Program
         <td colspan="2"> <a href="#keynote-thursday">Keynote (Room A) - Roderick Bloem</a></td>
     </tr>
     <tr>
-        <th>12:00-13:00</th>
+        <th>12:00-13:30</th>
         <td colspan="2" >Lunch (Not Provided)</td>
     </tr>
     <tr>
-        <th>13:00-14:00</th>
+        <th>13:30-14:00</th>
         <td colspan="2" >Business Meeting</td>
     </tr>
     <tr>

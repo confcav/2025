@@ -65,7 +65,7 @@ The workshop program will include a number of talks and interactive sessions. Th
     </tr>
 </table>
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d179.01177493435827!2d15.9772096!3d45.8131398!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4765d6fdc2523427%3A0x38ba0548d814fdc9!2sBan%20Josip%20Jela%C4%8Di%C4%87%20Square%2C%2010000%2C%20Gornji%20Grad%20-%20Medve%C5%A1%C4%8Dak%2C%20Zagreb!5e1!3m2!1sen!2shr!4v1753087095194!5m2!1sen!2shr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d179.01177493435827!2d15.9772096!3d45.8131398!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4765d6fdc2523427%3A0x38ba0548d814fdc9!2sBan%20Josip%20Jela%C4%8Di%C4%87%20Square%2C%2010000%2C%20Gornji%20Grad%20-%20Medve%C5%A1%C4%8Dak%2C%20Zagreb!5e1!3m2!1sen!2shr!4v1753087095194!5m2!1sen!2shr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe> 
 
 #### Student Travel Scholarship
 

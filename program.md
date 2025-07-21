@@ -232,7 +232,7 @@ title: Program
         </tr>
         <tr>
             <th>17:45-18:45</th>
-            <td colspan="2" > Industry Panel (Room A) </td>
+            <td colspan="2"><a href="#industry-panel"> Industry Panel - Formal Methods in the GenAI Era (Room A) </a></td>
         </tr>
         <tr>
             <th>19:00</th>
@@ -486,6 +486,20 @@ title: Program
         </div>
       </div>
     </div>
+
+  <div class="gray-box">
+    <h4 id="industry-panel">17:45-18:45 Industry Panel </h4>
+    <b>Room A</b><br>
+    <b> Moderator: Scott Shapiro, Yale Law School </b>
+    <div class="entry">
+      <div class="time"> 17:45-18:45 </div>
+      <div class="details">
+        <div class="title"> Topic: Formal Methods in the GenAI Era </div>
+        <div class="speakers">
+            Panelists: Barbara Jobstmann, Cadence Design Systems; Bardh Hoxha, Toyota Motor North America; Daniel Kroening, Amazon; Felix Klein, QBayLogic B.V.; Filip Niksic, Google; Mark Santolucito, Ndea </div>
+      </div>
+    </div>
+</div>
 
 </div>
 

@@ -47,7 +47,7 @@ The workshop program will include a number of talks and interactive sessions. Th
         <td>Sebastian Junges: Hello, Probabilistic Verification</td>
     </tr>
     <tr>
-        <th>14:45-15:00</th>
+        <th>14:45-15:30</th>
         <td>Sanjit Seshia: From UCLID to UCLID5: 25 Years of Integrating AI and Formal Methods </td>
     </tr>
     <tr>

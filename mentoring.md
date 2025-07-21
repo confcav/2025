@@ -93,7 +93,7 @@ Deadline for applications: ~~May 2, 2025~~
 
 #### Panelists
 [Chana Weil-Kennedy](https://chana-wk.github.io/), CEA List <br>
-[Damien Zufferey](https://dzufferey.github.io/), Sonar Source <br>
+[Damien Zufferey](https://dzufferey.github.io/), NVIDIA <br>
 [Daniel Kröning](https://www.kroening.com/), Amazon <br>
 [Rayna Dimitrova](https://raynadimitrova.github.io/), CISPA Helmholtz Center for Information Security <br>
 [Tom Henzinger](https://pub.ista.ac.at/~tah/), IST Austria

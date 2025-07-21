@@ -27,7 +27,7 @@ title: Program
             <th><a href="https://www.tacps.org/">International Workshop on Trustworthy Cyber-Physical Systems (TACPS)</a></th>
         </tr>
         <tr>
-            <th><a href="https://hyperworkshop25.cispa.io/">Workshop on Hyperproperties: Advances in Theory and Applications (HYPER)</a></th>
+            <th><a href="https://hyperworkshop25.github.io">Workshop on Hyperproperties: Advances in Theory and Applications (HYPER)</a></th>
         </tr>
         <tr>
             <th><a href="https://thomaswahl.github.io/EAE-Memorial-Symposium/">Allen Emerson Memorial</a></th>

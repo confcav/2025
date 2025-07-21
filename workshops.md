@@ -17,7 +17,7 @@ The following workshops will be held before the main conference. Workshops will 
 **Room:** D-273	(D-building, 2nd floor) <br>
 **Organizers:** [Xi (James) Zheng](mailto:james.zheng@mq.edu.au), Macquarie University; [Ivan Ruchkin](mailto:iruchkin@ece.ufl.edu), University of Florida; [Ziyang Li](mailto:liby99@seas.upenn.edu), University of Pennsylvania <br>
 
-[Workshop on Hyperproperties: Advances in Theory and Applications (HYPER)](https://hyperworkshop25.cispa.io/) <br>
+[Workshop on Hyperproperties: Advances in Theory and Applications (HYPER)](https://hyperworkshop25.github.io) <br>
 **Room:** D-346	(D-building, 3rd floor) <br>
 **Organizers:** [Hadar Frenkel](mailto:hadar.frenkel@biu.ac.il), Bar Ilan University; [Ana Oliveira Da Costa](mailto:ana.costa@ist.ac.at), IST Austria; [Niklas Metzger](mailto:niklas.metzger@cispa.de), CISPA – Helmholtz Center for Information Security <br>
 

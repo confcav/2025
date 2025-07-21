@@ -60,7 +60,8 @@ The workshop program will include a number of talks and interactive sessions. Th
     </tr>
     <tr>
         <th>18:30-20:00</th>
-        <td>Organized walking tour in Zagreb</td>
+        <td>Organized walking tour in Zagreb, Meeting point: <a href="https://maps.app.goo.gl/daKNr89LuYDzP29q7">Trg bana Josipa Jelačića</a>
+        </td>
     </tr>
 </table>
 

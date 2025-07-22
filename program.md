@@ -486,11 +486,12 @@ title: Program
         </div>
       </div>
     </div>
-
-<div class="gray-box">
-    <h4>17:30-17:45 Break </h4>
-    <div class="entry"></div>
-</div>    
+    <div class="entry">
+      <div class="time">17:30-17:45</div>
+      <div class="details">
+        <div class="title">Break</div>
+      </div>
+    </div>
 
   <div class="gray-box">
     <h4 id="industry-panel">17:45-18:45 Industry Panel </h4>

@@ -489,17 +489,13 @@ title: Program
 </div>
 
 <div class="gray-box">
-    <h4>17:30-17:45 Break </h4>
-</div>
-
-<div class="gray-box">
     <h4 id="industry-panel">17:45-18:45 Industry Panel </h4>
     <b>Room A</b><br>
     <b> Moderator: Scott Shapiro, Yale Law School </b>
     <div class="entry">
       <div class="time"> 17:45-18:45 </div>
       <div class="details">
-        <div class="title"> Through the Looking Glass: Semantic Analysis of Neural Networks </div>
+        <div class="title"> Topic: Formal Methods in the GenAI Era </div>
         <div class="speakers">
             Panelists: Barbara Jobstmann (Cadence Design Systems); Bardh Hoxha (Toyota Motor North America); Daniel Kroening (Amazon); Felix Klein (QBayLogic B.V.); Filip Niksic (Google); Mark Santolucito (Ndea) </div>
       </div>

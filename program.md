@@ -228,7 +228,7 @@ title: Program
         </tr>
         <tr>
             <th>17:30-17:45</th>
-            <td colspan="2" > </td>
+            <td colspan="2" > Break </td>
         </tr>
         <tr>
             <th>17:45-18:45</th>
@@ -487,6 +487,10 @@ title: Program
       </div>
     </div>
 
+<div class="gray-box">
+    <h4>17:30-17:45 Break </h4>
+  </div>    
+
   <div class="gray-box">
     <h4 id="industry-panel">17:45-18:45 Industry Panel </h4>
     <b>Room A</b><br>
@@ -496,7 +500,7 @@ title: Program
       <div class="details">
         <div class="title"> Topic: Formal Methods in the GenAI Era </div>
         <div class="speakers">
-            Panelists: Barbara Jobstmann, Cadence Design Systems; Bardh Hoxha, Toyota Motor North America; Daniel Kroening, Amazon; Felix Klein, QBayLogic B.V.; Filip Niksic, Google; Mark Santolucito, Ndea </div>
+            Panelists: Barbara Jobstmann (Cadence Design Systems), Bardh Hoxha (Toyota Motor North America), Daniel Kroening (Amazon), Felix Klein (QBayLogic B.V.), Filip Niksic (Google), Mark Santolucito (Ndea) </div>
       </div>
     </div>
 </div>

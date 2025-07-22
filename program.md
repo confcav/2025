@@ -489,7 +489,7 @@ title: Program
 
 <div class="gray-box">
     <h4>17:30-17:45 Break </h4>
-    <div></div>
+    <div class="entry"></div>
 </div>    
 
   <div class="gray-box">

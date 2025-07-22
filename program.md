@@ -489,7 +489,8 @@ title: Program
 
 <div class="gray-box">
     <h4>17:30-17:45 Break </h4>
-  </div>    
+    <div></div>
+</div>    
 
   <div class="gray-box">
     <h4 id="industry-panel">17:45-18:45 Industry Panel </h4>

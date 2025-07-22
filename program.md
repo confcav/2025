@@ -501,7 +501,7 @@ title: Program
       <div class="details">
         <div class="title"> Through the Looking Glass: Semantic Analysis of Neural Networks </div>
         <div class="speakers">
-            Panelists: Barbara Jobstmann (Cadence Design Systems), Bardh Hoxha (Toyota Motor North America), Daniel Kroening (Amazon), Felix Klein (QBayLogic B.V.), Filip Niksic (Google), Mark Santolucito (Ndea) </div>
+            Panelists: Barbara Jobstmann (Cadence Design Systems); Bardh Hoxha (Toyota Motor North America); Daniel Kroening (Amazon); Felix Klein (QBayLogic B.V.); Filip Niksic (Google); Mark Santolucito (Ndea) </div>
       </div>
     </div>
 </div>

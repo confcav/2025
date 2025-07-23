@@ -26,6 +26,7 @@ navbar-links:
     - Local Info: "local"
   Accepted Papers: "accepted"
   Program: "program"
+  Logic Lounge: "logic"
   Calls:
     - Call for Papers: "cfp"
     - Call for Workshops: "cfw"

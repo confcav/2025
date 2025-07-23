@@ -314,7 +314,7 @@ title: Program
       <div class="entry">
         <div class="time">15:00-15:20</div>
         <div class="details">
-          <div class="title">Introducing Certificates to the Hardware Model Checking Competition</div>
+          <div class="title">Introducing Certificates to the Hardware Model Checking Competition (Distinguished Paper)</div>
           <div class="speakers">
             Nils Froleyks (JKU Linz), Emily Yu (Institute of Science and Technology Austria), Mathias Preiner (Stanford University), Armin Biere (University of Freiburg), Keijo Heljanko (University of Helsinki)</div>
         </div>
@@ -428,7 +428,7 @@ title: Program
         <div class="entry">
       <div class="time">17:20-17:30</div>
       <div class="details">
-        <div class="title">A Misconception-Driven Adaptive Tutor for Linear Temporal Logic</div>
+        <div class="title">A Misconception-Driven Adaptive Tutor for Linear Temporal Logic (Distinguished Paper)</div>
         <div class="speakers">
         Siddhartha Prasad (Brown University); Ben Greenman (University of Utah, USA); Tim Nelson, Shriram Krishnamurthi (Brown University) 
         </div>
@@ -656,7 +656,7 @@ title: Program
         <div class="entry">
       <div class="time"> 10:00-10:10 </div>
       <div class="details">
-        <div class="title"> The Vampire Diary </div>
+        <div class="title"> The Vampire Diary (Distinguished Paper) </div>
         <div class="speakers">
             Filip Bartek (Czech Technical University in Prague); Ahmed Bhayat (University of Manchester); Robin Coutelier, Marton Hajdu, Matthias Hetzenberger (TU Wien); Petra Hozzova (Czech Technical University in Prague); Laura Kovacs, Jakob Rath (TU Wien); Michael Rawson (University of Southampton); Giles Reger (The University of Manchester); Martin Suda (Czech Technical University in Prague); Johannes Schoisswohl (TU Wien); Andrei Voronkov (The University of Manchester)  </div>
       </div>
@@ -856,7 +856,7 @@ title: Program
     <div class="entry">
       <div class="time"> 16:50-17:00 </div>
       <div class="details">
-        <div class="title"> The rIC3 Hardware Model Checker </div>
+        <div class="title"> The rIC3 Hardware Model Checker (Distinguished Paper)</div>
         <div class="speakers">
             Yuheng Su (University of Chinese Academy of Sciences; Institute of Software, Chinese Academy of Sciences); Qiusong Yang, Yiwei Ci (Institute of Software, Chinese Academy of Sciences, Beijing, China); Tianjun Bu (University of Chinese Academy of Sciences; Institute of Software, Chinese Academy of Sciences); Ziyu Huang (Beijing Forestry University)  </div>
       </div>
@@ -1001,7 +1001,7 @@ title: Program
         <div class="entry">
       <div class="time"> 10:00-10:20 </div>
       <div class="details">
-        <div class="title"> Approximating Fixpoints of Approximated Functions </div>
+        <div class="title"> Approximating Fixpoints of Approximated Functions (Distinguished Paper) </div>
         <div class="speakers">
             Paolo Baldan (University of Padova); Sebastian Gurke (University of Duisburg-Essen, Germany); Barbara König (University of Duisburg-Essen); Tommaso Padoan (Università di Trieste); Florian Wittbold (University of Duisburg-Essen) </div>
       </div>
@@ -1090,7 +1090,7 @@ title: Program
     <div class="entry">
       <div class="time"> 14:50-15:10 </div>
       <div class="details">
-        <div class="title"> Robust Probabilistic Bisimilarity for Labelled Markov Chains </div>
+        <div class="title"> Robust Probabilistic Bisimilarity for Labelled Markov Chains (Distinguished Paper) </div>
         <div class="speakers">
              Franck van Breugel (York University); Syyeda Zainab Fatmi, Stefan Kiefer, David Parker (University of Oxford) </div>
       </div>

@@ -1,9 +1,7 @@
 ---
 layout: page
-title: Logic
+title: Logic Lounge with Moshe Y. Vardi and Henry Shevlin
 ---
-
-### Logic Lounge with Moshe Y. Vardi and Henry Shevlin
 
 Date: Friday, July 25, 2025
 Time: 12pm-1pm

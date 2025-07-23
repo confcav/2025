@@ -7,7 +7,7 @@ title: Logic Lounge
 Date: Friday, July 25, 2025
 Time: 12pm-1pm
 
-Venue: CAV 2025. Zagreb, Croatia
+Venue: CAV 2025 (Zagreb, Croatia)
 
 #### Are AI minds genuine minds?
 

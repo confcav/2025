@@ -1,5 +1,6 @@
 ---
 layout: page
+title: 
 ---
 ### Logic Lounge with Moshe Y. Vardi and Henry Shevlin
 

@@ -551,7 +551,7 @@ title: Program
         <th><a href="#model-checking">Model Checking</a></th>
     </tr>
     <tr>
-        <th>17:30-18:45</th>
+        <th>17:30-19:00</th>
         <td colspan="2" > </td>
     </tr>
     <tr>
@@ -903,7 +903,7 @@ title: Program
         <td colspan="2"><a href="#logic-lounge">Logic Lounge (Room A)</a></td>
     </tr>
     <tr>
-        <th>13:00-14:00</th>
+        <th>13:00-14:30</th>
         <td colspan="2">Lunch (Not Provided)</td>
     </tr>
     <tr>

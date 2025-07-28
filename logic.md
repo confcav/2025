@@ -27,7 +27,7 @@ The LogicLounge is hosted by the [37rd International Conference on Computer-Aide
 
 #### Sponsor
 This year's LogicLounge was kindly sponsored by [Stiftung SIC](https://jce.isec.tugraz.at/).
-[<img src="https://conferences.i-cav.org/2025/assets/img/SIC-Logo.png" alt="SIC" width="500" class="center">](https://jce.isec.tugraz.at/)
+[<img src="https://conferences.i-cav.org/2025/assets/img/SIC-Logo.png" alt="SIC" width="300" class="center">](https://jce.isec.tugraz.at/)
 
 #### About the LogicLounge series
 

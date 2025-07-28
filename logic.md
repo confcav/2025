@@ -32,5 +32,5 @@ The LogicLounge is hosted by the [37rd International Conference on Computer-Aide
 The series of [public lectures LogicLounge](https://www.vcla.at/logiclounge/) continues to bring together the general public and the experts from the fields of logic, philosophy, mathematics, computer science, and artificial intelligence. Since its inception at the [Vienna Summer of Logic](http://vsl2014.at/) in 2014 – the largest event in the history of logic – the series has since been traveling between Vienna and the venue of the [CAV](https://i-cav.org/2020/logic-lounge/) (International Conference on Computer-Aided Verification), where it has already become a regular event in honor of Prof. Helmut Veith (1971-2016).
 
 #### Sponsor
-This year's LogicLounge was kindly sponsored by [Stiftung SIC](https://jce.isec.tugraz.at/).
+This year's LogicLounge was kindly sponsored by [Stiftung SIC](https://jce.isec.tugraz.at/). <br>
 [<img src="https://conferences.i-cav.org/2025/assets/img/SIC-Logo.png" alt="SIC" width="300" class="center">](https://jce.isec.tugraz.at/)

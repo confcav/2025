@@ -4,7 +4,7 @@ title: CAV Award
 ---
 The CAV award is given annually at the CAV conference for fundamental contributions to the field of Computer-Aided Verification. 
 
-The CAV Award 2025 goes to Roy Armoni, Ilan Beer, Shoham Ben-David, Cindy Eisner, Dana Fisman, Limor Fix, John Havlicek, Avner Landver, Hiller Miller, and Moshe Vardi for fundamental contributions in designing temporal logics that led to highly successful industry-standard property-specification languages based on temporal logics such as **ForSpec**, **Sugar**, **PSL**, and **SVA**.
+The CAV Award 2025 goes to Roy Armoni, Ilan Beer, Shoham Ben-David, Cindy Eisner, Dana Fisman, Limor Fix, John Havlicek, Avner Landver, Hiller Miller, and Moshe Vardi " *for fundamental contributions in designing temporal logics that led to highly successful industry-standard property-specification languages based on temporal logics such as ForSpec, Sugar, PSL, and SVA. *"
 
 <img src="https://conferences.i-cav.org/2025/assets/img/Award_Crop.png" alt="Award1" width="750"> <br>
 

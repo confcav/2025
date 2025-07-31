@@ -2,13 +2,11 @@
 layout: page
 title: CAV Award
 ---
-The CAV award is given annually at the CAV conference for fundamental contributions to the field of Computer-Aided Verification. The CAV Award 2025 goes to:
+The CAV award is given annually at the CAV conference for fundamental contributions to the field of Computer-Aided Verification. 
 
-Roy Armoni, Ilan Beer, Shoham Ben-David, Cindy Eisner, Dana Fisman, Limor Fix, John Havlicek, Avner Landver, Hiller Miller, and Moshe Vardi
+The CAV Award 2025 goes to Roy Armoni, Ilan Beer, Shoham Ben-David, Cindy Eisner, Dana Fisman, Limor Fix, John Havlicek, Avner Landver, Hiller Miller, and Moshe Vardi for fundamental contributions in designing temporal logics that led to highly successful industry-standard property-specification languages based on temporal logics such as **ForSpec**, **Sugar**, **PSL**, and **SVA**.
 
 <img src="https://conferences.i-cav.org/2025/assets/img/Award_Crop.png" alt="Award1" width="750"> <br>
-
-<img src="https://conferences.i-cav.org/2025/assets/img/Award.png" alt="Award2" width="750">
 
 Temporal logics and automata are robust and expressive languages for formal descriptions of system requirements. They enable the use of automated or interactive verification of system properties. While the theoretical foundations of temporal logics and automata, together with model-checking algorithms, were worked out by the 1990s, the journey from these foundations to industrial practice required further breakthroughs.
  
@@ -17,6 +15,8 @@ The IBM and Intel teams developed two industrial property specification language
 The CAV Award recognizes the efforts of the industrial teams in continuing the journey from academic foundations to
 industrial adoption. Formal methods and model checking have become part of the design process in the hardware industry
 and this early work inspired many new innovations—both in expressiveness and in scalability of analysis—in subsequent years.
+
+<img src="https://conferences.i-cav.org/2025/assets/img/Award.png" alt="Award2" width="750">
 
 #### NOMINATION
 Anyone can submit a nomination. The Award Committee can originate a nomination. Anyone, with the exception of members of the Award Committee, is eligible to receive the Award. A nomination must state clearly the contribution(s), explain why the contribution is fundamental or the series of contributions is outstanding, and be accompanied by supporting letters and other evidence of worthiness. 

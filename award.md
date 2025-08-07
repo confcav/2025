@@ -6,6 +6,8 @@ The CAV award is given annually at the CAV conference for fundamental contributi
 
 The CAV Award 2025 goes to Roy Armoni, Ilan Beer, Shoham Ben-David, Cindy Eisner, Dana Fisman, Limor Fix, John Havlicek, Avner Landver, Hiller Miller, and Moshe Vardi *"for fundamental contributions in designing temporal logics that led to highly successful industry-standard property-specification languages based on temporal logics such as ForSpec, Sugar, PSL, and SVA."*
 
+Please see <a href="https://conferences.i-cav.org/2025/assets/data/cav25-vardi.pdf" download>here</a> for the slides of the talk.
+
 <img src="https://conferences.i-cav.org/2025/assets/img/Award_Crop.png" alt="Award1" width="750"> <br>
 
 Temporal logics and automata are robust and expressive languages for formal descriptions of system requirements. They enable the use of automated or interactive verification of system properties. While the theoretical foundations of temporal logics and automata, together with model-checking algorithms, were worked out by the 1990s, the journey from these foundations to industrial practice required further breakthroughs.
